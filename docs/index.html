@@ -131,6 +131,20 @@
   .ask{margin-top:8px;display:inline-flex;align-items:center;gap:6px;background:var(--chip);
     border:1px solid var(--border);border-radius:9px;padding:6px 11px;font-size:12px;color:var(--accent2);cursor:pointer}
   .ask:active{border-color:var(--accent)}
+  /* planner sources */
+  .pcard{padding:12px 14px}
+  .ptitle{font-size:14.5px;font-weight:700}
+  .pstat{font-size:10px;font-weight:800;letter-spacing:.6px;border-radius:6px;padding:2.5px 8px}
+  .pstat.ok{background:#16321f;color:var(--ok)}
+  .pstat.off{background:#1d2940;color:var(--muted)}
+  .pstat.err{background:#3d1d24;color:#ff8f8f}
+  .plist{display:grid;gap:7px;margin-top:9px}
+  .pitem{display:flex;gap:9px;align-items:flex-start;font-size:13.5px;line-height:1.45}
+  .ptime{color:var(--accent2);font-weight:700;font-size:11.5px;min-width:52px;flex-shrink:0;margin-top:1px}
+  .ptext{color:var(--text);word-break:break-word}
+  .pcard-off{opacity:.85}
+  .connhint{margin-top:9px;font-size:12.5px;color:var(--accent2);background:var(--chip);
+    border:1px dashed var(--border);border-radius:9px;padding:8px 11px;line-height:1.55}
   footer{text-align:center;color:#5b6b82;font-size:11.5px;margin-top:20px;line-height:1.6}
   .state{text-align:center;padding:60px 20px;color:var(--muted);font-size:14px;line-height:1.7}
   .spinner{width:28px;height:28px;border:3px solid var(--border);border-top-color:var(--accent);
@@ -204,6 +218,7 @@
 
   <!-- ============ PLANNER ============ -->
   <section class="view" id="view-planner">
+    <div id="plannerSources"><div class="state"><div class="spinner"></div>Loading your day…</div></div>
     <div class="filters">
       <button class="fbtn on" data-f="all">All</button>
       <button class="fbtn" data-f="active">Active</button>
@@ -266,6 +281,7 @@
     window.scrollTo(0,0);
     if(name==='news')loadIndex();
     if(name==='tools')loadTools();
+    if(name==='planner')loadPlanner();
   };
   tabs.forEach(function(t){t.addEventListener('click',function(){switchTab(t.dataset.tab);});});
 
@@ -518,7 +534,78 @@
     }
   });
 
-  document.getElementById('footer').innerHTML='Dashboard by <a href="https://github.com/nousresearch/hermes-agent" target="_blank" rel="noopener">Hermes Agent</a> · data: GitHub Pages';
+  /* ---------- planner: aggregated sources ---------- */
+  var SRC_META={
+    calendar:{icon:'📅',name:'Calendar'},
+    outlook:{icon:'📥',name:'Outlook Mail'},
+    gmail:{icon:'✉️',name:'Gmail'},
+    boards:{icon:'📋',name:'Azure Boards'}
+  };
+  var plannerLoaded=false;
+  function plannerDateKey(){var d=new Date();return d.getFullYear()+'-'+('0'+(d.getMonth()+1)).slice(-2)+'-'+('0'+d.getDate()).slice(-2);}
+  function renderPlannerSources(data){
+    var c=document.getElementById('plannerSources');
+    if(!data){c.innerHTML='<div class="state">Could not load planner data.</div>';return;}
+    var html='';
+    ['calendar','outlook','gmail','boards'].forEach(function(k){
+      var s=data.sources&&data.sources[k];if(!s)return;
+      var m=SRC_META[k];
+      if(s.status==='skipped'){
+        var note=s.note||'not connected yet';
+        html+='<div class="card pcard pcard-off"><div class="row"><div class="ptitle">'+m.icon+' '+m.name+'</div>'
+          +'<span class="pstat off">NOT CONNECTED</span></div>'
+          +'<div class="kv" style="margin-top:6px">'+esc(note)+'</div>'
+          +connectHint(k)+'</div>';
+      }else if(s.status==='error'){
+        html+='<div class="card pcard"><div class="row"><div class="ptitle">'+m.icon+' '+m.name+'</div>'
+          +'<span class="pstat err">ERROR</span></div>'
+          +'<div class="kv" style="color:var(--danger)">⚠️ '+esc((s.error||'').slice(0,120))+'</div></div>';
+      }else{
+        var items=s.items||[];
+        var label=k==='calendar'?(items.length?(items[0].allDay?'All day':items[0].start+'–'+items[0].end):'')
+          :(k==='boards'?('work items assigned to you'):(s.unread!=null?('unread: '+s.unread+' · showing '+items.length):''));
+        html+='<div class="card pcard"><div class="row"><div class="ptitle">'+m.icon+' '+m.name+'</div>'
+          +'<span class="pstat ok">'+items.length+' today</span></div>'
+          +(label?'<div class="kv" style="margin-top:4px">'+esc(label)+'</div>':'')+'<div class="plist">';
+        items.forEach(function(it){
+          if(k==='calendar'){
+            html+='<div class="pitem"><span class="ptime">'+esc(it.allDay?'all-day':(it.start||''))+'</span><span class="ptext">'+esc(it.title)
+              +(it.location?' <span class="mchip">📍 '+esc(it.location)+'</span>':'')+'</span></div>';
+          }else if(k==='boards'){
+            html+='<div class="pitem"><span class="ptime">'+esc(it.type.slice(0,3).toUpperCase())+'</span><span class="ptext">'
+              +'<a href="'+esc(it.url||'#')+'" target="_blank" rel="noopener">'+esc(it.title)+'</a> '
+              +'<span class="mchip">'+esc(it.project)+'</span> <span class="mchip">'+esc(it.state)+'</span></span></div>';
+          }else{
+            var fr=it.from?(' <span class="mchip">'+esc(it.from)+'</span>'):'';
+            html+='<div class="pitem"><span class="ptime">'+esc((it.time||'').slice(11)||it.time||'')+'</span><span class="ptext"><b>'+esc(it.subject)+'</b>'+fr+'</span></div>';
+          }
+        });
+        if(!items.length)html+='<div class="kv" style="padding:6px 0">Nothing '+((k==='calendar')?'scheduled today':'to show')+' 🎉</div>';
+        html+='</div></div>';
+      }
+    });
+    c.innerHTML=html||'<div class="state">No planner sources configured.</div>';
+    var g=data.generated?' · updated '+data.generated.slice(11,16):'';
+    document.getElementById('dashSub').textContent=g;
+  }
+  function connectHint(k){
+    var h={
+      boards:'Ask me in chat: <b>"connect boards"</b> — needs your Azure DevOps org URL + a Personal Access Token (Work Items: Read).',
+      gmail:'Ask me in chat: <b>"connect gmail"</b> — needs a Gmail App Password (myaccount.google.com → Security → 2FA → App passwords).',
+      calendar:'Ask me in chat: <b>"connect calendar"</b> — one-time Microsoft login code, ~20 seconds.',
+      outlook:'Ask me in chat: <b>"connect calendar"</b> — same Microsoft login unlocks both.'
+    };
+    return '<div class="connhint">'+h[k]+'</div>';
+  }
+  function loadPlanner(){
+    if(plannerLoaded)return;
+    plannerLoaded=true;
+    fetchJSON('planner/'+plannerDateKey()+'.json').then(renderPlannerSources)
+      .catch(function(){renderPlannerSources({sources:{boards:sk('set PLANNER_ADO_PAT'),gmail:sk('set PLANNER_GMAIL_APP_PASSWORD'),calendar:sk('run scripts/collect_planner.py to log in'),outlook:sk('same as calendar')}});});
+    function sk(n){return {status:'skipped',items:[],note:n};}
+  }
+  loadPlanner();
+
 
   /* ---------- boot ---------- */
   loadTodos(function(){migrateDaily();renderTodos();});

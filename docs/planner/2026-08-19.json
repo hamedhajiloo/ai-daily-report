@@ -1,0 +1,26 @@
+{
+ "date": "2026-08-19",
+ "generated": "2026-08-19T14:55",
+ "sources": {
+  "boards": {
+   "status": "skipped",
+   "items": [],
+   "note": "set PLANNER_ADO_ORG + PLANNER_ADO_PAT"
+  },
+  "gmail": {
+   "status": "skipped",
+   "items": [],
+   "note": "set PLANNER_GMAIL_USER + PLANNER_GMAIL_APP_PASSWORD"
+  },
+  "calendar": {
+   "status": "skipped",
+   "items": [],
+   "note": "run scripts/collect_planner.py once interactively to log in"
+  },
+  "outlook": {
+   "status": "skipped",
+   "items": [],
+   "note": "same"
+  }
+ }
+}
