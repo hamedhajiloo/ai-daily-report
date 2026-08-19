@@ -562,11 +562,14 @@
           +'<div class="kv" style="color:var(--danger)">⚠️ '+esc((s.error||'').slice(0,120))+'</div></div>';
       }else{
         var items=s.items||[];
-        var label=k==='calendar'?(items.length?(items[0].allDay?'All day':items[0].start+'–'+items[0].end):'')
-          :(k==='boards'?('work items assigned to you'):(s.unread!=null?('unread: '+s.unread+' · showing '+items.length):''));
+        var shown=items.slice(0,12);
+        var label=k==='boards'?('work items assigned to you · '+items.length+' open')
+          :(k==='calendar'?(items.length?(items[0].allDay?'All day':items[0].start+'–'+items[0].end):'')
+          :(s.unread!=null?('unread: '+s.unread+' · showing '+items.length):''));
         html+='<div class="card pcard"><div class="row"><div class="ptitle">'+m.icon+' '+m.name+'</div>'
           +'<span class="pstat ok">'+items.length+' today</span></div>'
           +(label?'<div class="kv" style="margin-top:4px">'+esc(label)+'</div>':'')+'<div class="plist">';
+        items=shown;
         items.forEach(function(it){
           if(k==='calendar'){
             html+='<div class="pitem"><span class="ptime">'+esc(it.allDay?'all-day':(it.start||''))+'</span><span class="ptext">'+esc(it.title)
@@ -581,6 +584,7 @@
           }
         });
         if(!items.length)html+='<div class="kv" style="padding:6px 0">Nothing '+((k==='calendar')?'scheduled today':'to show')+' 🎉</div>';
+        else if(s.items.length>12)html+='<div class="kv" style="padding:2px 0">+ '+(s.items.length-12)+' more…</div>';
         html+='</div></div>';
       }
     });
@@ -601,7 +605,7 @@
     if(plannerLoaded)return;
     plannerLoaded=true;
     fetchJSON('planner/'+plannerDateKey()+'.json').then(renderPlannerSources)
-      .catch(function(){renderPlannerSources({sources:{boards:sk('set PLANNER_ADO_PAT'),gmail:sk('set PLANNER_GMAIL_APP_PASSWORD'),calendar:sk('run scripts/collect_planner.py to log in'),outlook:sk('same as calendar')}});});
+      .catch(function(){renderPlannerSources({sources:{boards:sk('say "connect boards" in chat'),gmail:sk('say "connect gmail" in chat'),calendar:sk('say "connect calendar" in chat'),outlook:sk('say "connect calendar" in chat')}});});
     function sk(n){return {status:'skipped',items:[],note:n};}
   }
   loadPlanner();

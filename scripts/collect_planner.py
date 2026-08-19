@@ -20,6 +20,7 @@ import imaplib
 import json
 import os
 import pathlib
+import re
 import sys
 import time
 import urllib.error
@@ -56,51 +57,88 @@ def http(url, data=None, headers=None, method=None, timeout=25):
         return e.code, e.read().decode("utf-8", "replace"), dict(e.headers)
 
 
-# ---------------- Azure Boards ----------------
+# ---------------- Azure Boards (multi-org) ----------------
 
-def fetch_boards(env):
+def ado_configs(env):
+    """PLANNER_ADO<n>_URL (full org/project URL) + PLANNER_ADO<n>_PAT, n=1..9."""
+    cfgs = []
+    for i in range(1, 10):
+        url, pat = env.get(f"PLANNER_ADO{i}_URL", ""), env.get(f"PLANNER_ADO{i}_PAT", "")
+        if url and pat:
+            cfgs.append((url.rstrip("/"), pat))
     org = env.get("PLANNER_ADO_ORG", "").rstrip("/")
     pat = env.get("PLANNER_ADO_PAT", "")
-    projects = [p.strip() for p in env.get("PLANNER_ADO_PROJECTS", "MLK,Crystal,LandLogic").split(",") if p.strip()]
-    if not org or not pat:
-        return {"status": "skipped", "items": [], "note": "set PLANNER_ADO_ORG + PLANNER_ADO_PAT"}
-    auth = base64.b64encode((":" + pat).encode()).decode()
-    headers = {"Authorization": "Basic " + auth, "Content-Type": "application/json"}
-    org_name = org.rsplit("/", 1)[-1]
-    items = []
-    for proj in projects:
+    if org and pat:  # legacy single-org form
+        for proj in [p.strip() for p in env.get("PLANNER_ADO_PROJECTS", "").split(",") if p.strip()]:
+            cfgs.append((f"{org}/{urllib.parse.quote(proj)}", pat))
+    return cfgs
+
+
+def parse_ado_url(url):
+    m = re.match(r"https://dev\.azure\.com/([^/]+)/([^/?#]+)", url)
+    if m:
+        return f"https://dev.azure.com/{m.group(1)}", m.group(2)
+    m = re.match(r"https://([^./]+)\.visualstudio\.com/([^/?#]+)", url)
+    if m:
+        return f"https://{m.group(1)}.visualstudio.com", m.group(2)
+    return None, ""
+
+
+def fetch_boards(env):
+    cfgs = ado_configs(env)
+    if not cfgs:
+        return {"status": "skipped", "items": [], "note": "say \"connect boards\" in chat"}
+    items, errs = [], []
+    for url, pat in cfgs:
+        org, proj = parse_ado_url(url)
+        if not org:
+            errs.append(f"bad URL {url}")
+            continue
         try:
+            auth = base64.b64encode((":" + pat).encode()).decode()
+            headers = {"Authorization": "Basic " + auth, "Content-Type": "application/json"}
             wiql = json.dumps({
                 "query": "SELECT [System.Id] FROM WorkItems WHERE [System.AssignedTo] = @Me "
-                         "AND [System.State] NOT IN ('Closed','Done','Removed','Completed') "
+                         "AND [System.State] NOT IN ('Closed','Done','Removed','Completed','Resolved') "
                          "ORDER BY [System.ChangedDate] DESC"
             }).encode()
             st, body, _ = http(f"{org}/{urllib.parse.quote(proj)}/_apis/wit/wiql?api-version=7.1",
                                data=wiql, headers=headers, method="POST")
             if st != 200:
+                errs.append(f"{proj}: HTTP {st} {body[:80]}")
                 continue
             ids = [w["id"] for w in json.loads(body).get("workItems", [])][:20]
-            if not ids:
-                continue
-            st, body, _ = http(f"{org}/_apis/wit/workitems?ids={','.join(map(str, ids))}"
-                               f"&api-version=7.1", headers=headers)
-            if st != 200:
-                continue
-            for wi in json.loads(body).get("value", []):
-                f = wi.get("fields", {})
-                items.append({
-                    "project": proj,
-                    "id": wi["id"],
-                    "title": f.get("System.Title", "?"),
-                    "type": f.get("System.WorkItemType", ""),
-                    "state": f.get("System.State", ""),
-                    "priority": f.get("Microsoft.VSTS.Common.Priority", ""),
-                    "changed": (f.get("System.ChangedDate") or "")[:16].replace("T", " "),
-                    "url": f"https://dev.azure.com/{org_name}/{urllib.parse.quote(proj)}/_workitems/edit/{wi['id']}",
-                })
+            if ids:
+                st, body, _ = http(f"{org}/_apis/wit/workitems?ids={','.join(map(str, ids))}"
+                                   f"&api-version=7.1", headers=headers)
+                if st != 200:
+                    errs.append(f"{proj}: details HTTP {st}")
+                    continue
+                for wi in json.loads(body).get("value", []):
+                    f = wi.get("fields", {})
+                    items.append({
+                        "project": proj,
+                        "id": wi["id"],
+                        "title": f.get("System.Title", "?"),
+                        "type": f.get("System.WorkItemType", ""),
+                        "state": f.get("System.State", ""),
+                        "priority": f.get("Microsoft.VSTS.Common.Priority", ""),
+                        "changed": (f.get("System.ChangedDate") or "")[:16].replace("T", " "),
+                        "url": f"{org}/{urllib.parse.quote(proj)}/_workitems/edit/{wi['id']}",
+                    })
         except Exception as e:
-            items.append({"project": proj, "title": f"[error: {e}]", "type": "", "state": "", "url": ""})
-    return {"status": "ok" if items or projects else "skipped", "items": items}
+            errs.append(f"{proj}: {e}")
+    if errs and not items:
+        return {"status": "error", "items": [], "error": "; ".join(errs)[:200]}
+    # dedupe (same org+id can appear via multiple project URLs, e.g. renamed projects)
+    seen, uniq = set(), []
+    for it in items:
+        key = (it["url"].split("/_workitems")[0], it["id"])
+        if key not in seen:
+            seen.add(key)
+            uniq.append(it)
+    uniq.sort(key=lambda i: i.get("changed", ""), reverse=True)
+    return {"status": "ok", "items": uniq[:30]}
 
 
 # ---------------- Gmail ----------------

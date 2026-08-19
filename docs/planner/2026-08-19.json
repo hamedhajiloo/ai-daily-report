@@ -1,11 +1,311 @@
 {
  "date": "2026-08-19",
- "generated": "2026-08-19T14:55",
+ "generated": "2026-08-19T15:05",
  "sources": {
   "boards": {
-   "status": "skipped",
-   "items": [],
-   "note": "set PLANNER_ADO_ORG + PLANNER_ADO_PAT"
+   "status": "ok",
+   "items": [
+    {
+     "project": "LandLogic",
+     "id": 24051,
+     "title": "Improve Build Time of LandLogic Projects",
+     "type": "Product Backlog Item",
+     "state": "New",
+     "priority": 2,
+     "changed": "2026-08-19 06:07",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24051"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34897,
+     "title": "\u0631\u06cc\u0648\u06cc\u0648 \u0628\u0627\u062a \u0631\u06cc\u0644\u062a\u0648\u0631 \u0633\u0627\u067e\u0648\u0631\u062a \u0627\u06cc\u062c\u0646\u062a - \u0642\u0633\u0645\u062a \u06f2",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-16 12:57",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34897"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34897,
+     "title": "\u0631\u06cc\u0648\u06cc\u0648 \u0628\u0627\u062a \u0631\u06cc\u0644\u062a\u0648\u0631 \u0633\u0627\u067e\u0648\u0631\u062a \u0627\u06cc\u062c\u0646\u062a - \u0642\u0633\u0645\u062a \u06f2",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-16 12:57",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34897"
+    },
+    {
+     "project": "LandLogic",
+     "id": 17745,
+     "title": "ANSI layer problem in platform (and other similar issues)",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 1,
+     "changed": "2026-08-15 15:52",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/17745"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24296,
+     "title": "Team Management and Planning Sprint 130",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-15 14:12",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24296"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34007,
+     "title": "\u062d\u0630\u0641 \u0641\u0627\u06cc\u0644 \u0647\u0627\u06cc certificate",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-09 09:19",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34007"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34374,
+     "title": "\u0622\u067e\u062f\u06cc\u062a \u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647 \u0647\u0627\u06cc \u0633\u0631\u0648\u06cc\u0633 \u0628\u0627\u0633",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-09 09:19",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34374"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34007,
+     "title": "\u062d\u0630\u0641 \u0641\u0627\u06cc\u0644 \u0647\u0627\u06cc certificate",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-09 09:19",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34007"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34374,
+     "title": "\u0622\u067e\u062f\u06cc\u062a \u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647 \u0647\u0627\u06cc \u0633\u0631\u0648\u06cc\u0633 \u0628\u0627\u0633",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-09 09:19",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34374"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34771,
+     "title": "Update dotnet project",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-08-08 17:55",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34771"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34771,
+     "title": "Update dotnet project",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-08-08 17:55",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34771"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24070,
+     "title": "OpenAPI: Implement MCP Infrastructure",
+     "type": "Product Backlog Item",
+     "state": "Committed",
+     "priority": 2,
+     "changed": "2026-08-08 10:39",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24070"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34924,
+     "title": "Update .NET and Aspire",
+     "type": "Test Case",
+     "state": "Ready",
+     "priority": 2,
+     "changed": "2026-08-05 14:58",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34924"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34924,
+     "title": "Update .NET and Aspire",
+     "type": "Test Case",
+     "state": "Ready",
+     "priority": 2,
+     "changed": "2026-08-05 14:58",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34924"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34925,
+     "title": "34770 : Update and add Aspire",
+     "type": "Test Suite",
+     "state": "In Progress",
+     "priority": "",
+     "changed": "2026-08-05 14:56",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34925"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34925,
+     "title": "34770 : Update and add Aspire",
+     "type": "Test Suite",
+     "state": "In Progress",
+     "priority": "",
+     "changed": "2026-08-05 14:56",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34925"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34896,
+     "title": "\u067e\u06cc\u0631 \u0628\u0627 \u0627\u0644\u0647\u0647 \u0628\u0631\u0627\u06cc \u067e\u06cc\u0627\u062f\u0647 \u0633\u0627\u0632\u06cc \u0628\u0627\u062a \u0631\u06cc\u0644\u062a\u0648\u0631 \u0633\u0627\u067e\u0648\u0631\u062a \u0627\u06cc\u062c\u0646\u062a",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-02 12:32",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34896"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34896,
+     "title": "\u067e\u06cc\u0631 \u0628\u0627 \u0627\u0644\u0647\u0647 \u0628\u0631\u0627\u06cc \u067e\u06cc\u0627\u062f\u0647 \u0633\u0627\u0632\u06cc \u0628\u0627\u062a \u0631\u06cc\u0644\u062a\u0648\u0631 \u0633\u0627\u067e\u0648\u0631\u062a \u0627\u06cc\u062c\u0646\u062a",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-02 12:32",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34896"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34712,
+     "title": "problem with listening",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 1,
+     "changed": "2026-08-01 19:22",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34712"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 33653,
+     "title": "Fix problem of select audio device on mobile",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 1,
+     "changed": "2026-08-01 19:22",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/33653"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34712,
+     "title": "problem with listening",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 1,
+     "changed": "2026-08-01 19:22",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34712"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 33653,
+     "title": "Fix problem of select audio device on mobile",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 1,
+     "changed": "2026-08-01 19:22",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/33653"
+    },
+    {
+     "project": "LandLogic",
+     "id": 23709,
+     "title": "Cottage: Share Active Listing",
+     "type": "Product Backlog Item",
+     "state": "Committed",
+     "priority": 2,
+     "changed": "2026-07-30 12:02",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/23709"
+    },
+    {
+     "project": "LandLogic",
+     "id": 23949,
+     "title": "OpenAPI: MCP Infrastructure Design",
+     "type": "Product Backlog Item",
+     "state": "Committed",
+     "priority": 2,
+     "changed": "2026-07-30 12:02",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/23949"
+    },
+    {
+     "project": "LandLogic",
+     "id": 22756,
+     "title": "Refactor Logging Mechanism",
+     "type": "Product Backlog Item",
+     "state": "Committed",
+     "priority": 2,
+     "changed": "2026-07-30 12:02",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/22756"
+    },
+    {
+     "project": "LandLogic",
+     "id": 23272,
+     "title": "Replacing SixLabors.ImageSharp with an OpenSource Alternative",
+     "type": "Product Backlog Item",
+     "state": "New",
+     "priority": 2,
+     "changed": "2026-07-30 12:02",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/23272"
+    },
+    {
+     "project": "LandLogic",
+     "id": 23265,
+     "title": "Replace Puppeteer Package and Usage with Playwright",
+     "type": "Product Backlog Item",
+     "state": "Committed",
+     "priority": 2,
+     "changed": "2026-07-30 12:02",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/23265"
+    },
+    {
+     "project": "LandLogic",
+     "id": 23061,
+     "title": "Incorrect items appear in positions 2 and 3",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-07-26 17:50",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/23061"
+    },
+    {
+     "project": "LandLogic",
+     "id": 21936,
+     "title": "When the keyboard opens the modal should shift up but most fields stay hidden",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-07-26 17:50",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/21936"
+    },
+    {
+     "project": "LandLogic",
+     "id": 21800,
+     "title": "Reordering these items to adjust their display sequence",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-07-26 17:50",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/21800"
+    }
+   ]
   },
   "gmail": {
    "status": "skipped",
