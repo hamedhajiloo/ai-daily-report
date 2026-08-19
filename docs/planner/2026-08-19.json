@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated": "2026-08-19T15:05",
+ "generated": "2026-08-19T15:24",
  "sources": {
   "boards": {
    "status": "ok",
@@ -313,14 +313,73 @@
    "note": "set PLANNER_GMAIL_USER + PLANNER_GMAIL_APP_PASSWORD"
   },
   "calendar": {
-   "status": "skipped",
-   "items": [],
-   "note": "run scripts/collect_planner.py once interactively to log in"
+   "status": "ok",
+   "items": []
   },
   "outlook": {
-   "status": "skipped",
-   "items": [],
-   "note": "same"
+   "status": "ok",
+   "items": [
+    {
+     "subject": "New sign-in detected for your Microsoft account",
+     "from": "account-security-noreply@accountprotection.microsoft.com",
+     "time": "2026-08-19 11:52"
+    },
+    {
+     "subject": "New app(s) connected to your Microsoft account",
+     "from": "account-security-noreply@accountprotection.microsoft.com",
+     "time": "2026-08-19 11:52"
+    },
+    {
+     "subject": "Azure DevOps personal access token added",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-08-19 11:32"
+    },
+    {
+     "subject": "Azure DevOps personal access token added",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-08-19 11:31"
+    },
+    {
+     "subject": "Azure DevOps personal access token added",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-08-19 11:30"
+    },
+    {
+     "subject": "Retirement notice: Transition Azure OpenAI Assistants APIs to Microsoft Foundry Agent Service by 26 August 2026",
+     "from": "azure-noreply@microsoft.com",
+     "time": "2026-08-18 18:05"
+    },
+    {
+     "subject": "[Pre-deployment approval pending] llg-postgresql-main > Release-450 : Staging",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-08-18 16:46"
+    },
+    {
+     "subject": "[Pre-deployment approval pending] llg-postgresql-main > Release-449 : Staging",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-08-18 07:27"
+    },
+    {
+     "subject": "Planning Touch Base and another event today.",
+     "from": "no-reply@microsoft.com",
+     "time": "2026-08-17 23:37"
+    },
+    {
+     "subject": "[Pre-deployment approval pending] llg-brain > Release-1172 : Prod",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-08-17 09:27"
+    },
+    {
+     "subject": "PR - #32695 Refactor People Panel Registration bot l... - melkradar 5046 (Serajoddin Aliabadi)",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-08-16 17:36"
+    },
+    {
+     "subject": "\u06f4 \u0627\u0645\u06a9\u0627\u0646 \u062c\u062f\u06cc\u062f \u062f\u0631 \u0631\u0627\u0646\u0641\u0644\u0631!",
+     "from": "support@runflare.com",
+     "time": "2026-08-16 12:53"
+    }
+   ]
   }
  }
 }

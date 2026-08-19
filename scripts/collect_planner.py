@@ -30,8 +30,8 @@ from datetime import datetime, date
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 TODAY = date.today().isoformat()
-MS_CLIENT_ID = "04b07795-8ddb-461a-bbee-02f9e1bf7b46"  # Azure CLI public app
-MS_SCOPE = "offline_access https://graph.microsoft.com/Mail.Read https://graph.microsoft.com/Calendars.Read"
+MS_CLIENT_ID = "14d82eec-204b-4c2f-b7e8-296a70dab67e"  # Microsoft Graph CLI public client
+MS_SCOPE = "offline_access Mail.Read Calendars.Read User.Read"
 TOKEN_FILE = pathlib.Path(__file__).resolve().parent / ".msgraph_token.json"
 
 
@@ -228,8 +228,8 @@ def fetch_graph(env, interactive=True):
         return None
     out = {}
     q = urllib.parse.quote
-    ev = graph_get(tok, f"/me/events?$select=subject,start,end,isAllDay,location&$orderby=start/dateTime"
-                        f"&$filter=start/dateTime ge {q(TODAY + 'T00:00:00')} and start/dateTime le {q(TODAY + 'T23:59:59')}")
+    ev = graph_get(tok, "/me/events?$select=subject,start,end,isAllDay,location&$orderby=start/dateTime&$filter="
+                        + q(f"start/dateTime ge {TODAY}T00:00:00 and start/dateTime le {TODAY}T23:59:59"))
     out["calendar"] = {"status": "ok", "items": [{
         "title": e.get("subject", "(no title)"),
         "start": (e.get("start", {}).get("dateTime") or "")[11:16],
@@ -237,8 +237,9 @@ def fetch_graph(env, interactive=True):
         "all_day": e.get("isAllDay", False),
         "location": (e.get("location") or {}).get("displayName", ""),
     } for e in ev.get("value", [])]}
-    ms = graph_get(tok, "/me/messages?$filter=" + q("isRead eq false") +
-                   "&$orderby=receivedDateTime desc&$top=12&$select=subject,from,receivedDateTime")
+    ms = graph_get(tok, "/me/messages?$filter=" + q("isRead eq false")
+                   + "&$orderby=" + q("receivedDateTime desc")
+                   + "&$top=12&$select=subject,from,receivedDateTime")
     out["outlook"] = {"status": "ok", "items": [{
         "subject": m.get("subject") or "(no subject)",
         "from": (m.get("from") or {}).get("emailAddress", {}).get("address", ""),
