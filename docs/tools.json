@@ -1,0 +1,101 @@
+{
+  "updated": "2026-08-19",
+  "categories": [
+    {
+      "id": "coding-agents",
+      "name": "Coding Agents & IDEs",
+      "icon": "🤖",
+      "desc": "Agentic coding tools — Hermes can delegate to several of these.",
+      "items": [
+        {"name": "Claude Code", "url": "https://claude.com/claude-code", "desc": "Anthropic's terminal coding agent. Delegate from Hermes: 'use claude-code skill'.", "tags": ["agent", "terminal"], "have": true},
+        {"name": "OpenAI Codex CLI", "url": "https://developers.openai.com/codex/cli/", "desc": "OpenAI's CLI agent for features & PRs.", "tags": ["agent", "terminal"], "have": true},
+        {"name": "Cursor", "url": "https://cursor.com", "desc": "AI-first code editor with composer & agent mode.", "tags": ["ide"], "have": true},
+        {"name": "GitHub Copilot", "url": "https://github.com/features/copilot", "desc": "Inline completions + chat in VS 2022 / VS Code.", "tags": ["ide", "vs"], "have": true},
+        {"name": "Antigravity IDE", "url": "https://antigravity.google", "desc": "Google's agentic IDE.", "tags": ["ide"], "have": true},
+        {"name": "Gemini CLI", "url": "https://github.com/google-gemini/gemini-cli", "desc": "Free-tier Gemini terminal agent.", "tags": ["agent", "terminal"], "have": true},
+        {"name": "OpenCode", "url": "https://opencode.ai", "desc": "Open-source terminal agent, Zen Go $10/mo models.", "tags": ["agent", "terminal"], "have": true},
+        {"name": "Hermes Agent", "url": "https://hermes-agent.nousresearch.com", "desc": "This very bot — full agent w/ skills, cron, memory, multi-platform.", "tags": ["agent"], "have": true},
+        {"name": "Aider", "url": "https://aider.chat", "desc": "Git-native pair programmer in the terminal; works with local models.", "tags": ["agent", "terminal"], "have": false},
+        {"name": "Cline", "url": "https://cline.bot", "desc": "Open-source autonomous agent inside VS Code, BYO API keys.", "tags": ["agent", "vscode"], "have": false}
+      ]
+    },
+    {
+      "id": "dotnet-ai",
+      "name": ".NET AI Stack",
+      "icon": "💜",
+      "desc": "Libraries for shipping AI features in C# / .NET.",
+      "items": [
+        {"name": "Microsoft.Extensions.AI", "url": "https://learn.microsoft.com/dotnet/ai/quickstarts/overview", "desc": "The unified chat/embedding/function-calling abstraction — start here for new .NET AI work.", "tags": ["sdk"], "have": false},
+        {"name": "Semantic Kernel", "url": "https://github.com/microsoft/semantic-kernel", "desc": "Microsoft's orchestration SDK: agents, planners, memory, connectors.", "tags": ["sdk"], "have": false},
+        {"name": "ML.NET", "url": "https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet", "desc": "Train & run classic ML models in C#, no Python needed.", "tags": ["ml"], "have": false},
+        {"name": "ONNX Runtime + DirectML", "url": "https://onnxruntime.ai", "desc": "Run model files on GPU — DirectML path is ideal for your Intel Arc iGPU.", "tags": ["inference"], "have": false},
+        {"name": "OpenVINO", "url": "https://docs.openvino.ai", "desc": "Intel-native inference — built for Core Ultra CPU/GPU/NPU like yours.", "tags": ["inference", "intel"], "have": false},
+        {"name": "TorchSharp", "url": "https://github.com/dotnet/TorchSharp", "desc": ".NET bindings to libtorch for custom training.", "tags": ["ml"], "have": false},
+        {"name": "Kernel Memory", "url": "https://github.com/microsoft/kernel-memory", "desc": "RAG pipeline service (import, embed, search) from the SK team.", "tags": ["rag"], "have": false},
+        {"name": "LangChain.NET", "url": "https://github.com/tryAGI/LangChain", "desc": "Community LangChain port for .NET.", "tags": ["sdk"], "have": false}
+      ]
+    },
+    {
+      "id": "local-inference",
+      "name": "Local Inference",
+      "icon": "🖥️",
+      "desc": "Run open models on your own hardware (32GB RAM, Arc iGPU).",
+      "items": [
+        {"name": "Ollama", "url": "https://ollama.com", "desc": "Easiest local GGUF runtime + OpenAI-compatible API on localhost:11434.", "tags": ["runtime"], "have": false},
+        {"name": "LM Studio", "url": "https://lmstudio.ai", "desc": "GUI for local models; serves an OpenAI-compatible endpoint too.", "tags": ["runtime", "gui"], "have": false},
+        {"name": "llama.cpp", "url": "https://github.com/ggml-org/llama.cpp", "desc": "The engine underneath it all; SYCL/Vulkan backends for Intel Arc.", "tags": ["runtime"], "have": false}
+      ]
+    },
+    {
+      "id": "learning",
+      "name": "Sites & Learning",
+      "icon": "🌐",
+      "desc": "Daily-driver references for models, papers and prompting.",
+      "items": [
+        {"name": "Hugging Face", "url": "https://huggingface.co", "desc": "Models, datasets, spaces. Hermes hf CLI is wired to it.", "tags": ["hub"], "have": true},
+        {"name": "OpenRouter", "url": "https://openrouter.ai/models", "desc": "Compare every model's price/latency/context in one table.", "tags": ["hub"], "have": false},
+        {"name": "arXiv (cs.AI/cs.CL)", "url": "https://arxiv.org/list/cs.AI/recent", "desc": "Fresh papers; Hermes arxiv skill searches it.", "tags": ["papers"], "have": false},
+        {"name": "Papers with Code", "url": "https://paperswithcode.com", "desc": "Papers linked to runnable code & leaderboards.", "tags": ["papers"], "have": false},
+        {"name": "Microsoft Learn — AI for .NET", "url": "https://learn.microsoft.com/dotnet/ai/", "desc": "Official docs/tutorials for the .NET AI stack.", "tags": ["docs"], "have": false},
+        {"name": "Prompt Engineering Guide", "url": "https://www.promptingguide.ai", "desc": "The best free reference for techniques that transfer to agent building.", "tags": ["docs"], "have": false},
+        {"name": "Anthropic Cookbook", "url": "https://github.com/anthropics/anthropic-cookbook", "desc": "Practical recipes: tool use, agents, RAG.", "tags": ["docs"], "have": false},
+        {"name": "Google AI Studio", "url": "https://aistudio.google.com", "desc": "Free Gemini playground + your API key source.", "tags": ["playground"], "have": true}
+      ]
+    },
+    {
+      "id": "ext-utilities",
+      "name": "Extensions & Dev Kit",
+      "icon": "🧩",
+      "desc": "Quality-of-life for a Windows dev box.",
+      "items": [
+        {"name": "Continue (VS Code)", "url": "https://continue.dev", "desc": "OSS assistant that connects to local/OSS models.", "tags": ["vscode"], "have": false},
+        {"name": "PowerToys", "url": "https://learn.microsoft.com/windows/powertoys/", "desc": "Advanced Paste (AI actions), Run, FancyZones — install via winget.", "tags": ["windows"], "have": false},
+        {"name": "DevToys", "url": "https://devtoys.app", "desc": "Offline Swiss-army knife: JSON, regex, JWT, encoders.", "tags": ["windows"], "have": false},
+        {"name": "Everything Search", "url": "https://www.voidtools.com", "desc": "Instant file search across all drives.", "tags": ["windows"], "have": false},
+        {"name": "ripgrep", "url": "https://github.com/BurntSushi/ripgrep", "desc": "Fast content search — already on your PATH.", "tags": ["cli"], "have": true},
+        {"name": "Docker Desktop", "url": "https://www.docker.com/products/docker-desktop/", "desc": "Containers + Hermes sandboxed terminal backend.", "tags": ["runtime"], "have": true},
+        {"name": "uv", "url": "https://docs.astral.sh/uv/", "desc": "Blazing Python env/dependency manager — installed.", "tags": ["cli"], "have": true}
+      ]
+    },
+    {
+      "id": "hermes-skills",
+      "name": "Hermes Bot Skills",
+      "icon": "🐎",
+      "desc": "Things you can ask this bot to do right now. Tap to copy a starter prompt.",
+      "items": [
+        {"name": "GitHub PR workflow", "desc": "Branch → commit → PR → CI → merge, end to end.", "ask": "use the github-pr-workflow skill and open a PR for my latest commits", "tags": ["gh"]},
+        {"name": "Code review", "desc": "Review a PR diff with inline comments.", "ask": "review PR #1 in my repo using github-code-review", "tags": ["gh"]},
+        {"name": "Delegate to Claude Code / Codex", "desc": "Spawn a sub-agent for coding chores.", "ask": "use claude-code skill to refactor my project", "tags": ["agent"]},
+        {"name": "Office documents", "desc": "Create/edit Word, Excel, PowerPoint, PDF.", "ask": "create a PowerPoint deck summarizing this topic", "tags": ["docs"]},
+        {"name": "YouTube → content", "desc": "Turn a video into a summary, thread or blog post.", "ask": "summarize this youtube video: <link>", "tags": ["media"]},
+        {"name": "Maps & routing", "desc": "Geocode, POIs, routes via OpenStreetMap.", "ask": "find coffee shops near <address>", "tags": ["geo"]},
+        {"name": "Systematic debugging", "desc": "4-phase root-cause analysis for a stubborn bug.", "ask": "help me debug this properly with systematic-debugging", "tags": ["dev"]},
+        {"name": "Architecture diagrams", "desc": "Dark-themed SVG infra diagrams as HTML.", "ask": "draw an architecture diagram of my system", "tags": ["creative"]},
+        {"name": "Infographics", "desc": "Baoyu-style infographics in 21 layouts.", "ask": "make an infographic about <topic>", "tags": ["creative"]},
+        {"name": "Obsidian vault", "desc": "Read/write/search your Obsidian notes.", "ask": "search my obsidian vault for notes about AI", "tags": ["notes"]},
+        {"name": "OCR & documents", "desc": "Extract text from scans and PDFs.", "ask": "ocr this scanned pdf: <file>", "tags": ["docs"]},
+        {"name": "Humanizer", "desc": "Strip AI-isms from text, keep your voice.", "ask": "humanize this text", "tags": ["writing"]}
+      ]
+    }
+  ]
+}
