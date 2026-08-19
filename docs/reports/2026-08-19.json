@@ -1,0 +1,263 @@
+{
+ "date": "2026-08-19",
+ "generated_at": "2026-08-19T09:26:56Z",
+ "highlights": [
+  "OpenAI paused a major frontier training run over cyber-risk findings and is overhauling security after the Hugging Face incident breach — its clearest public signal yet of capability gating.",
+  "Anthropic's Claude can now design proteins and run lab-data analysis; invisible text watermarks for Claude output are coming.",
+  "China cleared limited NVIDIA H200 shipments as Beijing chases the US in compute — a major easing in the chip war, days before NVIDIA earnings.",
+  "Alibaba open-weights Qwen3.8 sized for laptops, landing days before Meta's next open-model move — the open-weights race is now about efficiency, not scale.",
+  "France picked Mistral over OpenAI for state AI systems after a tax-department hack review — sovereign-AI procurement gets teeth.",
+  "Microsoft patched 'CoSnitch', a Copilot flaw that enabled one-click data exfiltration, ~8 months after report."
+ ],
+ "sections": [
+  {
+   "org": "OpenAI",
+   "items": [
+    {
+     "title": "OpenAI slows down its model development amid cybersecurity concerns",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0gxZUowRWhSaUpPajN5dC1sVTYtaTk4N1ZPWFVxekVBMXdqSHh0Um9sUjJ6Sml3aE9mTFhJN0s2VmFjR2hsaDdjNktablE2b1RVRWY2aTFkcjhkSjJxOXpLeFJyYVdLcWhiYmhZUDRaamhlbktqN0Zrb0k3YmN4ZURacHpXbEQzcHk4aVFZZHBhX1lXQVl0Z0thZUNpQ3lySHlxeTJRNFcxVC1felNubDdGZEFXWUhzeUE?oc=5",
+     "source": "Euronews.com",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "OpenAI tightens AI security after Hugging Face breach",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuMlp1TlVhSGdnNzA2TzdDYXRxeVF1VHpubFlQM3NiVV9SenhiSkY0OVBBVnZZYVVKQXBMZWxtN3k4bHI4alRwZlBaZWtPREd3SFNXbmR2TzhxbzhheVI0VV9KTU9qbkdDNHRieUxfcnJNM3JoT3pnX2lLV0sxUQ?oc=5",
+     "source": "BetaNews",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "OpenAI launches ChatGPT for Teens",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95eFRreTQ3dVY2NW52SlE2NFpySW1GMEFreExmWlFDbE9OWjhzWWltRk5PeF9PeGtYek5HM0l5bEF3cHNKdEZ4UWlycFk3a0Z2MXVRQXAzS0dmcVZTN2hxd0xZS2QzTDFtRXdSd0Nma3kwN0FrbHfSAXZBVV95cUxPeXhUa3k0N3VWNjVudkpRNjRackltRjBBa3hMZlpRQ2xPTlo4c1lpbUZOT3hfT3hrWHpORzNJeWxBd3BzSnRGeFFpcnBZN2tGdjF1UUFwM0tHZnFWUzdocXdMWUtkM0wxbUV3UndDZmt5MDdBa2x3?oc=5",
+     "source": "Qazinform",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "OpenAI Confirms: ChatGPT Ads Will Launch in 31 European Countries Next Week",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY1JHTDZnb3pCRmZtVUtRM3ZpbXkxZ0VhMjJFbm9tTDFPazJrUlRqeHJhdHo0c1dHal9za2ZidlY1WS0wSkplMUtOcXZkeTlRbmZkblNHYjhlVTF6cHJhTy0xVC0zVXVJV3RjdHJ1cE1PZGdDRE9SYjZTeUdVVG1wenh5d0c4R2dsSnZCM1V1OXFqZjZvampiTzZYeEtBUm53UlBTYjFfcUs?oc=5",
+     "source": "trendingtopics.eu",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Florida Goes To Court And Asserts That OpenAI And Sam Altman Are Legally A Public Nuisance",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOUhGZ3luZ3VweGVWbTZydXJKdnFxX0d2ZEJIamw3TFlGU1g0RDNBczV2SDZWX2ZWM2w3Q2RRMHRlMFZvQWgtaXJrQndxekhXRUk2a19vR2lacjNER0FyOEhGTUY5Z2RGeW1JYy1EVXRSTUNnTVBINnVhUEFsMnFTeDc3aDFqSWhiLUFqcVJuekYzcTY4NkJlbVdJYm1IMUdqclRyOVR5bmNjSllfcUIwWU1nQzItN2JWYmh5d3hXbmppV3Z3OUxGb3pIbXNhcWg3VUhzR21MdTFnQQ?oc=5",
+     "source": "Forbes",
+     "date": "2026-08-19"
+    }
+   ]
+  },
+  {
+   "org": "Anthropic (Claude)",
+   "items": [
+    {
+     "title": "Anthropic says Claude designed protein binders for 14 of 15 targets in lab test",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMlpueU5ucXBnZmFuWHRzTjNlUUtzbVhpRk9KZmhQTTNwVVBVOW45cGhmM1gzYmtDM1QyX2NVbmQxSm9DblotRWNOSWRyZGQ1enBpVkpOZ3FSdzNRUXVpVWNyWlVRNkdwZGNPM1JnaEh1d2c1MHlQbjBkLTM5UG0tVFFzd3Z0UVhRZGRQM1lyNUMyZXlfN251U19KcHpmb2hMR2ZvY0p4TlJ6UDZCb3k2NXZCV1BYV1pITkI4LUZzcmJodGVrQ1HSAcsBQVVfeXFMUDNqOVhlYklsaVEzaFJCTGZrTEU1Y3Z6Y0RfSVJySjI0TnVId0NtSTVHNnFtWFZKUkxMM2NVRnJ6Y1YyYUNTSkNKUUZnTDdWbktqalIybXctY0FGMUhFaXlUSDZWN1JGU1I3S1RLWXVuX1pqeC1XcTlaLUU5OW03cEs5c1BDQXFwZGNLVi1lSGZEZjVjcHl4b2lpdU1uemNlZThlNlFJUmg1bGVXcUc1cWNqaXhhN0x4UXhjYlBhemFXZnlXNG9YeXdPRVk?oc=5",
+     "source": "storyboard18.com",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Claude users argue over AI watermark plan's benefits amid concerns about anonymity, false positives",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRklxOE9HWXh4UkRiNXNSeEE5eHowd1BHYngtU2l3RnNnRXNZUTJsaGJ2bE5NbDVIN0Y3czYzVUFJTU5oYmR1dXZLTFNZSEFiN09oLVJneDhEcF9wYWthYnp2VlQxVVVFeWVVb0hLalFHaEdMMVZkcFNhbEo4bXlYZmUycFhPRFhT?oc=5",
+     "source": "thecooldown.com",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Anthropic opens Claude Cowork mobile access to all paid plans",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFBuY24yZHg3U3M0amRvSnVKczhuSTV5ZmViZXJlMUt2cm1HZ25iOGFhQl9hNjl5Z2w5Q3l3dTFpdi05RmhhQlJKS2JZWEJXNS1HMkVDX1RDeEFucHMzOGlITGt3OG5jS0hxYVo2SUdBeGgwS2puYUE1Q1g0UnJObW9RdW5TV1hkY3RwR1gzQ2Fsd3dSa1U1M1ZpUlNmeHZzeXJXNGs4T2oxdw?oc=5",
+     "source": "디지털투데이",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Claude Gmail Can Now Send, Reply, and Forward Messages",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjlKTkwyb0RWWUgyWGk2Q0tGS09zc3pVNTlTZVhkdUd6VWhiTWN6MzViOWJXQkpEaDBlT2xuVWM4dmk3TW5CRnJScExXZFpjajI4SGRsczlXUGg1RWlnLWxnWFJmTzNTc1VWVEotSGx5dDQxeWhxSC1GZlZ2X2RrMzViSFZEZHEzX1NOOEY0QnR6UdIBkgFBVV95cUxNUjlKTkwyb0RWWUgyWGk2Q0tGS09zc3pVNTlTZVhkdUd6VWhiTWN6MzViOWJXQkpEaDBlT2xuVWM4dmk3TW5CRnJScExXZFpjajI4SGRsczlXUGg1RWlnLWxnWFJmTzNTc1VWVEotSGx5dDQxeWhxSC1GZlZ2X2RrMzViSFZEZHEzX1NOOEY0QnR6UQ?oc=5",
+     "source": "Tech My Money",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Anthropic's $65B Revenue Surge, OpenAI's Teen AI",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVBwN1dicS1MUWpVbjg1NFZsNmtMT1l5SlJ2aUVEN05zU0FfQTVYZXZnTDdmcEl6RWo1b2hqZTF5R3VuX0w5WVJDM04yT2VIOWxQODF3UUJEMFpkZHpqTk1BbFRmUWtnVm5PLWpyeUR0UTJnMTYxYWxEd3lSdVlzbkluLWdJSjI4bkltOHJET1VkS2RIVko0ZEJDSGNpWEE5THRMdEE4ZkRhY3FYTlE?oc=5",
+     "source": "StartupHub.ai",
+     "date": "2026-08-18"
+    }
+   ]
+  },
+  {
+   "org": "Google DeepMind",
+   "items": [
+    {
+     "title": "Google DeepMind Says AlphaEvolve Has Helped Lower The Upper Bound For Theoretical Matrix Multiplication",
+     "summary": "",
+     "url": "https://officechai.com/ai/google-deepmind-says-alphaevolve-has-helped-lower-the-upper-bound-for-theoretical-matrix-multiplication/",
+     "source": "news",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Gemini 3 pro shows manipulative behaviour in tests",
+     "summary": "",
+     "url": "https://www.msn.com/en-in/news/other/gemini-3-pro-shows-manipulative-behaviour-in-tests/ar-AA2aoDq5",
+     "source": "news",
+     "date": "2026-08-18"
+    }
+   ]
+  },
+  {
+   "org": "Microsoft AI",
+   "items": [
+    {
+     "title": "Microsoft finally patches critical one-click Copilot vulnerability, almost eight months after learning of it",
+     "summary": "",
+     "url": "https://www.computerworld.com/article/4211325/microsoft-finally-patches-critical-one-click-copilot-vulnerability-more-than-eight-months-after-learning-of-it.html",
+     "source": "news",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "Microsoft’s GitHub Hit by Major Outage as AI-Driven Demand Strains Infrastructure",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOHJFOGVIQkROLU1tY016cHRXa1lKb1d5ZzQ1bGduQ0p0QlNESklqWHFqSVlrSl91ZkhpZldhbG5LY0lGX2N4OFd3ZEowTEN0UkZKSGtYX0tNeHBQc1hmMHNzZDk0Tlh3RkVwcmxtMTJOeHBiNDJ0SVRCSWJIOXF0RE9Pc3Q5T2g3bl9Tb05OdGpxaXhMZldydFhoSlR3YjF3Vnc?oc=5",
+     "source": "DevOps.com",
+     "date": "2026-08-18"
+    }
+   ]
+  },
+  {
+   "org": "Mistral AI",
+   "items": [
+    {
+     "title": "France taps Mistral, shuts out OpenAI, to test its systems after tax hack",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUl3czRweGpGT292Ukdxd3JEQk5FSWFDRWtHeW9LMTVkN3hDbWRXOV9mWGU1aXBWU1YtV2FRSU44ZFZhZGJKSWNPYnU4ZEMxeTUyV0o0S284REJyMGZHbmtpeTF2cGVXRGVmZ0FYR2ZzeGREY3VmZEU1SGI1ZUwzRWpDdHk?oc=5",
+     "source": "CryptoRank",
+     "date": "2026-08-19"
+    }
+   ]
+  },
+  {
+   "org": "Meta AI",
+   "items": [
+    {
+     "title": "Meta launches AI Academy Nigeria: How Nigerians can access free AI training",
+     "summary": "",
+     "url": "https://www.msn.com/en-xl/africa/nigeria/meta-launches-ai-academy-nigeria-how-nigerians-can-access-free-ai-training/ar-AA2anCoM",
+     "source": "news",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "Alibaba drops a laptop AI model days before Meta’s move",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObm9wVmJjbVJXQ0RvMDhxWXZMU0pwS0VGZmV1aVA3NzNVeG1QWTFQTDZVV3l6Q0J2bm40ejFiMS1EZGJBa3lOTUhCMDRVaV9YZnVkakt6emt4NzFTOUdhMTlKekl4eVdENDUtZFJXWHAyQ3RteFRoMTE1THZVdE1DQmMxSW55UDg?oc=5",
+     "source": "thestreet.com",
+     "date": "2026-08-18"
+    }
+   ]
+  },
+  {
+   "org": "xAI (Grok)",
+   "items": [
+    {
+     "title": "Elon Musk’s AI ‘Grok’ Officially Arrives on iPhone CarPlay",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaURsZWl5cHZETElmRVBZams2dlpFNEZ4SjlWMm1BR1A4VktqZVVYS0ZVU01xRWQxengzQzNUV1diMlNIRlZPTGFIeHZjUzhIaUZtRWh1cTNTWmhsdWpIUVZob2x4aHB3UDRDUTVURUstY0NRdG96LXBudmNHWkVlTmhrWWI4S29rRkY0UGhzV1d0eFhoMGVaRUpQNUF2d1lLMkpvODJPOXNDQQ?oc=5",
+     "source": "آي-فون إسلام",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "Minnesota AG files opposition to xAI's attempt to block AI nudification ban",
+     "summary": "",
+     "url": "https://www.msn.com/en-us/news/other/minnesota-ag-files-opposition-to-xai-s-attempt-to-block-ai-nudification-ban/ar-AA2apTuQ",
+     "source": "news",
+     "date": "2026-08-18"
+    }
+   ]
+  },
+  {
+   "org": "NVIDIA",
+   "items": [
+    {
+     "title": "China Eases Limits On Nvidia H200 Chips As AI Race Escalates- FT",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdm9oVUVGVDlIei1ZZFAtVFpQemdId2pZZFZsTzBCOGhYMGdNU1F0ZENjTnRTRTZoZzMwVUQwQ0puQTROd0k0bld1cHBfbHhmTEU4WHJhR0dHTk1heUQtYTNIR0ZnV1JvcmJUMk9LWWczRkFDdEdiNExkR1hzMVJvdUs2Y213VHVQVk91SjhPdElZU3pKYVpfRS1hZHVQeTRpa3JwU2k3NFczWUFIMzBsQ0VzRVE0RGt4VnBGaGRVQ1pvam1wMldjREJLNzYyQQ?oc=5",
+     "source": "TradingView",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "NVIDIA Q2 Earnings Preview: AI Chip Leader August 2026 Analysis",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UQTFZVW5IVFVoQTRRcVFGbUdaVjJrOFZQQTZuWXZVTTJWdnp4MnQ3UlhkYWJDYVNiYlJoWUx5cGRLcl9rN0Zod05TVGpIVld0dDdfYkVMU1FtZUlwZk9ZMVgyUjRYdExVVzNvaHY1aGhjU3FDbVRIRg?oc=5",
+     "source": "intellectia.ai",
+     "date": "2026-08-19"
+    }
+   ]
+  },
+  {
+   "org": "Open Source AI",
+   "items": [
+    {
+     "title": "Alibaba’s Qwen3.8 AI Model: What Developers Should Know About the Open-Weight Release",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZDE1WG5pR21Va2xwbDFqZmtOQW5rZG1ZTUlrcEV3MmhZX1dsN0lNbU1SVGZ1RllGR2RxN2dJM3VqOTBpMVpTaE1tQkNxZ1Z6WXdmcjlIVmFTeXFieXVORk1Fd0pvWUtWbmxCY2VObV9CN1FET3lHeHZJMml5TlpLc1B5V1EyRC1HdDduYk1LeEwwNXlRRXBROF9WeWxBVXFSZnpMbjR1WHUyeWswQ2o0bjQ4MU5keVc3S1lQaVcybWpuWkJJMW91N3duZEZzQWVjQkotVEFB0gHjAUFVX3lxTFBCLUZVY3JwOEcyckw1N3Fja2d3ZmlCYmRGTk45WXNEdmNpYkh1cVFWOE8yU1U0ZUdBclRncVhDOHVUWlNCV2I4Slo3QXROOGJMdUt0VnBNVFpRdFpkZ1pfaE5DbmVxcjNReGVFOTVlSzJ1dXpZa0p4XzRfclJYZGdSN1IyTTZfaE1SZ090ZUZQUmlJX0czYzJUVXJTU05DSjhhR1oycWw5bGIzSk8zZTd5cm94dmZEa2h4NzQyR0QzSXBPUXQwTXRWWDZIc2RPNGFVZDJGNVljMVhtbXEwX3I2dDhB?oc=5",
+     "source": "Analytics Insight",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNck1UOGdORXpubWhHdWdWY2JLa2tiY01yaW9iUmpJMnBNb3dKZHFlTlRYUldMNTNPZ1EwaHNnMllnM3lkYW5OdUc4T1lLTFBGbV9mVVkyR3p0S2gtRzdURi1nYkxHMGRrY1BXVFZsUHVmdkRVUmJmMjFIRGNnaXhOVUZwcjBoNTBsS1JXYVJkWF8xN18wYUQydFpHZ3EtTUs1QkdwLVJELVZIT3VWOGV5WkNBTGJHWTBFUXRsVnFQUHZrWHkwTm1ENkl3OXlOR2tjWS02aDY4eDZYYy1GMUhDZkkzWks?oc=5",
+     "source": "VentureBeat",
+     "date": "2026-08-18"
+    }
+   ]
+  },
+  {
+   "org": "Research",
+   "items": [
+    {
+     "title": "AI triggers a wave of anxiety among the world’s greatest math minds",
+     "summary": "",
+     "url": "https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/",
+     "source": "news",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "AI triggers a wave of anxiety among the world’s greatest math minds",
+     "summary": "",
+     "url": "https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/",
+     "source": "news",
+     "date": "2026-08-19"
+    }
+   ]
+  },
+  {
+   "org": "Policy & Regulation",
+   "items": [
+    {
+     "title": "The EU’s AI rulebook is here: what it means for Europeans",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zeHVQRVF1bDBZZEhJd2FqQWtvUC1xeWUxV2NISFhJV04zM1phTkM3c1FpQnRBSklfLVFoMWU3N0NaRzZ2aVlxdmpKQ1IzQ0RTNW4xZ2phRkhfdHJYNjNQN181T0pTemtDY3ptNEJ2aVhNbW82?oc=5",
+     "source": "Philenews",
+     "date": "2026-08-19"
+    }
+   ]
+  },
+  {
+   "org": "Industry & Funding",
+   "items": [
+    {
+     "title": "Türkiye unveils national AI action plan for 2026-2030",
+     "summary": "",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVTZjX2lmemFnVks1U0Z1RVpaWDdvcm9DRFZpb3NCNWl3YkN4QXVZcGtVM2MtTlRUUUpoZVd4T044YWdDTjh5RXRrbDV3c3VjSHNJTTlJWnBPS3liMWRDcmJoZWlYeVBpNkItd21sRFBEbGlYbFFmRnV4X3hjeGhHLUN0ekYyNHZDemlkak1nM1hQV1JnRTBjUzh5VWZ2Snk1?oc=5",
+     "source": "Türkiye Today",
+     "date": "2026-08-19"
+    }
+   ]
+  }
+ ]
+}
