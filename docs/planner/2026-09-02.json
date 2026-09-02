@@ -1,0 +1,385 @@
+{
+ "date": "2026-09-02",
+ "generated": "2026-09-02T11:53",
+ "sources": {
+  "boards": {
+   "status": "ok",
+   "items": [
+    {
+     "project": "LandLogic",
+     "id": 24506,
+     "title": "Adding Config in White-Label for Upper Header Line of Chat Page",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-09-01 08:46",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24506"
+    },
+    {
+     "project": "LandLogic",
+     "id": 21800,
+     "title": "Reordering these items to adjust their display sequence",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-08-31 18:46",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/21800"
+    },
+    {
+     "project": "LandLogic",
+     "id": 21803,
+     "title": "Dropdown list does not close after selecting an item in Location & Access questions",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-08-31 18:46",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/21803"
+    },
+    {
+     "project": "LandLogic",
+     "id": 21818,
+     "title": "Boating condition is contradictory: table says modify the question when boating is selected, but the screenshot shows the question should only appear if boating is selected",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-08-31 18:46",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/21818"
+    },
+    {
+     "project": "LandLogic",
+     "id": 21832,
+     "title": "Radio buttons have a delay when changing the selected option",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-31 18:46",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/21832"
+    },
+    {
+     "project": "LandLogic",
+     "id": 21936,
+     "title": "When the keyboard opens the modal should shift up but most fields stay hidden",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:46",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/21936"
+    },
+    {
+     "project": "LandLogic",
+     "id": 16641,
+     "title": "The problem of display layer on map when zooming",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:46",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/16641"
+    },
+    {
+     "project": "LandLogic",
+     "id": 17745,
+     "title": "ANSI layer problem in platform (and other similar issues)",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:45",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/17745"
+    },
+    {
+     "project": "LandLogic",
+     "id": 19870,
+     "title": "In the live environment, the logout page takes more time to redirect to the login page",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 1,
+     "changed": "2026-08-31 18:45",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/19870"
+    },
+    {
+     "project": "LandLogic",
+     "id": 13432,
+     "title": "\"Turn All My Parcels Off\" doesn't deactivate parcels on the map when clicked from the Modify section under My Parcels",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:44",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/13432"
+    },
+    {
+     "project": "LandLogic",
+     "id": 15292,
+     "title": "Building Footprints layer turns on with a delay in all cities",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:44",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/15292"
+    },
+    {
+     "project": "LandLogic",
+     "id": 17205,
+     "title": "Slow performance when enabling all sub-layers in Tiny and Severn",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:43",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/17205"
+    },
+    {
+     "project": "LandLogic",
+     "id": 17209,
+     "title": "Polygons not displayed on map when multiple overlapping layers are enabled",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:43",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/17209"
+    },
+    {
+     "project": "LandLogic",
+     "id": 18204,
+     "title": "The LandLogic name and logo should be removed from all of these pages",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:43",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/18204"
+    },
+    {
+     "project": "LandLogic",
+     "id": 20299,
+     "title": "Notification should appear centered on the map in all states",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:43",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/20299"
+    },
+    {
+     "project": "LandLogic",
+     "id": 12781,
+     "title": "CMA Report Map for MLS N12136317 Displays Incorrectly",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:43",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/12781"
+    },
+    {
+     "project": "LandLogic",
+     "id": 13754,
+     "title": "Inconsistent Display of City Borders and Labels in My Projects After Actions or Tab Switch",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:43",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/13754"
+    },
+    {
+     "project": "LandLogic",
+     "id": 10318,
+     "title": "The problem with selecting the Ajax municipality in Land while address search in the Real Estate module",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:43",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/10318"
+    },
+    {
+     "project": "LandLogic",
+     "id": 12917,
+     "title": "Fix Hot Reload Problem",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-08-31 18:42",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/12917"
+    },
+    {
+     "project": "LandLogic",
+     "id": 17207,
+     "title": "Turn All Data Layers Off' does not hide drawn parcels on map",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:42",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/17207"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34896,
+     "title": "\u067e\u06cc\u0631 \u0628\u0627 \u0627\u0644\u0647\u0647 \u0628\u0631\u0627\u06cc \u067e\u06cc\u0627\u062f\u0647 \u0633\u0627\u0632\u06cc \u0628\u0627\u062a \u0631\u06cc\u0644\u062a\u0648\u0631 \u0633\u0627\u067e\u0648\u0631\u062a \u0627\u06cc\u062c\u0646\u062a",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-08-31 05:58",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34896"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34897,
+     "title": "\u0631\u06cc\u0648\u06cc\u0648 \u0628\u0627\u062a \u0631\u06cc\u0644\u062a\u0648\u0631 \u0633\u0627\u067e\u0648\u0631\u062a \u0627\u06cc\u062c\u0646\u062a - \u0642\u0633\u0645\u062a \u06f2",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-31 05:58",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34897"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34896,
+     "title": "\u067e\u06cc\u0631 \u0628\u0627 \u0627\u0644\u0647\u0647 \u0628\u0631\u0627\u06cc \u067e\u06cc\u0627\u062f\u0647 \u0633\u0627\u0632\u06cc \u0628\u0627\u062a \u0631\u06cc\u0644\u062a\u0648\u0631 \u0633\u0627\u067e\u0648\u0631\u062a \u0627\u06cc\u062c\u0646\u062a",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-08-31 05:58",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34896"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34897,
+     "title": "\u0631\u06cc\u0648\u06cc\u0648 \u0628\u0627\u062a \u0631\u06cc\u0644\u062a\u0648\u0631 \u0633\u0627\u067e\u0648\u0631\u062a \u0627\u06cc\u062c\u0646\u062a - \u0642\u0633\u0645\u062a \u06f2",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-31 05:58",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34897"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 35028,
+     "title": "\u0627\u06cc\u062c\u0627\u062f \u0628\u0627\u062a AI mancheck - \u067e\u06cc\u0631",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-30 13:28",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/35028"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 35028,
+     "title": "\u0627\u06cc\u062c\u0627\u062f \u0628\u0627\u062a AI mancheck - \u067e\u06cc\u0631",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-30 13:28",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/35028"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34207,
+     "title": "\u062a\u063a\u06cc\u06cc\u0631 \u0641\u06cc\u0644\u062a\u0631 \u0628\u0631\u0627\u06cc \u0627\u062a\u0635\u0627\u0644 \u0628\u0647 \u0641\u06cc\u0644\u062f \u0647\u0627\u06cc \u0648\u0627\u0642\u0639\u06cc \u062c\u062f\u06cc\u062f",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-30 13:27",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34207"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34207,
+     "title": "\u062a\u063a\u06cc\u06cc\u0631 \u0641\u06cc\u0644\u062a\u0631 \u0628\u0631\u0627\u06cc \u0627\u062a\u0635\u0627\u0644 \u0628\u0647 \u0641\u06cc\u0644\u062f \u0647\u0627\u06cc \u0648\u0627\u0642\u0639\u06cc \u062c\u062f\u06cc\u062f",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-30 13:27",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34207"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34936,
+     "title": "\u0631\u06cc\u0641\u06a9\u062a\u0648\u0631 \u06a9\u0648\u0626\u0631\u06cc \u0631\u06cc\u0628\u06cc\u0644\u062f",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-08-30 13:05",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34936"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34936,
+     "title": "\u0631\u06cc\u0641\u06a9\u062a\u0648\u0631 \u06a9\u0648\u0626\u0631\u06cc \u0631\u06cc\u0628\u06cc\u0644\u062f",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-08-30 13:05",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34936"
+    }
+   ]
+  },
+  "gmail": {
+   "status": "skipped",
+   "items": [],
+   "note": "set PLANNER_GMAIL_USER + PLANNER_GMAIL_APP_PASSWORD"
+  },
+  "calendar": {
+   "status": "ok",
+   "items": []
+  },
+  "outlook": {
+   "status": "ok",
+   "items": [
+    {
+     "subject": "[GitHub] A third-party OAuth application has been added to your account",
+     "from": "noreply@github.com",
+     "time": "2026-09-02 07:55"
+    },
+    {
+     "subject": " \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 AI \u062f\u0631 \u06a9\u0627\u0631  and another event today.",
+     "from": "no-reply@microsoft.com",
+     "time": "2026-09-01 23:39"
+    },
+    {
+     "subject": "Canceled: Weekly Grooming Sessions",
+     "from": "Sobhan.Khoshsirat@landlogic.ai",
+     "time": "2026-09-01 13:45"
+    },
+    {
+     "subject": "Invitation: Due Diligence Report in OpenAPI @ Wed Sep 2, 2026 2:30am - 3:30am (EDT) (hamedhajiloo@hotmail.com)",
+     "from": "sh.ranjgar.work@gmail.com",
+     "time": "2026-09-01 13:37"
+    },
+    {
+     "subject": "[Deployment cancelled] llg-brain > Release-1214 : Dev",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-01 06:15"
+    },
+    {
+     "subject": "Update Listing Monthly Stats and 2 other events today",
+     "from": "no-reply@microsoft.com",
+     "time": "2026-08-31 23:32"
+    },
+    {
+     "subject": "[Deployment failed] llg-brain > Release-1214 : Dev",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-08-31 15:48"
+    },
+    {
+     "subject": "Task 24525 - Adding Chat Background Color in White-Label - Pair",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-08-31 14:49"
+    },
+    {
+     "subject": "[Deployment cancelled] mlk-proxy > proxy-17 : All C23",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-08-31 13:42"
+    },
+    {
+     "subject": "[Pre-deployment approval pending] llg-brain > Release-1213 : Prod",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-08-31 07:11"
+    },
+    {
+     "subject": "Today: CrystaCode - Share Experience ",
+     "from": "no-reply@microsoft.com",
+     "time": "2026-08-30 23:30"
+    },
+    {
+     "subject": "Task 24508 - Adding Config in White-Label for Input Component in Chat",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-08-30 15:31"
+    }
+   ]
+  }
+ }
+}
