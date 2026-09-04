@@ -1,0 +1,1882 @@
+{
+ "date": "2026-09-04",
+ "collected_at": "2026-09-04T07:08:59.869642+00:00",
+ "window_hours": 36,
+ "failures": [],
+ "counts": {
+  "openai": 114,
+  "mistral": 40,
+  "nvidia": 116,
+  "anthropic": 105,
+  "microsoft": 49,
+  "industry": 62,
+  "opensource": 27,
+  "policy": 70,
+  "xai": 62,
+  "research": 36,
+  "google": 61,
+  "meta": 21
+ },
+ "items": [
+  {
+   "title": "OpenAI unveils GPT-6 Astra, says it may have reached human-level AI - Ynetnews",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fRTR0alhnM0w0OTFyeC1OalAzUzk2eFJyODVzYUFJd3JtTTgxNWpPSUFjU0NrSzI3SlM4N25ieUpHY0NMeDAyQjQ1VXVlR2FnN2xWd3NIaERNeG5jVVZ6ZzNhQVJ2SFVtamxzYU9qMA?oc=5",
+   "source": "Ynetnews",
+   "published": "2026-09-04T06:49:23+00:00",
+   "desc": "OpenAI unveils GPT-6 Astra, says it may have reached human-level AI    Ynetnews",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests - The Hacker News",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQnlnMTBva2YwLXYzM3RzdFdHY0szU3ByaDRHbGdpeWRGVmhCM1B5bmxwUU5RYVRJTXRSUllPMHpGSnd2VVBmZElzU0FPdzRZSEVNODhXZlBJYjRldXRyRHBzWjB6eGx5MEo3TVlDVWFYVDlzdkxoSEtJOHAzczRnZ2d1VQ?oc=5",
+   "source": "The Hacker News",
+   "published": "2026-09-04T06:47:00+00:00",
+   "desc": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests    The Hacker News",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI’s GPT-6 Astra Sits Down at Your Computer - TechEBlog -",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSazZ3QWRLbFk2b1RaQ2N0MVo4QjZQaGJjeWNZT2VjdDRCbkpkck9URl9rdW5ZcmdKNDVvZjNrSXNNSnNVVUNSSVVuYXlQUFRnc0ZZeS1jQW5rckdCbEJFXzhpSndOcGZ5RWVKQmhLZWxnZ0RQeFpuaw?oc=5",
+   "source": "TechEBlog -",
+   "published": "2026-09-04T06:42:20+00:00",
+   "desc": "OpenAI’s GPT-6 Astra Sits Down at Your Computer    TechEBlog -",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "AI Everything Abu Dhabi looks beyond AI experimentation to real-world deployment - Fast Company Middle East",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQemdHYmhPQkh4dUtwOHUzNjFUZC1MdEVQY0tNU1ZMc19SNE52LV9VRnNLMFA1dnkwVEd0Z1VHRTlKT0JqUzNNQnpRX2pDazl0VVBrd1Noa2o2Z0VzVVktdTNtQTJTOFdjNUswaG1lNU5WT204Y0ZKX1VxNkJjRFdiLXUxaUYzVWJzVElXUlZKUnkyNE9CTDAzUXNOMC1FNmhyMUhnbUdHTG4wNkhpS205SzlwODZ6MW9TUzBV?oc=5",
+   "source": "Fast Company Middle East",
+   "published": "2026-09-04T06:34:42+00:00",
+   "desc": "AI Everything Abu Dhabi looks beyond AI experimentation to real-world deployment    Fast Company Middle East",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI unveils GPT-6 Astra: Here’s what this new model can do - Gulf Business",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWVEZ3JoVUZ3ZkJPV3J2X0l0NUlpSGhuVm95NXNPa0Z5bHQ2cWRVSmxmcGtPMmhGLThmMWdIbDJwbXJrOGxWX3JuWkstYVNZSU5VQ0ZUenJtbXNhQkV2eGc5VFBLZUhvc3U5LTRpVGRDRFREZkhlLTgzSUpSU3hlZlJTRDdmTnFwOENha3Bma2ZpRlViajBETGVXUlhHYzVpSERsS3AwbVVfeXNiNTBzMmxYai1HWmM?oc=5",
+   "source": "Gulf Business",
+   "published": "2026-09-04T06:28:49+00:00",
+   "desc": "OpenAI unveils GPT-6 Astra: Here’s what this new model can do    Gulf Business",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Nvidia Updates 2026 AI Investment Map: Adds Hugging Face, Thinking Machines Lab - TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcHNSdUdrckpadThCUlJiM3VaTFRJdzdIY09ZejkwbloxZ2IzdFJ5M1V4MDlZajdLMnpQU3BWMExBcmRpTndQSk50ZnRRTXhlS2Nycm92Y29YQThSeW91d05PODN0RDZWdnFZNTdVM0ZQaGZxUWplbk1YUC1FQkI2aFZOVWx1VlRLc0FPWW9qbmd5bVpCSzNPZEJZYjlHcHlCVC1rS1htQnZ6bmZBdnJsN2Nuci1xbkx1R2VGcEdUYmxZTjJrWFNndzU2cVp5RmFvWV9iUmxEVFY?oc=5",
+   "source": "TradingKey",
+   "published": "2026-09-04T06:22:38+00:00",
+   "desc": "Nvidia Updates 2026 AI Investment Map: Adds Hugging Face, Thinking Machines Lab    TradingKey",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "‘Lots More Apples & Oranges’ in AI. OpenAI, Meta & Anthropic. ARD #156 - AI: Reset to Zero",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qX0c4WWJ6N1c2clZNSlB6WElmdW52VmxjNzR2ZEM5VXA1Q2FFWExmQ1ZiaU5yVDdBTVFCaEttT1V4ZGhGaFRiSFF5TGFOM3FXMllMZkxycnh0X2ZMYTJFcW5xQ0g4OXRnbkNTQ0pGRFNmVnlkejlYVDRlOA?oc=5",
+   "source": "AI: Reset to Zero",
+   "published": "2026-09-04T06:17:07+00:00",
+   "desc": "‘Lots More Apples & Oranges’ in AI. OpenAI, Meta & Anthropic. ARD #156    AI: Reset to Zero",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Transcript: Sam Altman Interview on OpenAI, New AI Model and Global Growth - G20 Innovation Summit - The Singju Post",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYmwteTc4MGJ6SEU5Q1VCNUl4eXZwUEZ4eXQ1Q2IxMXNFalVsZzBJbkRSd2VZMkxweXpIUkh6R0NKOHRjUXo4R3R1MnNOVUlKLWc0cFNNd3lKZVVrNWxYbkFFbmxIdXJQZlZ2cUNyZjRPaVdKbERBOTFxenpnUUpzR3kwdkRCcm1oeTcya0FOOFB4c2IyZnQ1VExKSDAwM3lEUEdCaHc5TlV5enpNcjVKbDBnNXdWd3BVQ1E?oc=5",
+   "source": "The Singju Post",
+   "published": "2026-09-04T06:14:51+00:00",
+   "desc": "Transcript: Sam Altman Interview on OpenAI, New AI Model and Global Growth - G20 Innovation Summit    The Singju Post",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Claude Fable 5.1 vs Fable 5: Smarter, Faster and Up to 45% Cheaper - Memeburn",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRkJFQ1RmU0N1ZmhUMzQ1RngzSnlsbmhNd1JRa0ZvRERKUlBjSWZxSWsta2s5TTJRQlRLWDhEcWI0Y25meEY0aU9EYWtIcXRqd3NwdXFYWnR2SUxBdVlILVdZOXhaWHlLRUxTTWt1VEVTSXZZQVp5NGM5VWdURldBemFKb3VLVXZRRVNLMzBn?oc=5",
+   "source": "Memeburn",
+   "published": "2026-09-04T06:06:49+00:00",
+   "desc": "Claude Fable 5.1 vs Fable 5: Smarter, Faster and Up to 45% Cheaper    Memeburn",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Major US AI platforms hit by near-simultaneous outages - chinadailyasia.com",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00SlhGR1ZENldUZVMybG50cEhPLW1qamtSYzV5ck1Ta2E2dl82bXBrLW51RmpqeklBeGRuV3FSOEo4cmhUV3NienZiNXB2TllyS3NQR0otUFI?oc=5",
+   "source": "chinadailyasia.com",
+   "published": "2026-09-04T06:04:24+00:00",
+   "desc": "Major US AI platforms hit by near-simultaneous outages    chinadailyasia.com",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI unveils 'world's most intelligent model' Astra with cyber security in focus - thenationalnews.com",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM3pwTFlJR0x2dF9nc2RkTGhMRHM0UnNzb0JmN3JXU2xwV3NyRTYzYmQtaVo0T1pzdW9rTklNWHNQTmFMMjN2d1lTb3BKbVdrOGRXQ1BpUGxjZFpNZmdQOXNCRGNGR05RUHlWSktxRVoySnRCMWRzTFgwU1lmZHhQVDJmQWhJYzY5VjJqVXlDY3hkX3Z3emhjMmw3aE1mbzRqRUJISXB4V0dhMHJKdXVvQTVsZmc5dG9iZXZOUTV4U2xIcTg4N3dLaDZ2eFJOLUdHMDBCcVdpMGo?oc=5",
+   "source": "thenationalnews.com",
+   "published": "2026-09-04T06:00:00+00:00",
+   "desc": "OpenAI unveils 'world's most intelligent model' Astra with cyber security in focus    thenationalnews.com",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Broadcom’s AI chip revenue triples to $16.7B — custom silicon now undercuts Nvidia - Martin Cid Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFZjQTJ6MlJYTndtS01SanphT1I2a1VKVTdZYmxaWXFDNWdyT1YwS2JldEV5bnZPczkxSlJSdW53cFJJWTJfVEtVWS1rZDk2ZXNoU05kNUlvcjhxRHVrMFM1ZjRqcmMxQXV3RUJqSGhpUzNyU1FGMDRwYmtuYmZWNy0zTW12ZVBzNVUw?oc=5",
+   "source": "Martin Cid Magazine",
+   "published": "2026-09-04T06:00:00+00:00",
+   "desc": "Broadcom’s AI chip revenue triples to $16.7B — custom silicon now undercuts Nvidia    Martin Cid Magazine",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "MSFT Stock Heads For Weekly Drop: CEO Satya Nadella Says Azure Customers Are Already Using OpenAI’s New Astra AI Model - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMnNMMTdtUmxLRWVfV2U0MF94RTN3LVZ5Q1N1T202X290dTFGUDRDS2hkZWRRLVpidmhXcV8yN00wbEtrWWUxenRRelNpVVpxVVFhTXVBdmJIc0tNWGpyU0hDY3QwV0t5bmhrMUtVNjk4NGlUQ0dFQnU2Q2xVX1JoSWtWbFpNMENxeHc3ZTBGeWlZTk5GSkJ0QUxqamdrZms1djRTQjJXQ2pINHJmb0NRNnVUNzdYWE5xbjRGX1JLN0hSN1prOEtHbVhrNERkRU40VWNYRFg2Sy1MaFNlaWpfclJhenYzNkltWE41cE5ZdmFmOUdjUlhxNmZHV2JLX2FscVZ3Q0pKQkJ4eVlVNHZB?oc=5",
+   "source": "Stocktwits",
+   "published": "2026-09-04T05:55:00+00:00",
+   "desc": "MSFT Stock Heads For Weekly Drop: CEO Satya Nadella Says Azure Customers Are Already Using OpenAI’s New Astra AI Model    Stocktwits",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Nvidia’s $12.9 Billion Open-Source AI Bet - StratNews Global",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wUmc0OEFyaWdsMHoydWlNd2diTmU5alBvMkk3ajB2QmpPT29QeHFwOFZ3aklOcFRMUGduWWhYV0xWdHNKR1ZQa2NGVEZwNUNaeHl3TWhabHNweGVicDJBNHRmeWlwWjBGYmlLRXp2ZWZvLUxGTElXRDJGeWhDcDQ?oc=5",
+   "source": "StratNews Global",
+   "published": "2026-09-04T05:53:29+00:00",
+   "desc": "Nvidia’s $12.9 Billion Open-Source AI Bet    StratNews Global",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Simultaneous Outages Hit Major AI Platforms - 조선일보",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdlFWdmhzbi03TzZkajNjVDFJcmRGd1RsR3dQX21hblNnN0hQblhSaWE0a1VvVmpNWkJaX3BjdUhCQUR0b2lDem1vcFJxOVd4cXdDc2ZYY3U3ckF2SEh3MXZtQmgySDJFSHF3b3FoXzVZT1p4c18zWWNVVHc4NkNNRld2WGZvaTlk?oc=5",
+   "source": "조선일보",
+   "published": "2026-09-04T05:50:39+00:00",
+   "desc": "Simultaneous Outages Hit Major AI Platforms    조선일보",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI pledges $1 billion to cyber defenders, but bitcoin and ethereum are not on the list - CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUN6M0ZIUE9OTnNzSzdsVkU1a29ldkd1dWZDV2cyX3pGdjRySDQ4Mld0cUUxY3o5OTR3aThhdG1MME5ybHJjMzVueUtyOXVjSlk0V0VPNFJpclhvaUpKVjdQZ1NqY3BrMGFmODN6Qzg4WFpWaHNqUDdPZUFNcWgxNWdjNUNkR015b19ESnpnQjdIcnNPWnlkV0p5Y0pEd1lLUnp5Zzd5eUFLR2hOYUtpZHN6UmJYMF9nRTgyMUg0Zm5pQkxwYi16Zw?oc=5",
+   "source": "CoinDesk",
+   "published": "2026-09-04T05:49:43+00:00",
+   "desc": "OpenAI pledges $1 billion to cyber defenders, but bitcoin and ethereum are not on the list    CoinDesk",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI launches GPT-6 Astra amid fears of cybersecurity risks - qz.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hYzF1WmV0aXdTblhrQTBtNVRnUTlHQjVhV3ZHdi00Qk8wVDdsNnZSeDlIVk9OY1ozT1l1QnVEeGRWMVJjNm1BZENSQ2E4dWJlT1V5MGhDcnJfcUQzdmxuNmZwTGFPd2NYcVVWc0ZyQzR0YmN5SGtkU0dB?oc=5",
+   "source": "qz.com",
+   "published": "2026-09-04T05:46:12+00:00",
+   "desc": "OpenAI launches GPT-6 Astra amid fears of cybersecurity risks    qz.com",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Microsoft's Yusuf Mehdi On Copilot, New PCs And AI Future Dan Osborn (HbiLwjPBhP) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xNGVTc01rN0Q4aXFuX2Z6TnU0SkVqbGxiUVhuX0VxbWNrN09OVjNaRE9Db0w4Q0xLRzY3cUpnS0RwbDFySGVzcENNUk5KNzBlbE9VN2ZYSW00Wi1ORDdSUA?oc=5",
+   "source": "Mshale",
+   "published": "2026-09-04T05:33:17+00:00",
+   "desc": "Microsoft's Yusuf Mehdi On Copilot, New PCs And AI Future Dan Osborn (HbiLwjPBhP)    Mshale",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI Says Its Latest Release May Mark New 'Age' of AI - Newser",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkY3RHpwVTBmRFhreXV1VmxlNEFwdlB5Ni1iM1lsMUJTNnNZSEZQY3U5M2JMd2lwMlRLdTJYUHFFSEV1ZmRuMTFBNi1JTVo1SDZ1SkY2TTRZQ0Z0M19EV0FxSW95YVlwZ09rOUtpeGRDbkVNTEdadk1hVG4zbHBqeDRocldITVZSRTVjQWZMMkFNMWZ3YUlDd3dn?oc=5",
+   "source": "Newser",
+   "published": "2026-09-04T05:30:00+00:00",
+   "desc": "OpenAI Says Its Latest Release May Mark New 'Age' of AI    Newser",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Nvidia to acquire Hugging Face for $12.93 billion - Qazinform",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORmNxckRMV0VleE1TQ1JvNjZPZzcwMjZlTHk3NUkySjRsRmV0R2stZHlkUjB1bTZEYy1Jdzg1UFpUM21sYUtSdWNrUFQtSTdhMWpPamktSHJRYUp6NGVQaURHRlNxd2U1SlAxUjZPZDVLYWNJMEhmODltVHBpR1dkU3ZycVJzZ0ZM0gGIAUFVX3lxTE5GY3FyRExXRWV4TVNDUm82Nk9nNzAyNmVMeTc1STJKNGxGZXRHay1keWRSMHVtNkRjLUl3ODVQWlQzbWxhS1J1Y2tQVC1JN2Exak9qaS1IclFhSno0ZVBpREdGU3F3ZTVKUDFSNk9kNUthY0kwSGY4OW1UcGlHV2RTdnJxUnNnRkw?oc=5",
+   "source": "Qazinform",
+   "published": "2026-09-04T05:24:48+00:00",
+   "desc": "Nvidia to acquire Hugging Face for $12.93 billion    Qazinform",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "iA Financial Group funds new quantitative finance chair at Rotman - Insurance Business",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEdqMlA5WjBLYWZJTE1NUXlDbXZteFhGcEs0cHQwMWJCTmFhTkdKLVFOd2FnOEp2NG1Ya1Qya2xyeGVMNkNVSmVWWGktNS1RRmtGVnhmWThSUVBnSFFPZk1rOF9DdnVFQWNMeW1Ca1k0dTVLYXc0bVNOTi01a2dscF9fZ0JpaFZnRElVaFh2aDVDVDZJdGN3eU5BNE1JVTdJaDhPbmE0Zk8zc1FBSjBZZlRmUzF0RXBCMHM5TlRtOEpONWsyT0FYUUNkaTBBLUNLdnc?oc=5",
+   "source": "Insurance Business",
+   "published": "2026-09-04T05:24:29+00:00",
+   "desc": "iA Financial Group funds new quantitative finance chair at Rotman    Insurance Business",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Nvidia vs. Micron: Which Is the Better AI Semiconductor Stock to Own for the Next 5 Years? - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcW1ubGhVdk5SNnpqYXRnQndFUVBVTHVXMlNJRll4TWZwYzhhT25kOE1VQXdlcnVZSHp5bWNTQm56WkU2M2YtdjdZTXJqMC1WMUtTYUdwQmZJTF9SWWczYVY4MldLUHlfc21TSC1yclloenFxeFk1Y0IyM041Y3ptbWVwMG0yZnRfZE1XT1hyUWFOM3JELVJNbA?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-09-04T05:20:27+00:00",
+   "desc": "Nvidia vs. Micron: Which Is the Better AI Semiconductor Stock to Own for the Next 5 Years?    The Motley Fool",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "France and South Korea to Co-Chair Global Film Summit on AI and Industry Future - zoomtventertainment.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1gzblEzSV9fUHF2WlB6eHhidllDOWtrd0V3UUlQX0I1eG9XZ1JJY3R2X19Bb21McUZ3Ujk1UUFlRm1LbWc5S3FiWFhrdHdTdGF0ZDZzTVR0aDUwMkJHSHhERXNfdHppQklOWW03OEMyUDRTX2wxRWRWTXhId1BVY1hoLW1rQTI2cEQwaWMzYUZGS2NDX25HbnoxbFZqLUNEcWNvWHpTV09hZXVhR0VlMVhqZHo?oc=5",
+   "source": "zoomtventertainment.com",
+   "published": "2026-09-04T05:15:21+00:00",
+   "desc": "France and South Korea to Co-Chair Global Film Summit on AI and Industry Future    zoomtventertainment.com",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "NVDA: Nvidia Buys Hugging Face for $13B in Open-Source Power Grab. It’s a Slam Dunk for Durant - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbzExeHRlZGRqS1FqdkNlejRMVkxTQS1SMFBTcjB1Q1cxQkszQVFyMHN6UUdlQXBiR1dpbHlKVDBPcWFhRkpxQjRuNnc0ZjZZVThDSXBNbmRndTZ1X014dHFoRDFNV1UxOUtOUl9GeDN2MmdnWXQ3UTJQOTdaLVRZcWFLTDNhMV9vSS16X3FtaWlXQ0dhTzJPNk5GckNiZHQ0TEhGckg2MXA4TWNIRkhSWVU4enpmOFVSeVBWeXIwVXlZWi1vU1ljMmJIOU1QeFZpbkdROHVhc0ptODM5THdrbWVncGNnVlVz?oc=5",
+   "source": "TradingView",
+   "published": "2026-09-04T05:11:00+00:00",
+   "desc": "NVDA: Nvidia Buys Hugging Face for $13B in Open-Source Power Grab. It’s a Slam Dunk for Durant    TradingView",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Open and Neutral? Nvidia Says Don't Worry About Its Hugging Face Acquisition - PCMag Middle East",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ3JwREhxMlROdUhyX21YcUtmSVZqaVRaU19Sc1M4WUY2V3d3UTVpMVMwNnNGZ0FGeUgxLTVnTi1tWVhfVWJEOXBDMjA0TXVPMzZvcmtGT3REVUpvWmJEVHBrMkZwZkRyNDJ6Zmt3bjNfUkE5UnpMX0J5WVBEbHlUTzNHNFFWdUlET3lMdGstSndETXd2a2JOZnFBdll4VnpkTTRRU204ay1Lc1E?oc=5",
+   "source": "PCMag Middle East",
+   "published": "2026-09-04T04:54:11+00:00",
+   "desc": "Open and Neutral? Nvidia Says Don't Worry About Its Hugging Face Acquisition    PCMag Middle East",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Forget Zune. Forget Vista. Copilot Is Microsoft's Biggest Failure Mathieu Olivier (jgKWb2zMhJ) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oOW9zZi1TbGZrb3d2bnphWmpkX2hWTmg4eWgyZlY5Y3BpTWdJNklzUlJFNG1GblFKYTV0cGl2ck5iU3dGNkZNQ1dleFlIUm1zN0FTTWxqSFNVVDVGZGZOZQ?oc=5",
+   "source": "Mshale",
+   "published": "2026-09-04T04:48:26+00:00",
+   "desc": "Forget Zune. Forget Vista. Copilot Is Microsoft's Biggest Failure Mathieu Olivier (jgKWb2zMhJ)    Mshale",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "South Korea’s president Lee to visit France for summit - freemalaysiatoday.com",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNElobjJ6X05uZXhQejZWMnVXTVlBSUNOczQ5aFFEMHhSUGwtYV90dUpnMHRrUmd1UGpUendmU1JwUF9CSmxzNEk2MU03ZFUzOXZFdHlmcGRFeXBFNDRNMjZqb0EydEFjM19vdnhONUFQNS1iX21vVkYtSklmdmNBbTdKR2ZKcTJFTDViQTF6eUxDODFRVmJhMHc5SUY5OGpyX2FYaFdQWEd0Yko4NHVmR3l0R2VVNkdXeXdxZnJ6WTNEZnhic0lKblp3TFBENjFuUkpnSGZtVVRVZw?oc=5",
+   "source": "freemalaysiatoday.com",
+   "published": "2026-09-04T04:42:52+00:00",
+   "desc": "South Korea’s president Lee to visit France for summit    freemalaysiatoday.com",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Google has released details on 'Mantis,' an open-source framework that automates vulnerability discovery, reproduction, and remediation, showing that it reduces token overhead by over 85% even in massive repositories. - GIGAZINE",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NVkNBblMya0s0X0MxTzliNlpaNEJFSWNoTkp2MjA4NnY4MjBHYm5kV0tuUG00MmpRaXVzU0ZZVFVBWmJtMEdqelJHRXdCcG1kM0xsRWJVekNaUnZVZlUwY01kMmxmb2VEVFNMLVlORW9jS19mS1Iw?oc=5",
+   "source": "GIGAZINE",
+   "published": "2026-09-04T04:41:07+00:00",
+   "desc": "Google has released details on 'Mantis,' an open-source framework that automates vulnerability discovery, reproduction, and remediation, showing that it reduces token overhead by over 85% even in massive repositories.    GIGAZINE",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Anthropic surpasses OpenAI in ARR and valuation, says OpenAI president - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS2FRMHRicjBVWDVPUzJIc242anlCUzRDSlRHNmNqOGltd2xFOTB6YzB5T3NLQUxWRUlWT3dNaFlUMmVtM3MwekNrNDJ1cWVVY2M2LUR5Nk5ITzZtNlhaX0RpemxlMWNLTFh3QTlpajVIQlItMjZyWjIzdGw4U1phY2RudjNiYTFENHpNaWVpTWFydlFJRzBEc3loV3JCM0VGZkpVR1NnSjhJODhEMW1QVnBBTTdpNnJQTU5OeU1aYUlkbDdka2FOUmNON201ek0?oc=5",
+   "source": "TradingView",
+   "published": "2026-09-04T04:37:00+00:00",
+   "desc": "Anthropic surpasses OpenAI in ARR and valuation, says OpenAI president    TradingView",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI is putting $1 billion behind Daybreak for defenders working without enterprise budgets - Help Net Security",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnBIdTB1V1VFS0hPUGNlNmROWGZsZFc5cWVQNVB6N1U1Y0hrTW9IanF0ZC1VNk9lcUF1c0s5dVhsZU1zYl9kRk1RUU82VzhydlN1TVdXSHZwdkREVm1EaEY4dVgxZ0p2MmxoQWpjNjBYMnZzck9JTVdqMDJGSlY2aVdQUmhDU3h5bjYzb0Vnaw?oc=5",
+   "source": "Help Net Security",
+   "published": "2026-09-04T04:35:41+00:00",
+   "desc": "OpenAI is putting $1 billion behind Daybreak for defenders working without enterprise budgets    Help Net Security",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Most of the bugs Claude Mythos found have never been checked by a human - Help Net Security",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQktZbl8zalJaNmsxcm5VTWtJWTRJNXpCQlJaYUwzeGpRU2NKZmhCTmoxYlJZeXhqWjBIVS03OHVPTFJNTGFwcVJkbG1KMWQxZ3JMamJBLVhxNmxtd09sUzE4cmEzdTRJODR0R2VjeDZ6X3gydkpodURsX053aVFTT1BILUpsVURIdDczUDln?oc=5",
+   "source": "Help Net Security",
+   "published": "2026-09-04T04:30:25+00:00",
+   "desc": "Most of the bugs Claude Mythos found have never been checked by a human    Help Net Security",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Andreessen-backed AI startup Gimlet now valued at US$3 bil - theedgesingapore.com",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYkJmUmxjMDNmU1ZOUGM0U1RLZGNnQWl4d3hnbHE1Rm8wdjBkWU02QzdQVWVscHJEQ19iSkQ1ajlyT3FRVHZkVG1iQk9xMUVCNGpxZ3p1ZGRzQU4wdDBpZHE4MXVnaktBTVlRSGp1WGFhaHJxRUVqZkI1cS1BX2ZEcGdtcUFXUGctWmVPbGRvbWdfOGItWDVXcGpNUVF5d0FGcFZr0gGjAUFVX3lxTE1iQmZSbGMwM2ZTVk5QYzRTVEtkY2dBaXh3eGdscTVGbzB2MGRZTTZDN1BVZWxwckRDX2JKRDVqOXJPcVFUdmRUbWJCT3ExRUI0anFnenVkZHNBTjB0MGlkcTgxdWdqS0FNWVFIanVYYWFocnFFRWpmQjVxLUFfZkRwZ21xQVdQZy1aZU9sZG9tZ184Yi1YNVdwak1RUXl3QUZwVms?oc=5",
+   "source": "theedgesingapore.com",
+   "published": "2026-09-04T04:30:00+00:00",
+   "desc": "Andreessen-backed AI startup Gimlet now valued at US$3 bil    theedgesingapore.com",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Explained | How a rare US-China consensus at G20 allows AI an easier run - CNBC TV18",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWi1OMHdhdndfVndsUXB0VEZqeVZQb2gwSU10NWFWNjFNUV9TUkRTNUxTT2lSR1pkbVZqRHlEUEd1QVRRMldtSWM5aEFJOTRaTE9ER0VQbGxZX2FGMVd4c1hoTURyUkc0NkZJcjFscC0xN0d1TnhsNmlPcUIwaWZ0Yk1GZ0dYS2ZKZWpfTDVoak9HT1dhcTBYU1p0V1o5Uk41dWlCUDJRQTdLZF9EM0VDYVZmZWtnRnNVMlVF0gHAAUFVX3lxTE1HWVY0T0lEd3VtbGtWZmVEaW5HQnhubXEySGRDVFdpdE1TQzdYTFZrQUQtajdILUhtRVVvX08wZ2RfdFZIaHV0UnpRM0VxRzVHWngzVnNQcUxTMmVJdU55OGFfTjJJSHVqdm5PdUZYajNuUTlMTUxLY1NNQzFVQWdITVZFUHgtcFI4cUdETE9iLVV1ZUdsbWRad2tOeTdJb1Z4bmN2eVE5NkZHZW5ZVHEwUGdRcm1WV1I5aEdPeUNLVA?oc=5",
+   "source": "CNBC TV18",
+   "published": "2026-09-04T04:15:37+00:00",
+   "desc": "Explained | How a rare US-China consensus at G20 allows AI an easier run    CNBC TV18",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI’s president claims AI is as capable as humans now - The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlRlRURkaE5IYjdsd3JTN2lNMXNaNkV5OW11N2tpek1paUMwSnhuWk9XWExGRV9XaDFvYTd0SmFVSVNaaFk5VkhyY09UQXVrRTFlbVUxODB0ZktZMmRCM29fdFJMZ3dRVU1lb1piZHJHLVlYeHRGZVZGbXc5d01VTVNjUXhILW4zVFVLRWZlWVlKN25qSU9EX1BCOFRIMjRSTDJjbGFLc3lxQQ?oc=5",
+   "source": "The Washington Post",
+   "published": "2026-09-04T04:15:00+00:00",
+   "desc": "OpenAI’s president claims AI is as capable as humans now    The Washington Post",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO - The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSnFSc1hWc0F0a19BN3JWOFpfMUx4a3N3bVdOcl9ZYjFTQ25DUFpma0JlSnUzbG9CNXlFeUR0WVBuSTltSUI5MzBwRkFac2VibDIzTEt6ZWVhOTUtS29QZGtpaEV6Vm5QamFyR0lJR0FIWnRWb0ZMdUstN1ZGaEczd3NIRm4xRWhQVkpUbEVmNUVBWDRpaVhOWXU4UEdBS2ZZR2NpZnVQYkNLZFUyNGdYc3FYbEljUjNidjd1bEJkWlU1UU03S0d6RWpyc2RYb1pMLTJvckNEYmx6ZFlCMEk00gHkAUFVX3lxTE94VjZHcm13bkFMUVJ5WnQ5Tm5RbENNNlBUX0VMUFlia1p4TW1xeTg5NjRiZEVRa2JqU1JMbEk4RlBMX1VVMTFiMnFMTGVfeHdQUHg4d1VYMHlYRUpfQURGdnQ1djYxaXlJWmI5TnB3Ukx5WExaRUMxT293WV83ckdCcmZvcUVrdUJvam11WmwyTDZJMndMaGp6bkk1Sl8xNU1DbUhjbVZHd2RqTTk5aXh0NGYxX0hsMVhfUmVuNHpkQTZBZWsybUxFQ0p5RzJvTGZzYW9jWE1XWF8tVHNud3dwb2FTTA?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-04T04:14:53+00:00",
+   "desc": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO    The Economic Times",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Major AI Platforms Hit by Outages Amid Microsoft 365 Disruption - TechJuice",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUjlzZGd5clZaYy1FTTBFN1NuSDNtclpQTjU5ckJ4SzBEblhJemFINmwxYzBLNFM2cngydXRMQlRBVS13dTZlSVhibEdpaVVWb2dtWktLdExQQ3RzT05sRzNSRUc3dkl1NWVqTHBwTHBDMVlnZ2RIV0VsTlBTTElvZGVra0hXQQ?oc=5",
+   "source": "TechJuice",
+   "published": "2026-09-04T04:14:44+00:00",
+   "desc": "Major AI Platforms Hit by Outages Amid Microsoft 365 Disruption    TechJuice",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Nvidia's Hugging Face Buyout: A Brilliant Move or an Antitrust Nightmare? - PCMag",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTTFUdEdhd2Y3d0x4N09SUTVBVF9tenF1aFdscE1HX0I2MzItMkpwc3BmOU8xR0V0T2wtc1Y1bWkwX3hmdVY0ajVLNlZXWnd2NXlnZXVSTWJmTEE1Q0FrV3ZzMUdSNkhQbGxONGw0VUhrMnE1QW1GOXhkdnV3ak1kMktScTJpWGNyWG5iNmcyMjhfRTQ4a2hudmd3Z3pWajNySUE?oc=5",
+   "source": "PCMag",
+   "published": "2026-09-04T04:13:37+00:00",
+   "desc": "Nvidia's Hugging Face Buyout: A Brilliant Move or an Antitrust Nightmare?    PCMag",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "AI startup Crusoe valued at $30 billion after new funding - The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdFhGTEZtY2lhN0cwcDZQZXlUZHVsdlM5NC1XMjBlcTFxcGxyZHdIVk9QTjR4LVlrVENrU2NoRnQ5Vm1mSWdjSHlpMVFpWXNSUW9UMWNkcEF5dGNaeUZEd3pQTms4S2d0ZHc5OVZlRHlPMzBGVU5VSE5aYVhnSmRZaFU5T2tlLW1DQ2s3clJlYmZWZFlQZGI3cWkyRmplOEduQ0xwakpOU2lwTmszRWtueFBBd3VheFZhakh1NnAwNi1IaUpHcElia0k1VDJMV3p5c3RsUk9R0gHbAUFVX3lxTE1xSHM4dENmb3dfVzkyZVRPR196eExlSW82MUNnUXdBWXYyWUpqUlJKT1g1R3hFME1WcWxTZFpTdGRfbHhoOTVCS0tTbl9GMEJYWDI0YUxsc1YzRUx5RVFmbHZPRWlmUlBkVGdGZG5ETUdaaWs3Q0NTWVNCdmRxUmpFeUFyRXo2RkJ2OHlXc3RyV05kRDllcXMtZXREM2ZoUW5oT19sa0NZT0dIT2tzWHkzYjZzZS1GUTFTcWFaRDNFMVhkSmw5cXBpalhPQVE2N0F6aTh2QklkeEVYUQ?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-04T04:10:02+00:00",
+   "desc": "AI startup Crusoe valued at $30 billion after new funding    The Economic Times",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Nvidia Raises Bet on Open-Source AI With $13B Hugging Face Deal - The Daily Upside",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNnBIVUtLNnhvR2dZenNXLVJIa1pPLVhrMnZvcktfRHRXUXRVUjRGSHR6ekdKNzNHVUl5WkFraTl1MV9teHJHTTRrUkw4VUpweEQtbUp1bzVWSmJ0SDJHZHRQR2VTd1hvbmRhaWJCaDk0TTIzUWNTVDlwclNFMDc0UnRfSWlpUi1hMUZ1YUs4OWxKbXdJUmpiMWJhU3VlNWxXSnM3Xy1BNUdwTUdPTnZJbGNuYjB6TjdpWWZEMk81SnB5QXZnV3pRU2NLUm1qcjQy?oc=5",
+   "source": "The Daily Upside",
+   "published": "2026-09-04T04:02:48+00:00",
+   "desc": "Nvidia Raises Bet on Open-Source AI With $13B Hugging Face Deal    The Daily Upside",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Chipmaker Nvidia to acquire AI developer platform Hugging Face for nearly $13B - Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbDYxS0l6YXQ3M3YtUXVJZWdnLVFRZkt6MVM4MGlUVi00VWRaLVBnTE52dmJ1WUpMTDE1aGxPNzVkYnNLeEtZY0p3MG9uamt2S3Z2Zl9Rc19NNEFxMHRNUW9CS3c5S0dNSHlNOU9wa1FyRTB6Mk1mdFYzbm9CcmZwYWNLaG5rT1NLZ0lzbmI4cnpTSmF1NnlDcF9Sd2FPcTRYQmhiT0xqLWRNVU1xLUlRQmYzcV8zNW9UMS0zSGZwdk5MZngzUEJCXw?oc=5",
+   "source": "Anadolu Ajansı",
+   "published": "2026-09-04T04:01:27+00:00",
+   "desc": "Chipmaker Nvidia to acquire AI developer platform Hugging Face for nearly $13B    Anadolu Ajansı",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "AI-Written Papers Outperform 99% of Human Manuscripts: Chen Yongchao’s 4 Unanswered Questions - 36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95RHlDYW5WM1g0a0R0VVlVMjMzdTJYc0d6dDJrUU1WeDVjMnU1Y19NQTUxV044d1h6Vmt6Si1CWUJHN3ZLa3N5RTRUQ2VsUl9pal9N?oc=5",
+   "source": "36 Kr",
+   "published": "2026-09-04T03:53:07+00:00",
+   "desc": "AI-Written Papers Outperform 99% of Human Manuscripts: Chen Yongchao’s 4 Unanswered Questions    36 Kr",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "Incore Bank Trials Agentic AI With Kyndryl, Google Cloud for KYC - fintechnews.ch",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rMm5fSHlCOUx2NGJSTVFwNnE2WlRPc1BBVEFYa25MN1VGU2NlYUtTMUFhRVpfRnNGRGJEU3gtN0RIY3NtSEhHUFk0RnNMSmxzWlZtakdXNkxCMU93TkZ1ZlJQQ0ZMTXNFakc4NEROd0ZZRmxyeVY5RTdB?oc=5",
+   "source": "fintechnews.ch",
+   "published": "2026-09-04T03:51:59+00:00",
+   "desc": "Incore Bank Trials Agentic AI With Kyndryl, Google Cloud for KYC    fintechnews.ch",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Tech Bytes: Nvidia’s US$13 billion Hugging Face deal tightens grip on AI stack - Proactive financial news",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYjhaWHVMWXBlMDFLa1FyQl9JMzFNVDMwMDBmWC14R3hNYm9VdWh5VDlHY2h3Q2l4N3AxaGlkV2xhejUxTXRtUTdhUml2elJKMWVoY2N4R0M5U3E5d3FGNzYtZ29ya3kxc3lKSk1vNDNvU0xZakpUeUlPZW41QjVqUWp3WmIxeS1HZDZqVHdlUjlDZzBWZFNyRXdtMWJDZ1lVUnE3RzBlZm9Tcmd5MXNRQ0dnWDFxTFp0WE1HaU1ScTBYaktfcm5sZEdoWnNodDFEeVIxaFQ1SWVIVEMtRkZjZldBQl9GUWhZd0ZvSkJn?oc=5",
+   "source": "Proactive financial news",
+   "published": "2026-09-04T03:47:05+00:00",
+   "desc": "Tech Bytes: Nvidia’s US$13 billion Hugging Face deal tightens grip on AI stack    Proactive financial news",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Nvidia Expands AI Push, Plans $2.5 Billion Investment in Thinking Machines Lab - TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVUo1WnJLc2VSb0JOZktDOHVMOThWZlBZbHl6aGttQk1sWkVDXzVLVk9DRndicVloWTVkYUg5LXJTN2h3ZTltT09Uc1g2V3JvR2pRNWY2dElRbVl5amJwVGlJdVFvdlNZcXZ5VmtJLTVxaW45bEdvUkR3Q3JWalFVeDNXU240N2I5UjNHNWVGOTdsaHFaMndIdkp1dG96ZDRySlpVc01SdUs4U0dWaWNKNVhPemRKUGRzS1pzaG5icnpSUGc4MTlMRjdfUFNLZkJkcEE?oc=5",
+   "source": "TradingKey",
+   "published": "2026-09-04T03:46:45+00:00",
+   "desc": "Nvidia Expands AI Push, Plans $2.5 Billion Investment in Thinking Machines Lab    TradingKey",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Governing Finance in the Algorithmic Era: India's Delicate Balance Between Innovation and Regulation - SCC Online",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWFTT0RKcExTVU5CVmhHWGQ3NzlsZVBaY2MyTGZyNEE5c1UxWmZTOTc3VXp2Wk1kTnNqcXRLdDJocDRwN3U5TU1neEtHTHk0WVJ0WDNXcDY5Z0IxYkg3VzAxMHY5UVEzMEU4ckRrVFdlMzBsQ2UzazJVNTRIZTNSN1Q1bEk1X05JU0gxcklEOGg?oc=5",
+   "source": "SCC Online",
+   "published": "2026-09-04T03:30:36+00:00",
+   "desc": "Governing Finance in the Algorithmic Era: India's Delicate Balance Between Innovation and Regulation    SCC Online",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "Anthropic Engineer On How To Get The Most Out Of Claude Code | Thariq Shihipar Paok - Aek (8zcCQCIDOa) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRWlpRmtDcDVqNVg3YlEzQWZFdC1vaW5pY0cyOXJFTE9HUU1VaF9FaXVic2ZFYU5KdF80NDRhTkxmbk5SY29GVjNqZTJCb01sX0gwdVBLUUdQQQ?oc=5",
+   "source": "Mshale",
+   "published": "2026-09-04T03:15:54+00:00",
+   "desc": "Anthropic Engineer On How To Get The Most Out Of Claude Code | Thariq Shihipar Paok - Aek (8zcCQCIDOa)    Mshale",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "AI Outage: ChatGPT, Claude and Grok All Disrupted - ChannelNews.com.au",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd1JaV2R0cm13X082dVNSa18xdzlnQWpjZ1lSV3BVNWVPNGszM05OSlcyeUFBZHZiQ3lZbGxnaWdOeTF4blRvdnZaT3pwZHFEcjg5NFRoLUNhQW1XT256MlZfaWJCcFc4dXFHS2xlb1BmQWRJbDlsM1NJSzRrUlNyaTRWenhjUQ?oc=5",
+   "source": "ChannelNews.com.au",
+   "published": "2026-09-04T03:11:56+00:00",
+   "desc": "AI Outage: ChatGPT, Claude and Grok All Disrupted    ChannelNews.com.au",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Moonshot AI files confidential for Hong Kong IPO as Kimi K3 boosts profile; valuation of $50 billion cited - 디지털투데이",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUxhY2k5STN6SndkRHZHUUtXRk9VYkdEVUVURThGc2NoSm42blZuQTBhUVd5TS1pNTVIcHFRODluVHRvRnY1bkJXa1hBY05SZWY2d3BfZjA2eXVpb2tMam9MbmotQzVJZTZHQmlCd2I3TnJNM3BXcV9oakVCcWZ3clNyVnJsYkczdi1wRXBGSHZNa1RpREh5dGF0NkkzeERRd3B2bzRfd2RCMnE1YUF3UTYzSmdiVVFUSWhR?oc=5",
+   "source": "디지털투데이",
+   "published": "2026-09-04T02:55:21+00:00",
+   "desc": "Moonshot AI files confidential for Hong Kong IPO as Kimi K3 boosts profile; valuation of $50 billion cited    디지털투데이",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "xAI Unveils Grok Bot for Enterprises with Free Trial Offer - blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xaXdpckprbE9UR0lFa0F6N2cyNjI4R2NjYkVMRU9OTnB2bGlqTG9QLWwzbzJWZ3RzMWRpUXk3Sk5CWXc1czVSSGxZb3M2eWJJcjgzTlNSdmM2ak5MVE5zeHJCY0JaYXdpWmtR?oc=5",
+   "source": "blockchain.news",
+   "published": "2026-09-04T02:50:08+00:00",
+   "desc": "xAI Unveils Grok Bot for Enterprises with Free Trial Offer    blockchain.news",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "xAI Redefines Persistent AI Agents with Grok Bot - blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxUEZfVGFoaEYyazBOcVZOVHZ4Rzd0WndiblZNVENQNVM5dWJXd2ViRjFqbnNGZXAyT2FKdGktUlFsNGV5eUJ0LWlmQUFOaGM0cWxKZWgtakNhb2JiVHdieEZWWmhnSXZHMklRQkVlU3RGbnBlTllVcEprR0E?oc=5",
+   "source": "blockchain.news",
+   "published": "2026-09-04T02:48:45+00:00",
+   "desc": "xAI Redefines Persistent AI Agents with Grok Bot    blockchain.news",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Resolution helps digital technology become part of everyday life - Vietnam+ (VietnamPlus)",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRlJWdDlLQlFVb3hZb2ctTkhEcXZ3NlNWWTlYcDlwTnVNSDBVbG8xaVdCQXQ1UDFSZUc4VkZTdnhiU3g1VHdaWkJOOHdaRGwzTS00OWJRQ245QUp5N25BNHVDYkFENTREUHY0MXBPMjJERjBZVVE2aFNvODRTSThOQk1yb0xrdzlRWUNtUjRCYWk0R0dCRzRvVmJXTVpvNmc0NThKcXI5Tno?oc=5",
+   "source": "Vietnam+ (VietnamPlus)",
+   "published": "2026-09-04T02:37:06+00:00",
+   "desc": "Resolution helps digital technology become part of everyday life    Vietnam+ (VietnamPlus)",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "The ‘Deeply Nerdy’ Founders Behind Nvidia’s $13 Billion Bet on Hugging Face - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMV9KMEM4cm9sZE5MRlZWakZveGp1N1k5TC1nT1ZkWE9DU252cjRWZ1Y5LXpMc1RHNG9xQURtN2Vqcko0dTZZWWU4dWg4RDdReVJ1anp3YUVJRV9yaWtFSzVxaTNCeW1SdWtacndKWlhORVFuX1ZXRVY0VzVPU2UwS2hIV2k0TWdiUGhHU2FwU2xaYUlpQS1saUp1S0FoT3RVcXpJbjZaTWlhZWwx?oc=5",
+   "source": "WSJ",
+   "published": "2026-09-04T02:19:02+00:00",
+   "desc": "The ‘Deeply Nerdy’ Founders Behind Nvidia’s $13 Billion Bet on Hugging Face    WSJ",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "CONFIRMED: AMD Invests $5B In Anthropic, Gets Claude In Return Disney Cruise Ships (l0usRtfdhf) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNXzMzbFBhc0txd05ORlVVRjNYbks4eHdxaGRyNFlwazg1MUhDTF84VnJLaWM2RFY3S3F1LS1sb0ZodUYtcUs2am9xc3BLYXN4YmdTZ3dGOWhNSUk?oc=5",
+   "source": "Mshale",
+   "published": "2026-09-04T02:02:30+00:00",
+   "desc": "CONFIRMED: AMD Invests $5B In Anthropic, Gets Claude In Return Disney Cruise Ships (l0usRtfdhf)    Mshale",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Nvidia’s next AI play: own the platform where open models are built, shared and deployed - Ynetnews",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VaDJVSDdXdzgwdWUxVkN1NXZiQzlvT09LN19pY1J5YmpXR0Vza1ZxdnVqQmoybEluZkpPVHJJMnA4dmR3b3VNWklLYUJrQ09SeGVMTlpHX21WZTk5SzRDVm43T2Npa2ZHNmhHLQ?oc=5",
+   "source": "Ynetnews",
+   "published": "2026-09-04T01:56:37+00:00",
+   "desc": "Nvidia’s next AI play: own the platform where open models are built, shared and deployed    Ynetnews",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Get AI to work on your terms: Microsoft Puneet Chandok's advice to everyone in the modern tech race - YourStory.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbGZsTkJKQzNRc3Z4MnVJV3BGQUxpVUJCLWNxT2JTUWZ5SzB2dE1LY3RBVmxyRmxiY2RaTmh5R0F4ck9wREFienVyeGZMUHNvZzlMMHVicm5aRXZQV3RIWGJoR2VLOFF0RlpWb0xGMkJQNmM3VWxWajdFTVE3NnZkTDFYR19Qb3ZLMHFR?oc=5",
+   "source": "YourStory.com",
+   "published": "2026-09-04T01:52:30+00:00",
+   "desc": "Get AI to work on your terms: Microsoft Puneet Chandok's advice to everyone in the modern tech race    YourStory.com",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "We Have A New Champion, It's Claude And Anthropic, Says HundredX CEO Rob Pace On AI Platforms Darren Till (hK6W2v94Wc) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BeFl2anMwMWl5U19uQW9YN1p6N2xFSVFZQVpwdXlraEQ1dGRmYnVFaHRDZ01Lalh6X21YaHowdGpad1UzNWpYbGpMMEVLd0xaMGxxcUtIcWhLRWc?oc=5",
+   "source": "Mshale",
+   "published": "2026-09-04T01:10:16+00:00",
+   "desc": "We Have A New Champion, It's Claude And Anthropic, Says HundredX CEO Rob Pace On AI Platforms Darren Till (hK6W2v94Wc)    Mshale",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "FirstWave Files Patent for AI-Driven Network Monitoring Breakthrough - Finance News Network",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa0ZqX3VfNWpwZm1YQWQwUWItOHQtQTBNamZOcFB6emFLTjc4a01EWjZqcjNyTzdlS3JRYnZUQmhoUW5xUFBZajYxdmstbW9waUJVRHdON2xVamFZR3Z2blRCcWZ2YXpHdFc5WnoxZEhlOXRIMlM0cEkwSWNWZjdnRQ?oc=5",
+   "source": "Finance News Network",
+   "published": "2026-09-04T00:49:47+00:00",
+   "desc": "FirstWave Files Patent for AI-Driven Network Monitoring Breakthrough    Finance News Network",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "ChatGPT, Claude, Grok Others Down As AI Bots Malfunction - MarketForces Africa",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ05CTEJTeXd1bFFRRUZteGVnY3phTE9ISE5JRWdIZUVDYXJiVVFpR3lwUGo5S0cxX0d0aERNb3VLczdXUGsyaHN4Sm1OdzV4c00ySFJmNUdSSDVSdEFDOGhFQkZMSzllbHlyUWNDMlBENUdwM3YxblF2TUptZXNjQnlQM3hCLUkx?oc=5",
+   "source": "MarketForces Africa",
+   "published": "2026-09-04T00:47:36+00:00",
+   "desc": "ChatGPT, Claude, Grok Others Down As AI Bots Malfunction    MarketForces Africa",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Google launches WeatherNext 3 AI model for global forecasts - Tech in Asia",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYXJtX1J2clhuZTZGdm1OQ3pZZ1pGV0hTWlBRNkMwQlctYVdQSGw2dXJrQVlUY3NyVzRyYkQ5R042MEdvVld4VU55aktDbzR4dkhDTkhuV3FlTVpzdUd2ZHpCWEFmRGJBOWRyalR3dWVTYW02UU1sTTZ6YUxsMXVXWW45NGVDcC14dHhYUHRUQVI?oc=5",
+   "source": "Tech in Asia",
+   "published": "2026-09-04T00:47:00+00:00",
+   "desc": "Google launches WeatherNext 3 AI model for global forecasts    Tech in Asia",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "ChatGPT, Claude and Grok face technical problems - Pakistan Connect",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyUEhDRHB5bkVDd0lrX0ZoVXM2V3B3TktxS3JoeTdOLWtnRGFoM0NUOUpMSDZhbTRMTElPUXVtaVppcEtIQWY1YWN4QzFLcFpOOElMckZiS3NGQnBqRzN4Sw?oc=5",
+   "source": "Pakistan Connect",
+   "published": "2026-09-04T00:41:07+00:00",
+   "desc": "ChatGPT, Claude and Grok face technical problems    Pakistan Connect",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "WeatherNext 3 Delivers hyperlocal forecasts fast - blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTnZhRi1HVWU3bHlvT3d3SEFXbFd0UGFybkZkcV9wN2JlMUtLUlRzbGpRM3YtaXlrVnZtZXExYU5NWFdJQVJ3emJMSldsUG02Z1dZRDh1dzUxSFBVQU9ZTmg0eEdlR3djbExWQVdQTzZYVEp2Q2hSRkI5UTdqRDFQQmZ4UmRNQQ?oc=5",
+   "source": "blockchain.news",
+   "published": "2026-09-04T00:31:31+00:00",
+   "desc": "WeatherNext 3 Delivers hyperlocal forecasts fast    blockchain.news",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "GPT6 Astra Rolls Out: OpenAI’s Bold Breakthrough - blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc2FqUGFWa1BhQXRnam5OY1UyTkIwYnpWLUtCMElOUEpkcmViTTkyVFlvT0NGMF9naUlxRWZZSWxYZ2hMQXZpUUdDS1FWTzZrczVham9jRk56ZE5hcDF0VkhJVm1lZ2dhdkppbTl5bjJnVmtVdDRVY082clFHcUxKUDlYMXE?oc=5",
+   "source": "blockchain.news",
+   "published": "2026-09-04T00:31:23+00:00",
+   "desc": "GPT6 Astra Rolls Out: OpenAI’s Bold Breakthrough    blockchain.news",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "SpaceXAI Brings Grok To Excel, Word And PowerPoint — Here's Why It Matters - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVZVQmpqVjVVSXJvLXFKVlloc0xoOWJLbnRzYnAzWHk2RWxja2R2NlJ1M3R5TGtvNUF1cWI4b3QtS0hINndVYVpZVjFfU0k4R1duTnNCeTFhOFRTazkwRjdlem9oMnhXblVHdTA4VVozZkFTWklOZU5Qem01bWVlN0VEaVhiQnQzY3k5ZFZ2ZzNoNHZzRUUwdTVLb3pXdW1SbXNnOWY1b1NNUVFoTnJIZjdvVC05Zw?oc=5",
+   "source": "Stocktwits",
+   "published": "2026-09-04T00:22:31+00:00",
+   "desc": "SpaceXAI Brings Grok To Excel, Word And PowerPoint — Here's Why It Matters    Stocktwits",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "ChatGPT, Claude, Gemini Down: Outage Timeline [2026] - tech-insider.org",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sTUhyVUJCSlpYbzBtaGRDbGJRazYxRjhiTG91WTdHalZNWUU1RE9DVl9vV0djWDZYcFRnaHVEanZXUlBmTDVhcjBJVVhLWDNBbjNKLTg4UnNQRnpqemlMNmV5UW5uTFdIbkVPSFhScnVEUQ?oc=5",
+   "source": "tech-insider.org",
+   "published": "2026-09-04T00:17:13+00:00",
+   "desc": "ChatGPT, Claude, Gemini Down: Outage Timeline [2026]    tech-insider.org",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Get Out While You Can Silicon Valley VC Tells AI Founders - Electronics Weekly",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OSjBoSnZ0eTRCWXAyMUxhTFpQZ20yTHJza0xpNUdZQV9oSzBfNnNUNmExcGFWY0U5R3c3eU9lNXhoQ0VYMzEwdFR4ajhHbkw4WGlxQ0FR?oc=5",
+   "source": "Electronics Weekly",
+   "published": "2026-09-04T00:10:08+00:00",
+   "desc": "Get Out While You Can Silicon Valley VC Tells AI Founders    Electronics Weekly",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "AI is changing work in India faster than expected: 32% qualify as Frontier Professionals, twice the global share in a study",
+   "url": "https://www.indiatimes.com/trending/ai-is-changing-work-in-india-faster-than-expected-32-qualify-as-frontier-professionals-twice-the-global-share-in-a-study/articleshow/133740281.html",
+   "source": "",
+   "published": "2026-09-04T00:06:00+00:00",
+   "desc": "There is one figure in Microsoft’s Work Trend Index 2026, that stands out not only due to its sheer size but also because it comes from India. According to the Work Trend Index, 32 per cent of Indian ...",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "bing"
+  },
+  {
+   "title": "General-Purpose Vision Models: Perceptron Launches Its Isaac 0.5 Model With Open Weights - Trend Hunter",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aSGM0c1VJOEtsV3gyLUlyQkczb0xpV1lVZjdPRDJybU1qVEpaTEtSYnc4bmRpOEZKVExuWDZxNlFGeURpWnRncFF4WmY0VkNaTXc?oc=5",
+   "source": "Trend Hunter",
+   "published": "2026-09-03T23:50:47+00:00",
+   "desc": "General-Purpose Vision Models: Perceptron Launches Its Isaac 0.5 Model With Open Weights    Trend Hunter",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "DRAM, MAGS ETF Issuer Eyes AI Photonics Opportunity With New Optical Stocks Fund - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMHV4Ti0yZy11dEctb3R5ZElNcFVfQjdia0tsN1pNZEpaZ1BMbl9MU205aFYyOGF4WHZwVUtJN1k5dlp3NDg5LTdTekN1Q0p5ZHFUVUxjWUlmQlAySmFzdmFpeUczRlpHWEthYThKb2lqZkp2YW83dXRQbElnMnZjVnIxaDFNdWFyY29NMjliajZ4UmNTN1hmYkd6Rk1jeHFNVjB1dmd3YWprUEVENjVFZVpPWlRWT0taTFVZRWZ6MlY1ektucnVUOWZCNmhIOUxRYkJtRnlEb0lMb2M?oc=5",
+   "source": "Stocktwits",
+   "published": "2026-09-03T23:44:37+00:00",
+   "desc": "DRAM, MAGS ETF Issuer Eyes AI Photonics Opportunity With New Optical Stocks Fund    Stocktwits",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Global AI Blackout: ChatGPT, Claude And Grok Suffer Simultaneous Outage, Users Report Failed Responses - Republic World",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUU5NUXMxZ2RuZkRyUjA2VFdkVGdJa0lhRnRaTHR0My1QWFFKai05c1laTTc3WjBXa2hjc1c3STVCRnVzNWJmbnBSazJ0MHc1bjdqaGxkdWI2c29rYzNkbHBNQTh2dTY0X3JkVUpwMlpUTVNyTGM3djlieDJoQUhGYTJ0cUp0T0ZHVTVpeG9jNzhySVJqZ2FDOHpjM25hNU4wU3FaV2lJcnFIb29SZDBDT2w1bThWOUpDUkN5YnROdVBYUmh1bHJjVUY0N3N1TnFyUkUyNmR4djRTN1VTdTRDZ2IzSTVLMXfSAewBQVVfeXFMTTIxNG8xQVhtMWpSYVhxUHhZOTNVNlByakt0NE5lcDhCMHBteDhMc0FQOGZRT1VvSmZ6c0JBRDdzd2gycjFQVW9PbFl3bnQ2UER5RHp4NUR5ZVRqRHFENVA2b044eEVMNmdQUXVTOUYtTWNlMVduZzhXRm51WU1IdldLX0ZrdkliUHFqN0VXYXhGd1Q4bVptR2JVWXQteDRSYVVQbkw3dklwMXQxSXZ0YlZmbXhFSHdYVHZFZV9XOEpxVUMyNXo0ejVzMHJ4WnM3ejliY3I0Ni1ZMldDUFkxQnhTUndqT3Fnd3pUZkQ?oc=5",
+   "source": "Republic World",
+   "published": "2026-09-03T23:31:23+00:00",
+   "desc": "Global AI Blackout: ChatGPT, Claude And Grok Suffer Simultaneous Outage, Users Report Failed Responses    Republic World",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Anthropic launches Claude Fable 5.1 and restricted Mythos 5.1 for advanced research - EdTech Innovation Hub",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbjRvaWhmT2plTjhwWjBOXzZON0x5WkxPeEFaX3N6dzNIT1EzTklicGRkUlFQU29xSTRSU05wNVlBMHRLUDh3dE9uWmpnOWF0SFQ4YVpHM1Mxb0wxNDJYbEVYTG5RSVUyeWxVa2dXakdoNVMxR3lQVjhXb2hfcmt3a2ZzNXFJU1V5ZHNSeW1vZzdhLVdDTXhSZWRRa3hqNGxRa1dFekhJY3ZSSldZX042Umxpd3ZfeGp3ZHg4anVkOA?oc=5",
+   "source": "EdTech Innovation Hub",
+   "published": "2026-09-03T23:30:18+00:00",
+   "desc": "Anthropic launches Claude Fable 5.1 and restricted Mythos 5.1 for advanced research    EdTech Innovation Hub",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Unprecedented Simultaneous Outages Hit Global AI Services... ChatGPT, Claude, and Grok All Go Down - 아시아경제",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xT0lkeGxBMzJlazR4LVd0TkpRWjJfYTBxVDJUaWRyYjhYLXQzQ2ZzVXJKZDdXZmluMmhJMTd3X0lMU2lwT0FSNUVGaDhkNFhEcjF2NG1RYnpOblcwMFlKZmhhdWNNQXkycklodDNHSkp4eTBHU29B?oc=5",
+   "source": "아시아경제",
+   "published": "2026-09-03T23:29:30+00:00",
+   "desc": "Unprecedented Simultaneous Outages Hit Global AI Services... ChatGPT, Claude, and Grok All Go Down    아시아경제",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Lawyer struck off for using fake AI-generated cases before SDT - Legal Futures",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVUpfNkpJMFB5a3NZYndwNHhHUzI1TkxjUXpJbnlmcXZ4Y3FteFY3eGhuVXpHWU5UQ2tWbjhDX2JoYnVfRnN1dUdvb1Zad1BIVFRreHpIR3YzUnI3dVZMVHR2U2l0ajI4ZGZWR1VueEd1SWlrdklMeVgxb0t6TGFiV0ZDcWV0ZG51WkRVTFRpN3d4a0NiMWMzZWlEVXhVOXU5MWcxU2hFMXE?oc=5",
+   "source": "Legal Futures",
+   "published": "2026-09-03T23:27:00+00:00",
+   "desc": "Lawyer struck off for using fake AI-generated cases before SDT    Legal Futures",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "Amadeus Brings Travel Tech Into Claude Code, Cowork - Skift",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yQjFMRFpHSkxwLXVRaVF1Z1BKb1NzaXZYc1JxQklabjVZZHI1VnRoN3hma3VYeGhaandIUjE1QTdUeHBicm45dHFBS0hhSWdoWmNpcmxLU1JreVpXcGdLc2lud185d2NDbnNuZHNZX0hTdUZUU0Zn?oc=5",
+   "source": "Skift",
+   "published": "2026-09-03T23:21:01+00:00",
+   "desc": "Amadeus Brings Travel Tech Into Claude Code, Cowork    Skift",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Increment designated as Microsoft Frontier Partner - ARNnet",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3djN2VqT0UxcFZUVUxFaGlOazYtWGFaMG9JN0dFazNKLThQSzhjTnU5a21NUjJsLXMyOTc2V0xqWmZoLVZ3SHlTbk9Ed2JaOHZFdDVuOEp3OWNNVXI3MUx4V3QxNjBWV2hpUWlGT251UG1wZTkzMXpDT3J1c2UyR2Q1UXAyeVJZbzlEWGJXdDdxcWRhM0JGMFFRM1l2dw?oc=5",
+   "source": "ARNnet",
+   "published": "2026-09-03T23:15:53+00:00",
+   "desc": "Increment designated as Microsoft Frontier Partner    ARNnet",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Anthropic Claude Enterprise Frontier Safeguards Explained - tech-insider.org",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUlBS2xuV1U2Z3ZxcmNkQm81a0FkUmp5UTRrS2hLQkJEZFMzd3VNdXRtY2VSRkYxTE5mdjFDWGVXSnVIbG5hQ0E3ZWhZYlEwSVhzMmd0aG9RQ281Wl9qcE95UEt4WVRSc2pwM3FNNFJ6dUQ0SGtDU21sTlNiODZpeU5oZU4?oc=5",
+   "source": "tech-insider.org",
+   "published": "2026-09-03T23:13:45+00:00",
+   "desc": "Anthropic Claude Enterprise Frontier Safeguards Explained    tech-insider.org",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Google says its new AI weather system can talk to satellites and deliver clear forecasts every hour",
+   "url": "https://www.indiatoday.in/technology/news/story/google-says-its-new-ai-weather-system-can-talk-to-satellites-and-deliver-clear-forecasts-every-hour-2986837-2026-09-04",
+   "source": "",
+   "published": "2026-09-03T23:07:00+00:00",
+   "desc": "Google has launched WeatherNext 3, an AI weather model that can deliver forecasts every hour at up to 5km resolution using real-time satellite data. The model also promises better rain forecasts and ...",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "bing"
+  },
+  {
+   "title": "Claude Fable 5.1 Anti-Distillation: What Changed [2026] - tech-insider.org",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMEpnYXF0eGZEU21lbFZhLWMwRW95UXNJZTBtM0dWX25TVWdoYkxZcjJIaVlTVjUyRFZGS3VmU0k5blBuUkFxQTVjVFE1elNkUHQxdXRKX1dyUi0tdnE5RnRXUUZtUFhwUmFhQUN6dmhXUWpLZF9NSkhjQXliNWk5Qy1n?oc=5",
+   "source": "tech-insider.org",
+   "published": "2026-09-03T23:03:06+00:00",
+   "desc": "Claude Fable 5.1 Anti-Distillation: What Changed [2026]    tech-insider.org",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "IFM Releases K2 Horizon, Six Open Models From 0.9B to 375B With the Training Data - pasqualepillitteri.it",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTnRmNmFQZkk3b2tmQXdzVXlMcmYyVEhNZ3VDcFhfOTRpbFhPT1c3Wm9JT1hvczZDLTZZMWNSSC1VWG1yaGYxN3E3dDN6M05oT21fMThoYjM3dlgyRHJ5dTZMY0lUQXdINlV3VjZ1ZHI2dWJNTTd3VDVXa0tGb2lDSG9ROUs4Y0RodmxvYw?oc=5",
+   "source": "pasqualepillitteri.it",
+   "published": "2026-09-03T22:57:35+00:00",
+   "desc": "IFM Releases K2 Horizon, Six Open Models From 0.9B to 375B With the Training Data    pasqualepillitteri.it",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Widespread AI outage underway - Axios",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmMzJDQXFSRzZoazlBWjJxOVdrZS1DUlR1S0xLM0xvTzAtRzBBUFBNeTk1RzZXM1l0MGZaenVBOFY4WGtXeDUwc2ZRQXZSelBGZWlQcFFoTHFwMDBSRGp4MDlIZGhCRXBkZjZOQg?oc=5",
+   "source": "Axios",
+   "published": "2026-09-03T22:53:33+00:00",
+   "desc": "Widespread AI outage underway    Axios",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Security industry core products see generational shift as AI-native push accelerates - 디지털투데이",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM09iSW9pdG5jZjhGam5GeS0zTGpuNjdQbG00eUpwdWs0MHBvWVp2MDRRNUhocWNQOU1xdzBQLVByRlNMcjNDaTU4VDhOSkVVRldBVFQ1UU1nUFNnYXV4VS03all3cU1tdmtjQkNDRVpPNU1KZmUwVFgta2pCZzdoVzFXT19mcHd4dm5DeHk1SVlpSUJUcko2TzVCQk5fd3lsU3pNS2JaYjY1aUxSZ2V0aEd5REtISUh1a3c?oc=5",
+   "source": "디지털투데이",
+   "published": "2026-09-03T22:30:00+00:00",
+   "desc": "Security industry core products see generational shift as AI-native push accelerates    디지털투데이",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Maharashtra announces AI Policy 2026 to boost industry, governance and public services - newsonair.gov.in",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5",
+   "source": "newsonair.gov.in",
+   "published": "2026-09-03T22:25:05+00:00",
+   "desc": "Maharashtra announces AI Policy 2026 to boost industry, governance and public services    newsonair.gov.in",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Nvidia bets $13 billion on open AI models with Hugging Face deal - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
+   "source": "Reuters",
+   "published": "2026-09-03T22:24:47+00:00",
+   "desc": "Nvidia bets $13 billion on open AI models with Hugging Face deal    Reuters",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Cerebras, Volatus Aerospace, Standard Lithium: 3 markets poised for a breakthrough",
+   "url": "https://www.msn.com/en-ca/technology/tech-companies/cerebras-volatus-aerospace-standard-lithium-3-markets-poised-for-a-breakthrough/ar-AA2bxJ0D",
+   "source": "",
+   "published": "2026-09-03T22:24:13+00:00",
+   "desc": "Cerebras: Billions for the Next Stage of AI Expansion The AI boom is also hitting Europe with full force. The US company Cerebras Systems has now announced, in partnership with Compute Nordic Finland, ...",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "bing"
+  },
+  {
+   "title": "How Siemens Is Bringing Generative AI To The Factory Floor",
+   "url": "https://www.forbes.com/sites/bernardmarr/2026/09/04/how-siemens-is-bringing-generative-ai-to-the-factory-floor/",
+   "source": "",
+   "published": "2026-09-03T22:19:00+00:00",
+   "desc": "Siemens is bringing generative AI, industrial copilots and digital twins onto the factory floor, helping manufacturers tackle skills shortages and improve productivity.",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "bing"
+  },
+  {
+   "title": "OpenAI Subpoenaed Over Hugging Face Attack - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZWl6M2Z1a3lzVEtpbWJuWTdmMHBJanBWWi05Rm9CaE1wVVNyT2RzVUEtMDNwU0VMdDJGdGdBcllHRmRsLWVKZXIzMWRQYWZMdFJxaDlxYkhFTUV6U0FwaVdmU1ZLbF9Zakp2NmpFSGFjYlY2WjRWY1ZHOHFJcHJRSWdQMGotTXdmdGFjbkE4LWl6bzQ?oc=5",
+   "source": "WSJ",
+   "published": "2026-09-03T22:06:14+00:00",
+   "desc": "OpenAI Subpoenaed Over Hugging Face Attack    WSJ",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "Microsoft Faces Class Action Over AI-Linked Stock Losses - Yellow.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOERuS2FXWmtpNzFLTy0zUm9VOVRDTWVBMDBRRFYyUjJOZ2JzY1NBbERLSHYwY1F2Q1pLd0Myb1AzcU10blhHdXgwdHJoaXpmSldkbF9Wc19RU1NTR29peTVGd3RyMkRIbW5LU0tJVU9zM1VvR0ZGWHNMZnJMNDdHem1qNA?oc=5",
+   "source": "Yellow.com",
+   "published": "2026-09-03T22:05:47+00:00",
+   "desc": "Microsoft Faces Class Action Over AI-Linked Stock Losses    Yellow.com",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Meta CEO Mark Zuckerberg: Opposes National AI Regulatory Agency - ababnews.com",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sTXhENy1RdXo3bjU1ZVZyZ1cxQ0xJUDliWUFjQlB5Tk9NSjFMZFNPMmExOTdCTy1ENXhueXdBSjlTOVVmMk41Y1U4VHNtUjV1UlVCalFYSnRieTcxNzFFUTE0YnlTZTFWQlBYODFEd1I5MUVz?oc=5",
+   "source": "ababnews.com",
+   "published": "2026-09-03T22:03:00+00:00",
+   "desc": "Meta CEO Mark Zuckerberg: Opposes National AI Regulatory Agency    ababnews.com",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "AI’s Biggest Breakthrough Is 80% Here – Here’s How to Play It - InvestorPlace",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONVZMUDd6am9oZVUtV1R0eTRYRTY5NmwtLXFBLTB3THNjejNVR2hTbGNpOHBxVVpRcUhDdkJhTk1XR3JYYUJDRnRRcmpLX3RWZ1V0TXk3SGFwb0UzRjNsRHVQOTQyOFZHZDV4YWdOcUNoU0JNcU5ZQTFyVWlvT0ZLYmZxelpkOVNkY1RlSGdfSHAzaGto?oc=5",
+   "source": "InvestorPlace",
+   "published": "2026-09-03T22:01:50+00:00",
+   "desc": "AI’s Biggest Breakthrough Is 80% Here – Here’s How to Play It    InvestorPlace",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "SpaceXAI launches Grok Bot for enterprises with free trial - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFpXMHdoclUxS25fUW5EeVlOYS1qLWJIbFVuMjdnNTFDZlVmVG9Jd3Y1TnlSUlNxUEstOG9NN09LNWdYcDFRc0NDWUwzRnlQblJyZVBhbDJsbmptSXVoT2tZT3BTUTd0YWM1anBYUm4tZTBVMHhpaEdXR3plSnlnUV9xV3JBTmMtRndGY3R2MzQ5dUFST2hOUE5qWmNfYmp5WVNTX2xEQ3dOQ29kOG1UQWFMRXQzMkF2d284OTF3d1pUUTIwVGhz?oc=5",
+   "source": "Investing.com",
+   "published": "2026-09-03T21:54:00+00:00",
+   "desc": "SpaceXAI launches Grok Bot for enterprises with free trial    Investing.com",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "SpaceXAI Apologizes For Outage That Affected Grok And Other 'Compute Partners' - Engadget",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0c3bkZuVkRyRDJOcHg2NHM4WDFNWmlqNUdKZ0w0R0hyX1Y4WlNxZm5aMFlqaWluUF8tMXdlZ1NFNVl2WnExV0hoUG05eS1jdWdET3NnRDJKZ21UYm1FWkFfSzhEY0w0aE9aM0ZJLVpWTVZvenJuM2FUcWpaa0pXeFpvMHNDS2NRSDE1NHZ2NVpwWjdZSHRvWk54TlBVNW55QVBDRmtFcTVfNVgxYURn?oc=5",
+   "source": "Engadget",
+   "published": "2026-09-03T21:52:34+00:00",
+   "desc": "SpaceXAI Apologizes For Outage That Affected Grok And Other 'Compute Partners'    Engadget",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Unisys incorporates Microsoft AI into managed detection, response solution - Pennsylvania Business Report -",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1dfbmVzbTlUZFNieEM0cE1WbDQtNlZQQUhKNEFvd2tZS3VBOThIOU9SVWhWVFY4dS01SS11VnBoQjdqQlNLU0FJUFVGTUFsRHRhSTBveUU3clFWT2dPN2dWMzh1MnBIc25fVzVaODF5SXJrZzdWVjlxS3BaNnBJTG45Q1FzZGpSMTNXRE1CNjlmYW4wbnlZWG5UVkNSV0RNZGpOTGFfeEVQaFVDeTlTNw?oc=5",
+   "source": "Pennsylvania Business Report -",
+   "published": "2026-09-03T21:49:23+00:00",
+   "desc": "Unisys incorporates Microsoft AI into managed detection, response solution    Pennsylvania Business Report -",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Google WeatherNext 3 brings hourly updates to AI forecasts - iNews Zoombangla",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR3JqVkpNemc1WDVBTXAxUlF3Z2tQS0FlTHdGUURkVEs4ZnFfbDB2SVRjNURHUnJTYUhqb2tZZWRzTTVyU2p5NnpJMFVfeUpFRDZSV1haY2NNY1JYeVZGT3kybktjcU8xVDZOYlAyYWZIVXFad0JiTDNlOEJ3MWpBOElQYTh4Xy12Z05VVnhvd0hqUQ?oc=5",
+   "source": "iNews Zoombangla",
+   "published": "2026-09-03T21:40:16+00:00",
+   "desc": "Google WeatherNext 3 brings hourly updates to AI forecasts    iNews Zoombangla",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "Sanders Introduces a Bill to Ban Artificial Superintelligence and Jail Violators for 20 Years - pasqualepillitteri.it",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3F3THllVDlQaXg2T2FHY3U1dktiWWp3ZUdxOTdjYk9yOUdrN3didlc5WEhSQzJJSWV3eUJidF9vNGF6bVJwWkpNUUNaeDlTWFkxM1hBeEZRcjhYMWRLX3dFUXdNbGdLRlFxVHI0VXhCeFdqa1BrdzB0ejBjbUNIdzlUWmFYVE1fbEpJeDhoZzhOOWc?oc=5",
+   "source": "pasqualepillitteri.it",
+   "published": "2026-09-03T21:21:02+00:00",
+   "desc": "Sanders Introduces a Bill to Ban Artificial Superintelligence and Jail Violators for 20 Years    pasqualepillitteri.it",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "HKUST secures 1 000 doctoral fellowship recipients to lead Hong Kong institutions",
+   "url": "https://www.msn.com/en-sg/news/other/hkust-secures-1000-doctoral-fellowship-recipients-to-lead-hong-kong-institutions/ar-AA2bwUtc",
+   "source": "",
+   "published": "2026-09-03T20:51:20+00:00",
+   "desc": "HONG KONG SAR - Media OutReach Newswire - 3 September 2026 - As a global magnet for top-tier talent, The Hong Kong University of Science and Technology (HKUST) has established a stellar track record ...",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "bing"
+  },
+  {
+   "title": "Google DeepMind Unveils WeatherNext 3 With Hourly, Live Satellite Weather Forecasts: 10 outlets compared - NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ29WNUxmWllDV1YtNHE0OGdOVklMSnpSWkVybmh1YXo2MTBYNDIyclpmaDJBNUtKTmlJT1llVHdBc21FR0NwYTJtT0RFbUZ1Mm1UdTlZT2FyMEtoSzk4dFN5MVFoTmJYVlF3dFp2RkM4MDk1NUNhWDd0N0FPUnVhRVdnNGtENEZXZTdsSW56R2w3S0JiWU1GZjcxcTNDU2NTSUNjSVpQQTBIdmdpN2hFT213QXdiSF85SWVJbXhyMm1valgxOHI4WmNObTNwcjZzLWhjd2N0MkN4U2RuNWx3eHBocTl1dllIZ0E?oc=5",
+   "source": "NewsCord",
+   "published": "2026-09-03T20:47:40+00:00",
+   "desc": "Google DeepMind Unveils WeatherNext 3 With Hourly, Live Satellite Weather Forecasts: 10 outlets compared    NewsCord",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "NVIDIA Unveils RTX Spark PCs and Local AI Tools at IFA 2026",
+   "url": "https://blockchain.news/news/nvidia-rtx-spark-ai-tools-ifa-2026",
+   "source": "",
+   "published": "2026-09-03T20:45:00+00:00",
+   "desc": "NVIDIA introduces RTX Spark PCs, faster local AI inference, and tools like PAIR for distributed compute at IFA 2026.",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Negotiating HR Vendor Agreements in the Age of AI: Key Provisions and Considerations - The National Law Review",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnFDdE4xa1dBb1RzTWlSMHV5X2VhM09XeGtja0dmZDRTZk5FRlFGV1RMZUhlSVRZZlZkVXpySjBURWxacy1ucXV2cE9UalNzQV82NkZfa0pyamhPenlSX09oUXRTT3lwWFItTThqSW5zR1A4TXFHMDZNOEdRNmVPLVk3WjVvWkwxVEl2a0hSdGZOaVNiekF5a0k3SWVrcTNQbXBUVnJOX3VHX3UwdGFB0gGvAUFVX3lxTE5ucUN0TjFrV0FvVHNNaVIwdXlfZWEzT1d4a2NrR2ZkNFNmTkVGUUZXVExlSGVJVFlmVmRVenJKMFRFbFpzLW5xdXZwT1RqU3NBXzY2Rl9rSnJqaE96eVJfT2hRdFNPeXBYUi1NOGpJbnNHUDhNcUcwNk04R1E2ZU8tWTdaNW9aTDFUSXZrSFJ0Zk5pU2J6QXlrSTdJZWtxM1BtcFRWck5fdUdfdTB0YUE?oc=5",
+   "source": "The National Law Review",
+   "published": "2026-09-03T20:34:59+00:00",
+   "desc": "Negotiating HR Vendor Agreements in the Age of AI: Key Provisions and Considerations    The National Law Review",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "French trio minted as billionaires as the world’s most valuable company swoops - SMH.com.au",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdFM1Y3NJQnhKS1I3TFlWaGFhVUtDZ0RpUmxfdWF6UlJST3p1dDZYcTQ4SUxpdlNYeE5vaTRMNnMwRlk4UzFvZFpBQkRqaTNDUUllWjNyZm9zUTlZSnlGanBhazlMTmVXNEM5Zzl5blZPZEdtdFBvTHlIeTZNUVBwUnZubXdYZzNpZGdFVm1ieWpLSG1ReFl4RnpISThKNmhsN09vY0V0czYyMGd4RHlkSld0SksyakJFTzdZVjQxNkE5aU51RERNenVOYmluMGhHdzFzNk1qM2s?oc=5",
+   "source": "SMH.com.au",
+   "published": "2026-09-03T20:23:41+00:00",
+   "desc": "French trio minted as billionaires as the world’s most valuable company swoops    SMH.com.au",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Thinking Machines Eyes $1 Billion Funding At $40 Billion Valuation - Whalesbook",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQTEtamthaHA5cXUwUy1HV0poUzhPYm5EalhUQjR0U1R1VlplZVl1RDlIUmh0UDk1OGFON3lXbk1DNDdwXy0tS1Q1U0Ywb2Myc2lhYVlsX3FDRHUwZnlRdVVYQUE0SHpkOXFabW4zR2VnMDVKR1NRS194NFhxRTFGNzlVZ1JVT0FkbVkxTDVMZmpuQ2t4RnZKMkc3NTBPdVNDVVVWZExHclhKQTlrc3VrRXk2UDNHNUJMVlJoRVFEVXozNE5leXFFS3QzcWhyOHRlZkVyU1FDWWRLZW9Ud21ST0NQSF96Nms?oc=5",
+   "source": "Whalesbook",
+   "published": "2026-09-03T20:18:33+00:00",
+   "desc": "Thinking Machines Eyes $1 Billion Funding At $40 Billion Valuation    Whalesbook",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Musk vows corrective action after Grok outage - Breakingthenews.net",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeEt6YnhzbGZHal9JcktjcXRETGNBb3l0ZzQ1VHlTSXB6ZHZPLUQ3TmVSQjJFWmE2bmVhYWVEeEh3OU5hV0h1X05uUmtEMGNpWEtnQnBOR1NrTEd1Vng0ZFV0MW9adnhTUXU1TkkxbVRwQnEyMUUwVU9HMUtUYlg1eGZIX2pPelIwSkF0MjVlUlprMWNL?oc=5",
+   "source": "Breakingthenews.net",
+   "published": "2026-09-03T20:18:00+00:00",
+   "desc": "Musk vows corrective action after Grok outage    Breakingthenews.net",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "France and Korea to lead debate on film industry's big issues at Lumiere summit",
+   "url": "https://www.asiaone.com/world/france-and-korea-lead-debate-film-industrys-big-issues-lumiere-summit",
+   "source": "",
+   "published": "2026-09-03T20:15:00+00:00",
+   "desc": "France and South Korea will lead debate at a one-day summit next week on how the film industry should respond to artificial intelligence, compete with social media platforms and cope with funding ...",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "bing"
+  },
+  {
+   "title": "Europe and the Gulf forge a new investment partnership as Riyadh expands its global options - weeklyblitz.net",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ1F0UGQ2Z0VzZ1ZUNEdMVDBmSThjeXd2eEs0YTQ0c0c0SVpmVFAyRHZNaW5YSkFfN0drSHloODRneFR6RW1YZVZ1NGkyc2l2YVdxYnFZRXY3bm5jN2xTcUNLNl9CUncwcHBQeFpFOUc4QThYZEE2b1pGdC13SmowQ1J3aUxmWl94dnM2aV9xb3FYSHNWYTdEM1ZfV25PRW5GN3ZnNDBzbHNNbUpXRGU2aTJ4ZzZXbVd4cE5ncXgtVmhtc2haSEE?oc=5",
+   "source": "weeklyblitz.net",
+   "published": "2026-09-03T20:14:59+00:00",
+   "desc": "Europe and the Gulf forge a new investment partnership as Riyadh expands its global options    weeklyblitz.net",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Resect AI Launches Out Of Stealth With $25 Million In Funding - Pulse 2.0",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWtLT3NTSU4wdmY2QVVyYlpMUGRkbTJ1T1cxcG82NXRLa0hDVVBTTjl1S0tVT0lsTldDbl9WR1RWOFBPNUNld3gzSFVLOFNqN0M2cWk1SGRoeTA5ZWZzVVQ5aWlMNWpMT19BY2pwREk5ZEpIWnpXNE9vLXJmZjJWUkF3OFdKR2_SAYwBQVVfeXFMTS1aMl9lNkIzTTZQelFpbVJ2OXAwcm1rWEFneEc5dTMwYXV1ZWpZeTYtNXItcGxickhqMWYyc0pnNWtWWUo2M3k2bGJZdUhXQ1VmYlpYMV9Qd3paanFDREp4TjBiZG51UVhRTkNuX1pPVUFoRTZYb0ZEWFYtT1hIQURyRVpoS2locHBHVGM?oc=5",
+   "source": "Pulse 2.0",
+   "published": "2026-09-03T20:13:36+00:00",
+   "desc": "Resect AI Launches Out Of Stealth With $25 Million In Funding    Pulse 2.0",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Google DeepMind's Cybersecurity AI Push Sends Palantir (NASDAQ: PLTR) Stock Price Down 7% - foreignpolicyjournal.com",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQkgweHRQZEFaVTFLeGdTSVU4WExnQzlvV0hpUExldFJFdkhrbzR4d25JUEZYbkRMRUx6RkpNVzQyMWFFWjVKSDllaWJwTEFyVXk2QlFMZDhvLUNOWlVWZ2pZSlc2Nnd4MGVlZGtISFk1V1dnamROMFpYQ25EX1FrS1FhNU1TeHBBalNZd1ZNR2ltVVZab2ROTGd0OHZHVmR2TFIwX1JoRmFqb0xjbHp5dllLSkF4djhmZDZRcEtXb3hVY3hKNWpOUFI3OEtHdw?oc=5",
+   "source": "foreignpolicyjournal.com",
+   "published": "2026-09-03T20:11:00+00:00",
+   "desc": "Google DeepMind's Cybersecurity AI Push Sends Palantir (NASDAQ: PLTR) Stock Price Down 7%    foreignpolicyjournal.com",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "CLIA at a Crossroads: CMS and CDC Seek Input on the Future of Laboratory Regulation - The National Law Review",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGZXSWc3M3ZkcjFQdnBqTFhRdWE4eFpKV28tcmJmdW9sZGhpS050TTlUOC1tN2Y4ZFlCM0Q4LS1HY042WFFOMVg0RDZHVGFmVlhjOE8zYjJTY04zM0txS3Z1WWI2ZXBDb3dud2pTRElvZkpqUWZ1OHRNYlhrNHZZR2xWRXRXOVdQdnduallLcFRMRGQzYUFKXzdrTmx1VkhXaXfSAacBQVVfeXFMT0dUZEJmaDhwMUpBOFVsNDlDTGFsQXhhNXo1OVVoVHhGc29HVGFjQlN0Nlhob1dNVS00WjZfUkt2dTU3bUJTcWdfb2xXM0pZUU40X3JlV3RmZS1mOWNJdHRCY1NqcWp4eTFjUlIyWlFIdmxQWmtwQXVocDAzR0pMd1RFQVRRY1pGVHd4SWVoRzZkSlgtZkNQejRmZWw0aVc0U3RTS3JkZWs?oc=5",
+   "source": "The National Law Review",
+   "published": "2026-09-03T19:56:16+00:00",
+   "desc": "CLIA at a Crossroads: CMS and CDC Seek Input on the Future of Laboratory Regulation    The National Law Review",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "Crypto Political Funding Hits Record $206M as US Vote Nears - Analytics Insight",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmlIQjV5R09ZSGRGeTFYaUh4emlCUGxvNWJJbjkzU1dSdUZ5dGFyZmUtNVM5bjk3d3d0OE9VUHFYVGJYNmVPZV9Vck5BLV9qTWp3cXVpZmxYenQ0bklEWmMzM2tpSmVxZjRnZ05kRGEwMDYzNWZnVG1SYnpCSE9fdlN4YTB5M2ZxSU44WG92SDZTalJWdDZHaFg0bETSAaoBQVVfeXFMT0ZVa0JTZ29rSjkzNnVYdkZxTV9oSGdsMERpLUVCN3JoTXhlc0paY1FNSWF6MzNsMGNtTDRKUTlqYTB5Tm95RnBDd0ZYc2dpenRhcjBvN3ZlR1h2Y05XYXNjQjBFdy1jUmRfMzB3dFdqbEpwX0M5LW5EZDdVR2o4RU1xd3UtdUhGLV9sZUV6eDJRamRXdlNSd3BYQ19lOFBrSmh1bGFvU1NETXc?oc=5",
+   "source": "Analytics Insight",
+   "published": "2026-09-03T19:15:00+00:00",
+   "desc": "Crypto Political Funding Hits Record $206M as US Vote Nears    Analytics Insight",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "ChatGPT, Claude and Grok face simultaneous outages - Daily Times",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXRPZ1hQYmt4cjZtYlNibWU3QmJva2RmNkJoancyTWFYSThQUHhkSmNoUTkzc0xDVnpQaDEtWTIzLVRaMms5ZXVuUnJXQnpLTXZHSXdQeWxvQk9YZ1R3RjNid3o3TzVGY3pnZ0VKM0puTGszd2hURDhUeldVbnd1ak5SelNrSlBrQ09XUQ?oc=5",
+   "source": "Daily Times",
+   "published": "2026-09-03T19:07:51+00:00",
+   "desc": "ChatGPT, Claude and Grok face simultaneous outages    Daily Times",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "DOE’s FY27 Budget Request: the Good, the Bad, and the Ugly - Federation of American Scientists",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nUzgtTHB0MEtJOE1uZjhXY1NXdldvMUdiaEQxOEY5aFBQODRsSW5XX3h6X0tITnYwVDhYT3VwZlltd29qS1NscmVvMmRFdW5lNmxFLWxIMGFaVzczdVRWRElNcw?oc=5",
+   "source": "Federation of American Scientists",
+   "published": "2026-09-03T18:54:43+00:00",
+   "desc": "DOE’s FY27 Budget Request: the Good, the Bad, and the Ugly    Federation of American Scientists",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Claims of GPT-6 Astra scoring 98.6% on ARC-AGI-3 don’t hold up to scrutiny - Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CT0VyOS1NUlVTRXRGZFlpVEhGNEJOQ1BVYVpKX0RHVHR0NGEzS1oycnY0bW9WalJRSlRjS2VsandMamotdnF5QlplNnZxQTM1bHN5VnVkb3pxSTQ0TWIxcDgtZWhXUF93X2dJWG5KQUVQRllqc1E?oc=5",
+   "source": "Crypto Briefing",
+   "published": "2026-09-03T18:39:15+00:00",
+   "desc": "Claims of GPT-6 Astra scoring 98.6% on ARC-AGI-3 don’t hold up to scrutiny    Crypto Briefing",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "The Beckage Firm’s Jennifer Beckage Joins Austin Cybersecurity and AI Panel - citybiz.co",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUkwUFQ3SEpJSlpRQkxfbGhtSi1SWl9lRklKVkVxUEhfYVZHX19tVzZEMEFvMkgyZERaQnE2ZkNOdVdPMHQxcVNfNDhDRmczSzJEQlZ3aXE4QjRZQVB1ZzRvX1lBc0o1cElic1ZQaFBucHFkd0hXMnhFa1loelBqbFBJdktOLXJZVGQ1cU5LZW5GWVhueXdPUUJ3dUk4TjZJOFVKdnpRcTJ4UGdPVDVJN0FoQQ?oc=5",
+   "source": "citybiz.co",
+   "published": "2026-09-03T18:26:46+00:00",
+   "desc": "The Beckage Firm’s Jennifer Beckage Joins Austin Cybersecurity and AI Panel    citybiz.co",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry - Microsoft Azure",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDJEdEpEaVRYYnliaGRvZGk5eTlncFd1empUWUQxVndBM2llTGR3djRiTXFtSWl3Yk9FbDNyVkhVX3dMalJraWo3SWpIaFhScXdwY0pIcGswWUxHeXJqd3RtYTJpTFM1LV9aSTJ4TjlqbW9OdW10LUFYX3puX29mTHZlU1N6aEZJb3JhTVJNTGFKTUtFOU9RM1pack8wOFA1MHo5b2ZxWlVYM0pOWnl1T1NGTm1mNjRk?oc=5",
+   "source": "Microsoft Azure",
+   "published": "2026-09-03T18:15:00+00:00",
+   "desc": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry    Microsoft Azure",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Google DeepMind launches WeatherNext 3 AI weather model - Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX3JMa19YLUNDMks0WURnVWN5NWhoZ0tGVmt2cmk4NVBYU3pNbUxVRmhhX3FCZHJydEt0R284VXJnaEJUSDg5ZmdoaGN5cXNUVFFtZ0NOR3d1TWZVMWJDU2dnaWtnNzNsME16ZFZqOUJ2MThPSkpsaTVGMjRNSkpQNXV1WVh2QTBEYXBRd2dRb2QzN3RyUmpGUHFRZw?oc=5",
+   "source": "Yahoo Tech",
+   "published": "2026-09-03T18:09:27+00:00",
+   "desc": "Google DeepMind launches WeatherNext 3 AI weather model    Yahoo Tech",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "Multiple AI Chatbots Experience Outages Simultaneously - SSBCrack",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb25jNGtXZVRPRkdKSk9HWjc5RHhDZVMyT2VlUDVWU3NwbEFITUhMVFNpdXdTZndxSndWUEtmRWZSZjFXS0VqWGgwZWdxRjBUMFo0X0NkNkpmSExabG5CdWwtam5EZHd5eWYyMHNLbWZkeEdSWEc2Y0RQMkJMUzBjS1M0dkphU2dR?oc=5",
+   "source": "SSBCrack",
+   "published": "2026-09-03T18:06:13+00:00",
+   "desc": "Multiple AI Chatbots Experience Outages Simultaneously    SSBCrack",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "11 Grants Funding Trends Every Grantseeker Should Watch This Year Grants - GrantWatch",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlpHSUVKQ1JDVnBXZHZJakpwVENEMTJYRFFuYmRxMGtxSDM4MFp3WlNJQjl6ZzhNbkNhcERjNWRTbGRrS1FlTldjSldDLW9UZXprcHo4MjBBYkZMZEJGT1lpMmdqT3lLRnBibXVKUjFzbHBkbHNsTS1ZejNndDAwZS01bkw1NEpOWEx6eV9qMDN6LTQ5WWhuUGNVQS1jYTFWLXBIVVZR?oc=5",
+   "source": "GrantWatch",
+   "published": "2026-09-03T18:02:54+00:00",
+   "desc": "11 Grants Funding Trends Every Grantseeker Should Watch This Year Grants    GrantWatch",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Physics Breakthrough May Boost AI Memory, Learning - Mirage News",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUzVQbDhpRWlfOWFITUJ5ejFqSDdqeHdjbFZzSHRONHlJUXNRSUhXT3JfNGJ6bkx3dWRQeVNPaDVYeFF5cldBdDBMMkZ0TWtnZE5tUm84dmM5MGFYR0dnYmRuMmdNSVdxbTA5T3VtQU4zV20tcU1SOXV6Nnl0RDRGRnhB?oc=5",
+   "source": "Mirage News",
+   "published": "2026-09-03T18:02:00+00:00",
+   "desc": "Physics Breakthrough May Boost AI Memory, Learning    Mirage News",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "Designing Grok Bot for a world of persistent agents - X.ai",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2WXFzMFpXZFJGTUlWR05TR3d2NFo2d3hRQlJ0UFk0NXBkVW1QeWNrNEx2YlkzVlJfNWVjZHE5aWd3UnhIQzFrdmo0ZVM?oc=5",
+   "source": "X.ai",
+   "published": "2026-09-03T17:50:51+00:00",
+   "desc": "Designing Grok Bot for a world of persistent agents    X.ai",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Google’s WeatherNext 3 AI model in Search, Gemini has ’50% more accurate precipitation forecasts’ - 9to5Google",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fWlVGS2dpT1FpWWFEcDMzdTdHQ18wQjZ4T1RfS0N4ZjI3TUVJYmtyTkdWdWZoTDR4Ynk2V3hFc0trLXF6QU1GTTYyeG91WEhGX01QSk1seWNnQ3ZsZzVpcWNGTnZmdw?oc=5",
+   "source": "9to5Google",
+   "published": "2026-09-03T17:47:00+00:00",
+   "desc": "Google’s WeatherNext 3 AI model in Search, Gemini has ’50% more accurate precipitation forecasts’    9to5Google",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "Google releases Gemini 3.8 Flash for coding and agentic tasks - iNews Zoombangla",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRmtrb19mZmxtS0ZPdkpLTXV2S3pGclRuREx5Y3prYjd4akttN0dCRmNObG1NUmlwRmFWWC1Ec0txNXZHbXBqekJyRUxOYnVBZEJfLWhJMEFDTDMxSE14aUE0dFRSeFJULXdpRXZXekVOS0VEc1hLcjdIeHNDVjBWaTF3T2VENmFrZmVLUGVUUHhFVno2RVE?oc=5",
+   "source": "iNews Zoombangla",
+   "published": "2026-09-03T17:42:26+00:00",
+   "desc": "Google releases Gemini 3.8 Flash for coding and agentic tasks    iNews Zoombangla",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "Investors Believe AI Breakthrough Close – Survey - wealthbriefing.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWJqbm5EbkZEajk0WUJZbl9hdGhBU0lIeW9tVzd2YVpsT3YxSG15WV9VUndOenRmalNCV3FlUjc3dEdrVXo2a05DODZQYlZHaThKQUFYV1hVSllwTzF3TFhESVZmLUdMYncwZkFsc1RRZjRuVmoybFQtNGZGQm81bHpBUlY3Q29vNzlIeER6dmhSZGZGeDBjQk9lMA?oc=5",
+   "source": "wealthbriefing.com",
+   "published": "2026-09-03T17:22:07+00:00",
+   "desc": "Investors Believe AI Breakthrough Close – Survey    wealthbriefing.com",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "Meta新模型逼平Fable 5，小扎：开源且便宜到你懒得算账",
+   "url": "https://www.51cto.com/article/854910.html",
+   "source": "",
+   "published": "2026-09-03T17:07:00+00:00",
+   "desc": "Meta刚刚端出的新模型Muse Spark 1.3，已经和Fable 5掰上手腕了。 小扎去年撒出去的那些钱，好像终于开始听见响了…… Meta刚刚端出的新模型Muse Spark 1.3，已经和Fable 5掰上手腕了。 Artificial Analysis最新榜单里，Muse Spark 1.3 Max拿到62分。 跟Fable 5、5.1 xhigh打了个平手。 再往细项里扒，Codin ...",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Augmentt: 47% of MSPs faced AI or Copilot data exposure - PPC Land",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BaF9aTXBnMXdFRHduUGxHcDBTS2xWRmRkTmRRTlhxWS1rMHNCZjEwNWNOTmVJR0FVWGFpUDNXS3dkTDJmSUpqbjZQTjRkVGc3LWJfdDlUbzdmLVQyZWlnU3lZQjVuRnZZSkt6Mm81aHdEdFk4bXU1Ynoxbw?oc=5",
+   "source": "PPC Land",
+   "published": "2026-09-03T17:05:53+00:00",
+   "desc": "Augmentt: 47% of MSPs faced AI or Copilot data exposure    PPC Land",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Get AI to work on your terms: Microsoft's Puneet Chandok on navigating the modern tech race",
+   "url": "https://yourstory.com/2026/09/get-ai-to-work-on-your-terms-microsoft-puneet-chandok",
+   "source": "",
+   "published": "2026-09-03T17:00:00+00:00",
+   "desc": "Microsoft’s Puneet Chandok says young engineers must master AI skills while nurturing empathy and filter. Enterprises must look at a clear path to ROI and build a team of frontier professionals who ...",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Côte d'Ivoire govt partners with Mistral to develop national AI ecosystem",
+   "url": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/20778-cote-divoire-govt-partners-with-mistral-to-develop-national-ai-ecosystem.html",
+   "source": "",
+   "published": "2026-09-03T17:00:00+00:00",
+   "desc": "Côte d'Ivoire’s Ministry of Digital Transition and Technological Innovation (MTNIT) says it has signed a strategic partnership agreement with French AI solutions company Mistral to help develop an AI ...",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Nvidia’s $12.9B Hugging Face buy puts a European-founded AI pillar fully in US hands",
+   "url": "https://techfundingnews.com/nvidia-12-9-billion-hugging-face-acquisition-us-ownership/",
+   "source": "",
+   "published": "2026-09-03T17:00:00+00:00",
+   "desc": "Nvidia has confirmed a $12.9B acquisition of Hugging Face, bringing the French-founded open-source AI platform under full US ownership as AI infrastructure consolidates.",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "bing"
+  },
+  {
+   "title": "MBZUAI launches six fully open K2 Horizon AI models",
+   "url": "https://tbreak.com/mbzuai-k2-horizon-ai-models/",
+   "source": "",
+   "published": "2026-09-03T17:00:00+00:00",
+   "desc": "K2 Horizon AI models from MBZUAI range from 0.9B to 375B parameters, with code, weights, data and methodology released openly.",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "bing"
+  },
+  {
+   "title": "OpenAI launches GPT-6 Astra: Here’s what the new AI can do",
+   "url": "https://www.thenews.com.pk/latest/1414813-openai-launches-gpt-6-astra-heres-what-the-new-ai-can-do",
+   "source": "",
+   "published": "2026-09-03T17:00:00+00:00",
+   "desc": "OpenAI on Thursday unveiled its most powerful AI model, GPT-6 Astra in a major push to expand its footprint in the competitive landscape. As per the tech giant, the new AI model is built ...",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "bing"
+  },
+  {
+   "title": "Misleading commercial practices: a stricter legal framework, increased controls, and best practices to prevent them - Hogan Lovells Cadwalader",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUkpzZF9YbWJxRTdoQUpqaWo4bVpxZTNSc29LamhVSHAxRGZXMEV2UXZQZHlrU0tfdEc2eVV4OC1DeVJvZDhWUVNod2NxSXVmN2U5TFQ3OXpiM0IzX21kb09HOTdabWRhRFdhcW9iWW1kd0MzSWdUR1lLRy0xdVlxWWNhTWJ6UkVVTGN5SU1PNTMyVGp4YlpLRDNkbFl1RDZKQmxOSi1tN1dwdk1lYjR0bnNOSUlQYmtQa2VqMU9PQlNOUy1pUm1yMFFVN28?oc=5",
+   "source": "Hogan Lovells Cadwalader",
+   "published": "2026-09-03T16:57:36+00:00",
+   "desc": "Misleading commercial practices: a stricter legal framework, increased controls, and best practices to prevent them    Hogan Lovells Cadwalader",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "Hugging Face’s 3 French founders become billionaires after Nvidia’s $13 billion acquisition - Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNaFJtNFF3dzN0dE5iNWtHYm1wRXVwSHpHOE40Qlh1VmRvWjY5ZW1UWkQ2a3Jabmg5YzVOX0Z1d0RKUENqSFRkZzYwd01MRnhlcFlwXzcxOGpNcXYyTUs4eDducmVzTzFWSk5GeG5CczNHaXZ4UzVkbTE0MzgwaENLVHd3bjg1M0dkWmd1WTFwSURPd3BSS011WndqaXJ4RUpzUG9VUXNuOURBOVlQbUZBM0NfN0YwZTBraENzZi1BVTlFREdubW5wTXNfX0JBSTlZYU5sTUZlaVBxV1RFcHdtTWZNQ1J0YkJIZG9HbnZHVVRscjJYcTduZtIB_gFBVV95cUxQUWpHdUFuZng2TEVGdU9kZVB6SWI2eUZxUmhicFNCN3htSG1vWXZlMm5sNW0xM25NMVpXNWRZaUgtMFJybGV6WDNXUU9WUzhjVEJ5STlLaGlUNDZtX0R6azNIdFI1WXk2NFpjd3B1OUlJMFpTaUdlbTBwVUpTcC03b3k0Y1hJTGpES1FJSzVQMTdjWjI4WGFvN25ocll6clI2bUdLSnhDNlc0eUxTVDhBMS1Gc3dURGVzUlJQNW80TFY4NzB3YWltU0NCTDhBc3gwVU5fNWtMcVk4aTFON0ZjQndaS3ZTUVBwUWxndEFjaE8tbFpPMmtDeDdkTTVBdw?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-09-03T16:47:30+00:00",
+   "desc": "Hugging Face’s 3 French founders become billionaires after Nvidia’s $13 billion acquisition    Moneycontrol.com",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Newly Bought Tech Startup Will Stay ‘Open, Neutral’ After $13,000,000,000 Takeover, New Owner Vows - dailycaller.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0g0Ni1vckdPVVJIT21mTGdralN1V015eU5pZXdOT2NPTjJzNmc4bURXSnBjVF9QWUxyejVZbU80T3BhWGhsa2lNUXg3RHRyTl9RVGV2TXZnUEJzbURZa0ozNFlzS01BbnZqWFZvaWJuazE3cWNtMnNLZFJ6WklzaXd3?oc=5",
+   "source": "dailycaller.com",
+   "published": "2026-09-03T16:46:00+00:00",
+   "desc": "Newly Bought Tech Startup Will Stay ‘Open, Neutral’ After $13,000,000,000 Takeover, New Owner Vows    dailycaller.com",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Microsoft drops $101.9 billion surprise as AI reshapes company",
+   "url": "https://www.msn.com/en-us/money/technology/microsoft-drops-101-9-billion-surprise-as-ai-reshapes-company/ar-AA2bxdoM",
+   "source": "",
+   "published": "2026-09-03T16:33:00+00:00",
+   "desc": "Microsoft's latest disclosure reveals how much is riding on AI ...",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Tencent opens Hy4 preview in an open-source AI push - CFOtech Asia",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbXQtdi1makRTZkJEY2g0QlIzWlJaSklUQ1BMOEhibFViSVN6djREb3YwZl93eHFtVFVhMW5YZFY0UDM1cUpZUUNGOUhNa3ZUam5Ual9mOUZUZ0JkdzRuQ3NzbmVpNV81amFUTk9OWHV4N1A0TXZjbHVUYnJoNi12Rjl4LUs?oc=5",
+   "source": "CFOtech Asia",
+   "published": "2026-09-03T16:24:13+00:00",
+   "desc": "Tencent opens Hy4 preview in an open-source AI push    CFOtech Asia",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Best Free AI Courses in September 2026 —Training Explained - tech.co",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BNnRxWTJnR0FTcS1jY0JYTGJwVFMtMHBSWGJJRVBQaXdHTHpIcjZpTmNUMnFzdEdPalg0OEhNZkxzc0NsM1NVSkhSTC11aktqM1dNa05MakhGb3NTb19qS3RmSnFKM2c?oc=5",
+   "source": "tech.co",
+   "published": "2026-09-03T16:15:44+00:00",
+   "desc": "Best Free AI Courses in September 2026 —Training Explained    tech.co",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "The Next Wave of AI Regulation- What Employers Should Know About State-Level Activity - The National Law Review",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnhxZXBVNE5JWF9RUk1VLUdEVm91TktRc3dzZUtMRXVsdFF2eHF6VU45WnZxVzNHR1EteVQxSUpaanpGd1NRaF81NXZ0RlhQb3ZIQ2RlOWVSTTVXdlJPbUxRMTRRTmRBQlluLUk0THBER1VTamlhQ2FQNi1FQWpuMkk3cVJyV3VKNnI4T2hfUVU3ZkNrbG9FUThnSXlPSFhOWGtacVlPdXpESmhIMmdz0gG0AUFVX3lxTE5yV3hCOHZndElrYnNwazV6dllrMzF0b1VWTm9faFZOZXY5eUxHb1R4TmpfU04wRWt2WF8wR29uc1NUMURTUnphSEZxeEIxZmRMb2N5ZTNPUjI4Z3dwTy02QlVrWUgzVmN6eXZmLXlUTDBENXRoU0hMOGlYX29uS0JiWjU1Y3ZJWlRPYW9QbXBYd0VGNHB0OExpUkt2dTFRY0QzYk5qMVVpbnpOcmhXa3RvcGJybg?oc=5",
+   "source": "The National Law Review",
+   "published": "2026-09-03T16:03:02+00:00",
+   "desc": "The Next Wave of AI Regulation- What Employers Should Know About State-Level Activity    The National Law Review",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+   "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+   "source": "NVIDIA blog",
+   "published": "2026-09-03T16:00:59+00:00",
+   "desc": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusia",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "NVIDIA Brings Simplified Local AI Support To NVIDIA GPUs Carrying 24+ GB VRAM While vLLM & & llama.cpp Optimizations Boost Compute By Up To 1.9x - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVo1MERrc0VSTXFyNXY2MnExTkRBM0RCbGRsWHNkNUdpTmFEb0JGMGZFODhJbENQTVpFNWxaRWdudjR1LS1vRGg2RHFoZzY2c0gxOHBQNm5VNU1SZWtPekc5YTF4RzJ6emxwbEJUZi1yczZSeTctcWwtcDNZc0ZtQUtqOXVlWThhZVp5RmZqOUZqMG9DbDkxSnRMMlE1UkZ0ekd4MFh6cW7SAa4BQVVfeXFMTVNQSTlTMXo0VVRFUDFMOHhzSzdmTW5DVGhqNkVJSlI5WlFZQW1Fb3oxWmhtbG80bGU4MzZMTWJOS0lOQXRhbWl5ZVptRUd2NE5BU09KaVpiV2R1TXlTZ1NIbjVlelNNVWdoTi0tWURBNW5uVm44MHF6dUZwVEJhMlQ2d0I0MllMU2JiN01UZ0FMUXUtMFNEOFlSdjVSQzBHc19Sa3E4X2gwdjlicEVR?oc=5",
+   "source": "Wccftech",
+   "published": "2026-09-03T16:00:04+00:00",
+   "desc": "NVIDIA Brings Simplified Local AI Support To NVIDIA GPUs Carrying 24+ GB VRAM While vLLM & & llama.cpp Optimizations Boost Compute By Up To 1.9x    Wccftech",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Inside Track - Taming the Copilot odyssey: Five ways to effectively prompt AI without going overboard - Microsoft",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaklBZzJpU05VdTBIQWNzNlRVc3BGTTMxYkpFemhCc0VhSDhwVG41NHRhczZ3bGNocmd0WUhiMmtyNUFHaFlNUXFzaHZmeDRSYjN4SHppYVpDYlB2SVRMWHNwUWJTbnhNZ2l3VUJRUWdpY0tFUmdxbHFLaGFIaEh1MXVqbGRFbG9UZHF6VkQ4RF84ZlBKaTQzc0tJTUtYa2xORFB6eUdDdWdrVHJmTUkzRFJzemVkcU9nTTdqTzNiQUdYTlZmQTBFNg?oc=5",
+   "source": "Microsoft",
+   "published": "2026-09-03T16:00:00+00:00",
+   "desc": "Inside Track - Taming the Copilot odyssey: Five ways to effectively prompt AI without going overboard    Microsoft",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Google DeepMind Launches WeatherNext 3 After AI Model Beats Traditional Forecasts - Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54SUsxbGJCbGJ1LUZ2Y0Rha0pHbDlfN1F4SkZUYjNYSFpxZk1HTjJNcFVueFl6Zk1JSUtnazdVc281VnA2MWptc0JEdWdlRWc1bmNfSmt1ZFJGdGQ5Wk5SR2ZVTUt1VXJSTVdCQ25R?oc=5",
+   "source": "Межа. Новини України.",
+   "published": "2026-09-03T15:50:17+00:00",
+   "desc": "Google DeepMind Launches WeatherNext 3 After AI Model Beats Traditional Forecasts    Межа. Новини України.",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "Microsoft restructures reporting into two segments, to disclose Azure revenue quarterly - Tech Observer Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSElHb2RRU0YxNzJHUTRJQnZwUXBDcXZ0WkxBckhLUTdrWWpEc3FRREZ6YlJGSy1vQ0M1Y0E5UWRmbjBqS09XaE5oVVdSY1VyNEFwREpuNm5WalljYjFSY0xYYWVPeTY4Zzh4WHN5WDZHVUtoMERvMHZrZGtLbkMxZ25LSnMyaTZXN1Z3R3NYdFRzdGJFSENuVWs1YXduOVlBUDdJeWtjbDVMUVHSAbABQVVfeXFMUDhZNnZ2dGM5N3c3TUVudmM3OXAyMFRWQ2tHajgzdnlaa3R3QnlQdFZFNGluNnF0VDlJa0d0TWFOU3h1THVCVTlCaDJoVS1ja1NPWnpSejBRTGwxTkoxdGI4bkNYLWdYMHV3VlhSS2RweU1ub0FVNGRKMEV3TF84UzNlcFpaSWlORWhoSjZEdUJ2UndlRW9WZFc4WjRyX0ZMZDVFYUpfQXl4N0t1WFZFZjA?oc=5",
+   "source": "Tech Observer Magazine",
+   "published": "2026-09-03T15:46:57+00:00",
+   "desc": "Microsoft restructures reporting into two segments, to disclose Azure revenue quarterly    Tech Observer Magazine",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "ORG and MPs call for public sector use of AI to be regulated - Open Rights Group",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUVzalR3S3FWOTFNc1AyWWFhc3FQRUlQSXpNTlFIUTA2ZHFHTm1ZTWJwWERNWlZwOVNzREt5bXdlTWlka1RxWTM0QWR2SE9QOWxLeW15X3BnX091MnFUeGw0MFN1ZVhwNzVrQzd2TVhzR015RWYyQ2JubU13UDZLY1VDQUluaE1rbjN2eGdPZF9SWUZ5Y2hzaWNVOXFldndGZElWcEhvRzdaWXFG?oc=5",
+   "source": "Open Rights Group",
+   "published": "2026-09-03T15:44:34+00:00",
+   "desc": "ORG and MPs call for public sector use of AI to be regulated    Open Rights Group",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "Norway banned AI in schools before New York did - logos-pres.md",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPekhFSE5zeXRGWGpMQ25GTzMycnJHa1VhbjFHeUMwNTNjeEFLSl9OVmx4RXBwaUxWUlNoWEk1TUlBTTVaa1ZWWVBGdDM1TkZiaDhVSlFjWkhNOEdhVlpPOEF3QXNNTUJNSWVXMG4yWVZLSEFZQzE5al9ldEoyYXRSQUktMHc?oc=5",
+   "source": "logos-pres.md",
+   "published": "2026-09-03T15:23:04+00:00",
+   "desc": "Norway banned AI in schools before New York did    logos-pres.md",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "Google DeepMind launches WeatherNext 3, an AI m... - Pluang",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSE5hX0loU3NvUEtVczZiczd4NmlfUnMxeERfRjdlcGdEQkRUbWVvU0hlNnlXdnlXN0M1VHZWZGNDUWtabmxBQVVFZ1pmS3BSN0EyNV90b0dzTTdocVBjWFk1cmdDZlcwdE9VbE5SYnBPaVBaTHpwUl9QekxVMVpHcURQYVhqckdSYkw5cWhZQlo4dHF4WEJZc0tId2Y3dmV6?oc=5",
+   "source": "Pluang",
+   "published": "2026-09-03T15:17:48+00:00",
+   "desc": "Google DeepMind launches WeatherNext 3, an AI m...    Pluang",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "Côte d’Ivoire Partners with Mistral AI to Drive National Digital Transformation - TechAfrica News",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjhCd0tEQkl1Rll2VmEwQkJpY0JxdTlseWVFaXBQVEJ5QVY0anhqUlYtcVM0czdZRXF1d3pIY082bHJ3dldsaHpfTzYzeC1xYVZFblZycUxDRUZkcm9lczZKcHRKY3B1M0dIOWhkWXJHRm5CZlZsRDFmQzBFbHlJLVUyZjNUZmxiajZ4UWs2T1E3RWhuaEZ0ZFFYVGc5M1U1SXpWNHJ1bFVtZ05HdXBSZjgteDR2VWhP?oc=5",
+   "source": "TechAfrica News",
+   "published": "2026-09-03T15:17:35+00:00",
+   "desc": "Côte d’Ivoire Partners with Mistral AI to Drive National Digital Transformation    TechAfrica News",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Nvidia’s DLSS 5 could be the breakthrough gamers never asked for - thestreet.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzU1d2VlZW1HX2JpMjJHajNjTkotLVYydmhXbnBDTEozeWlQRGEwZXYzR3N5UThRLU01NVBHUUtVb0xJblU2bkV2dFZrUVNLczBNWDkxZGY2YUwwWVJ2ajdWRmFhRG41UjRvTWFTb3hCSkxCNFpLMkdrRFo2U0JTSGluMXcxTk1hel85S2dSNWlsbmtRd2hIWnJUazVtTFJj?oc=5",
+   "source": "thestreet.com",
+   "published": "2026-09-03T15:17:00+00:00",
+   "desc": "Nvidia’s DLSS 5 could be the breakthrough gamers never asked for    thestreet.com",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "Nvidia Confirms $13 Billion Deal To Acquire Open-Weight AI Platform Hugging Face Amid Open-Source AI Push - International Business Times Australia",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWkRXZWJQVExmQlVlcktQLS1nWmNuOFVGdmF6S1oya3o4eFdBS3Y0ZUF5MDZNZU4yOF9PZzU5RUJYaUdOdzVyZUZBa21ONDc4Rm9GQU12QnNKMUVxVDA3REVYRFAyLXhFNGR2bEp0MG5pZmFpWHlQWVNmOEpodDFUNl93?oc=5",
+   "source": "International Business Times Australia",
+   "published": "2026-09-03T15:12:28+00:00",
+   "desc": "Nvidia Confirms $13 Billion Deal To Acquire Open-Weight AI Platform Hugging Face Amid Open-Source AI Push    International Business Times Australia",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+   "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+   "source": "official blog",
+   "published": "2026-09-03T15:02:08+00:00",
+   "desc": "",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "feed"
+  },
+  {
+   "title": "OpenAI Allegations Spark Viral Debunk Debate - blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQlpob0o2aDRIMVFsU181SFRZa1RWYTdxdEJlbzI2Mzh1NkdaRVAzMnhCbHlfbFFxVnRHbl9IN1VrSkhEX1hwbGV5WmVWM3ZVUFlZNEdEMkFwejQxVlNZWU9idHlHNGl0eTZTbjg3R3R6OGtLNW5BVXVBVGpHMl8zdQ?oc=5",
+   "source": "blockchain.news",
+   "published": "2026-09-03T14:41:28+00:00",
+   "desc": "OpenAI Allegations Spark Viral Debunk Debate    blockchain.news",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI Releases GPT-6 Astra, Its First Model Rated Critical for Cybersecurity",
+   "url": "https://www.unite.ai/openai-releases-gpt-6-astra-its-first-model-rated-critical-for-cyber/",
+   "source": "",
+   "published": "2026-09-03T14:29:00+00:00",
+   "desc": "OpenAI released GPT-6 Astra on September 3, 2026, describing it in its announcement as \"the world's most intelligent and aligned model\" and its first system to meet the Critical cybersecurity ...",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon - the-decoder.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTEY0TGd5TUt0bzZOSVFPc2I5YUxkQ1F6eDU1YVYybl8xLWJnV3BCc1g0MkJGMElVRnY5Q2ttQ0VrRlZONC0wM0o3ZHlhQnFfdjlYOUlNX09QRzVDS3Z3MzZ4RHlJSFdqWmlONmRCRV9QbHREZVY0dGdMb05ReDRVY0lodmoxQkNZTHJtTTg2UGNoMWZBMVlvS0Q1MXBaa2ZIdEhYcFU0ekx1NndIZzZZblRNclhzdw?oc=5",
+   "source": "the-decoder.com",
+   "published": "2026-09-03T14:28:40+00:00",
+   "desc": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon    the-decoder.com",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Is Gemini 4 Google’s Ultimate AI Comeback? Here Is Everything We Know - nokiapoweruser.com",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1bDdjcUdITDNsWE5VS3c4Sk9BdEY3ZUN1SU1JbE40REE2TUc1eFRnUW0wUmVVY3VWTEp1OUl4UmlHR2Q2dzg5dTBJYnYweHNjbEQ4UGl4bHlFUlo4TWRCZW13clpyZUhKcl9JX3IwLWFJNUpoNDY2WG8xNA?oc=5",
+   "source": "nokiapoweruser.com",
+   "published": "2026-09-03T14:27:34+00:00",
+   "desc": "Is Gemini 4 Google’s Ultimate AI Comeback? Here Is Everything We Know    nokiapoweruser.com",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "御三家格局松动：Google和Meta同日发布新模型，第三名不再稳了？",
+   "url": "https://news.qq.com/rain/a/20260903A0B2CH00?adChannelId=tech",
+   "source": "",
+   "published": "2026-09-03T14:23:00+00:00",
+   "desc": "在美国 AI 圈里有个约定俗成的说法叫“御三家”：OpenAI、Anthropic 和 Google。但如今，第三名的 Google 的位置，似乎正在被第四名 Meta 觊觎和追赶。2026 年 9 月 2 日同一天，Google 推出了 Gemini 3.8 Flash，Meta 则发布了 Muse Spark 1.3。Artificial Analysis 综合榜数据显示，Muse Spark ...",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Byron Donalds stops in Delray, tackles AI data center question",
+   "url": "https://www.msn.com/en-us/news/other/byron-donalds-stops-in-delray-tackles-ai-data-center-question/ar-AA2bw1K0",
+   "source": "",
+   "published": "2026-09-03T14:09:43+00:00",
+   "desc": "Byron Donalds is campaigning in Palm Beach County. Flipping the once-reliably Democratic stronghold would make him harder to stop.",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "bing"
+  },
+  {
+   "title": "Google launches Gemini 3.8 Flash and Gemini 3.8 Flash Cyber - SC Media",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc1B3SGlpV3pfb2ZWTXJFRzgwZ0Ryb2txcHM2cnQ0ZEtFeXZ3dnpMV00ya2pBXzRSZDFIbmRjZW8wNWJqVDdwZHV5dDc1Vlc2SG9yU2pkWHdLcnoxN1c2QmNRRXl1WTFXMGFqY2d4cmg1ZTRIMVpVem5uVkk0TGl2QkhyRFVCd3FGeEFDaXBjaEpWNFk?oc=5",
+   "source": "SC Media",
+   "published": "2026-09-03T14:08:00+00:00",
+   "desc": "Google launches Gemini 3.8 Flash and Gemini 3.8 Flash Cyber    SC Media",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "AI vs. Quantum Computing: Understand the Difference and Its Impact",
+   "url": "https://www.investopedia.com/understanding-ai-vs-quantum-computing-11837953",
+   "source": "",
+   "published": "2026-09-03T13:58:00+00:00",
+   "desc": "Discover how AI and quantum computing differ and why their convergence could revolutionize tech in fields like medicine, materials science, and secure encryption.",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "bing"
+  },
+  {
+   "title": "Google DeepMind Just Rolled Out Its Most Accurate AI Global Weather Model",
+   "url": "https://gizmodo.com/google-deepmind-just-rolled-out-its-most-accurate-ai-global-weather-model-2000807015",
+   "source": "",
+   "published": "2026-09-03T13:55:00+00:00",
+   "desc": "The tech giant claims WeatherNext 3 can deliver up to 50% more accurate precipitation forecasts a day or more in advance.",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "bing"
+  },
+  {
+   "title": "H Company Releases NeoMME, an Open-Source Multimodal Encoder Family - Unite.AI",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdDd5Y002WmRodUN5ZklqRUEyaEFpdlRYTDgwUTB1bTVOX3c0eTMybFVuOFFjekd6Ym1BRjFRVXI2YlJsMmVMTFZ5VERld29vU2tJUV9lZ1I3Mms3WVc4UnRuaUJoOFFfNkp2ejhNLWFLendsSDNSd01oR1AyRkQtXzhSa3lyVDctLWtBZVVKclRMdw?oc=5",
+   "source": "Unite.AI",
+   "published": "2026-09-03T13:35:01+00:00",
+   "desc": "H Company Releases NeoMME, an Open-Source Multimodal Encoder Family    Unite.AI",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Institute of Foundation Models unveils K2 Horizon with six open models spanning 0.9B to 375B parameters - Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42cTJVTkxpQVlKaVlCNDVyeFNBYnFTd05Ua3NFd05fM3FjU1NrWEVSaHAxTnFEOGJ6VDRmYmdYRXl2Ukc2R0I3dEphV3FmOWhxUXNDOU12NTFqX1VXV1RoQlo5SUJiSFV3Zkt0Uw?oc=5",
+   "source": "Crypto Briefing",
+   "published": "2026-09-03T13:28:26+00:00",
+   "desc": "Institute of Foundation Models unveils K2 Horizon with six open models spanning 0.9B to 375B parameters    Crypto Briefing",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+   "source": "NVIDIA blog",
+   "published": "2026-09-03T13:00:35+00:00",
+   "desc": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to th",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "Institute of Foundation Models Launches the Industry's Largest Fully Open-Source Fleet of AI Models: Complete with Weights, Code, Training Data and Methodologies - PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQa3RLU09tVE1BZG9kYW50bTNOTjFGTG1LempRcjVfZVZ1U2VOSHNSaHlqcG9Mby1kenc3M3FSTUFLQ0dZN013dnRiS0tuUXpaZ1BXdTVhWThNcXNOR0pNcjJEVnBWOUo0UWROX3hZRGRCU1puOV9YbFVpdHhoTFU1a2NXUVRaQW9NQnVGZi1SOERMR0U0RFpfeU5aMGxxQi1XbElXdmhtUjBoRXFwS2hYVlc0dkttMkJsdVU0bTh1WFZUVzRnbEsxNTVYUHFEWWw0dnBEZXZ6YjBheThuYWI1c09ZakZlUDBwc1RqRkV2UXV3UWM2Q01BcnBaLU9iVTZCbzFXTExYakp1MVk2TzJHd3RBOUdtSjJ2WmtSYzVOa1ZWQVcwb3E2OXdBX24yeVpDQ1NpbW5DMmk?oc=5",
+   "source": "PR Newswire",
+   "published": "2026-09-03T13:00:00+00:00",
+   "desc": "Institute of Foundation Models Launches the Industry's Largest Fully Open-Source Fleet of AI Models: Complete with Weights, Code, Training Data and Methodologies    PR Newswire",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Meta Rises 4% as Muse Spark 1.3 Claims Parity With Anthropic and OpenAI",
+   "url": "https://247wallst.com/investing/2026/09/03/meta-rises-4-as-muse-spark-1-3-claims-parity-with-anthropic-and-openai/",
+   "source": "",
+   "published": "2026-09-03T12:48:00+00:00",
+   "desc": "The AI model race got a fresh salvo this morning, and it came from Menlo Park. Meta Platforms (NASDAQ:META | META Price Prediction) is claiming performance parity with the top private frontier labs, ...",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Meta取消AI Token考核！2026年大厂绩效革命引爆职场热搜",
+   "url": "https://www.sohu.com/a/1071699672_122066679",
+   "source": "",
+   "published": "2026-09-03T12:34:00+00:00",
+   "desc": "2026年9月4日，全球科技圈突然‘抖’了一下——不是因为又出了个颠覆性大模型，而是因为Meta悄悄撕掉了那张贴在工程师工位旁三年的‘AIKPI成绩单’。没错，那个曾让无数硅谷码农边敲代码边心慌计算‘今天还剩几个Token没用完’的考核指标，正式下线了。 据IT之家独家援引外媒The Information最新报道，Meta内部已于当地时间9月3日（周二）向全公司工程师发布一份重磅备忘录，由AI基 ...",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Cote d’Ivoire Turns To Mistral AI For Digital Push",
+   "url": "https://www.techbooky.com/cote-divoire-mistral-ai-digital-push/",
+   "source": "",
+   "published": "2026-09-03T12:31:00+00:00",
+   "desc": "Cote d'Ivoire's partnership with Mistral AI shows how African governments are trying to build local AI capacity.",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "bing"
+  },
+  {
+   "title": "OpenAI rolls out powerful GPT-6 model with stronger safeguards amid rising AI cybersecurity fears",
+   "url": "https://www.malaymail.com/news/tech-gadgets/2026/09/04/openai-rolls-out-powerful-gpt-6-model-with-stronger-safeguards-amid-rising-ai-cybersecurity-fears/233838",
+   "source": "",
+   "published": "2026-09-03T12:25:00+00:00",
+   "desc": "ChatGPT maker OpenAI said yesterday it would begin rolling out its newest and most powerful artificial intelligence (AI) model to select ...",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "bing"
+  },
+  {
+   "title": "NVIDIA to Acquire Hugging Face",
+   "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+   "source": "NVIDIA blog",
+   "published": "2026-09-03T11:56:49+00:00",
+   "desc": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hug",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "Meta CEO Zuckerberg tells Trump a national AI regulator is a flawed idea",
+   "url": "https://cryptobriefing.com/zuckerberg-trump-national-ai-regulator-flawed/",
+   "source": "",
+   "published": "2026-09-03T11:39:00+00:00",
+   "desc": "Meta CEO Mark Zuckerberg told President Trump that creating a national AI regulator is flawed, pushing open-source models over centralized ...",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Will enterprises learn to love Meta AI models again? - Constellation Research",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaVZGQmZ1YkxDSnJnUFp2S2wyNG1TcXV4Yy1RNXNHX0plM0o0VzFjR2hmWTY1emZQdmpsNm9yMUkwOXJyWmxBSTMzNjd3Nk52OUtXdjR3dm9tRGZlQTlmWllNbVNJX2NOVFNnM2pGMnp0ZE5qWDBKQmwzVFhMTG1Zb3JKeVZrN2ZWMkRZSHNsWFVrX01fQkNBMQ?oc=5",
+   "source": "Constellation Research",
+   "published": "2026-09-03T11:22:03+00:00",
+   "desc": "Will enterprises learn to love Meta AI models again?    Constellation Research",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Google和Meta同日发布新模型 速度与性价比成关键",
+   "url": "https://news.china.com/socialgd/10000169/20260904/49718587.html",
+   "source": "",
+   "published": "2026-09-03T10:40:00+00:00",
+   "desc": "Google和Meta同日发布新模型 速度与性价比成关键。在美国AI圈里，OpenAI、Anthropic和Google被称为“御三家”。然而，现在Google的地位似乎正受到Meta的挑战。2026年9月2日，Google推出了Gemini 3.8 Flash，而Meta则发布了Muse Spark 1.3。根据Artificial Analysis的数据，Muse Spark 1.3在未公开的 ...",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Rocket Startup HyImpulse Raises More Than €50 Million for European Launch Capacity - trendingtopics.eu",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUFxRm1uNFU3eXVZakQ3MHR6QTM4WldibHlhcHVMcEc5UkpQU0RHQ0JIcUIzcFpyckk1WmJpV3dmT05rZGVacTNKU0NLMXBYbHRrTlRPdFJXX0tUaElMVzF5S3doTzZvZFpNMnRsdTdaSG8zMlRHS2Y3WDgxMmxDOGtMR1A4VGFvUEVuTDZ2dHRuWkhiUjJFeFV1dzI3YWh3WWhnMlVtVjJyVFdVZUdmd2NrVQ?oc=5",
+   "source": "trendingtopics.eu",
+   "published": "2026-09-03T10:30:23+00:00",
+   "desc": "Rocket Startup HyImpulse Raises More Than €50 Million for European Launch Capacity    trendingtopics.eu",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Broadcom stock falls as investors assess fourth-quarter guidance - Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UNXBOc3RzNWpMSkpJQ0kzZGZFR2tsblBQejZaOE1VbjBfaDFHbUg3N3Q3TlJOVmZJZjU5V2E1emo0TFY2eTZCWERraXBiTWd2R1hsWlZ2TVQ2UEN1YmtqN3VNbnMxS2czamZHOQ?oc=5",
+   "source": "Crypto Briefing",
+   "published": "2026-09-03T10:11:21+00:00",
+   "desc": "Broadcom stock falls as investors assess fourth-quarter guidance    Crypto Briefing",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Meta zegt dat het eindelijk kan concurreren met ChatGPT en Claude",
+   "url": "https://www.msn.com/nl-nl/nieuws/overig/meta-zegt-dat-het-eindelijk-kan-concurreren-met-chatgpt-en-claude/ar-AA2bvKnk",
+   "source": "",
+   "published": "2026-09-03T09:00:14+00:00",
+   "desc": "Meta zegt met zijn nieuwste model Muse Spark 1.3 zijn achterstand op OpenAI en Anthropic vrijwel te hebben weggewerkt. Maar ondanks alle miljarden die Mark Zuckerberg heeft uitgegeven, zit het model n ...",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Meta Rolls Out Muse Spark 1.3 With Coding and Agentic Gains - Technobezz",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1seWZTeWU4VGlaSjdjVTNCSGQ5OWpOaWNnbVVlTVk1V3VwT2E5cjc2dFJHSGdSVW5LWnhPaFR2dm5BWXBpNmNyQ3ZDZXZCX3dnRVJIdFViUnFNZ3VuVzlnbkVsYXFXel9MRDU0?oc=5",
+   "source": "Technobezz",
+   "published": "2026-09-03T05:51:35+00:00",
+   "desc": "Meta Rolls Out Muse Spark 1.3 With Coding and Agentic Gains    Technobezz",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Broadcom Custom AI Chip Revenue Surges 221% to $16.7B, Q4 Guidance Disappoints",
+   "url": "https://www.msn.com/en-us/news/other/broadcom-custom-ai-chip-revenue-surges-221-to-167b-q4-guidance-disappoints/ar-AA2buN2Y",
+   "source": "",
+   "published": "2026-09-03T05:28:00+00:00",
+   "desc": "Broadcom AI chip revenue hit $16.7 billion in Q3 FY2026, a 221% year-over-year surge powered by Google, Meta, and OpenAI custom accelerators -- yet shares of AVGO fell after hours as Q4 guidance of ...",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+   "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+   "source": "NVIDIA blog",
+   "published": "2026-09-01T21:19:20+00:00",
+   "desc": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its ",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
+   "source": "NVIDIA blog",
+   "published": "2026-08-27T13:00:33+00:00",
+   "desc": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology controls give members more ways to fine-tune gameplay, while expanded support for new",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
+   "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+   "source": "NVIDIA blog",
+   "published": "2026-08-27T13:00:17+00:00",
+   "desc": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+   "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+   "source": "NVIDIA blog",
+   "published": "2026-08-26T21:05:30+00:00",
+   "desc": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To ",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+   "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+   "source": "NVIDIA blog",
+   "published": "2026-08-25T15:30:48+00:00",
+   "desc": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark and Ubisoft are among the latest game publishers and developers bringing their bl",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "How XPUs Meet a World-Class AI Factory",
+   "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
+   "source": "NVIDIA blog",
+   "published": "2026-08-24T15:00:54+00:00",
+   "desc": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI infrastructure designed and built as a full factory, not a collection of individual acce",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+   "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+   "source": "NVIDIA blog",
+   "published": "2026-08-24T15:00:41+00:00",
+   "desc": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+   "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+   "source": "NVIDIA blog",
+   "published": "2026-08-24T15:00:19+00:00",
+   "desc": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer compar",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+   "source": "NVIDIA blog",
+   "published": "2026-08-20T13:00:24+00:00",
+   "desc": "It’s a new way into the cloud. GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or everyday PC, it’s now even easier to play supported PC games without downloading a",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "Securing the Infrastructure of Intelligence",
+   "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+   "source": "NVIDIA blog",
+   "published": "2026-08-17T12:34:51+00:00",
+   "desc": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory ",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+   "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+   "source": "NVIDIA blog",
+   "published": "2026-08-14T17:13:05+00:00",
+   "desc": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first ",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
+   "source": "NVIDIA blog",
+   "published": "2026-08-13T13:00:33+00:00",
+   "desc": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is also delivering new cloud optimizations that make Frame Generation feel even more responsive while streaming. On top of th",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+   "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+   "source": "NVIDIA blog",
+   "published": "2026-08-12T14:00:00+00:00",
+   "desc": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees. Huang topped the list, with 99% of employees approving of the job he does. “As AI a",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+   "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+   "source": "NVIDIA blog",
+   "published": "2026-08-12T00:38:21+00:00",
+   "desc": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and ",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  },
+  {
+   "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+   "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+   "source": "NVIDIA blog",
+   "published": "2026-08-11T15:00:06+00:00",
+   "desc": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU. In traditional power deli",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "feed"
+  }
+ ]
+}
