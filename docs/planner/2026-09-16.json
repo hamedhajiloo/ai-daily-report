@@ -1,0 +1,385 @@
+{
+ "date": "2026-09-16",
+ "generated": "2026-09-16T11:15",
+ "sources": {
+  "boards": {
+   "status": "ok",
+   "items": [
+    {
+     "project": "LandLogic",
+     "id": 24605,
+     "title": "Create an Application Page and Components",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-09-15 23:55",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24605"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24735,
+     "title": "ZBA Application Type",
+     "type": "Test Case",
+     "state": "Ready",
+     "priority": 2,
+     "changed": "2026-09-15 23:41",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24735"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24726,
+     "title": "Submit response fails with an error after updating a file",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-14 11:32",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24726"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24725,
+     "title": "Two questions are missing in PermitFront",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-14 11:30",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24725"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24724,
+     "title": "Saved draft does not retain the current step after page refresh",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-14 08:28",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24724"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24723,
+     "title": "Step navigation should remain fully visible without scrolling",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-14 08:21",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24723"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24715,
+     "title": "Circle and surrounding shadow appear visually unclear",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-14 08:06",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24715"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24714,
+     "title": "Final page font size is too small and inconsistent with previous pages",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-14 08:04",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24714"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24713,
+     "title": "Rejected project copy does not retain all field values",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-14 08:02",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24713"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24712,
+     "title": "Uploaded status is missing for uploaded files",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-14 07:58",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24712"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24711,
+     "title": "File name validation does not enforce the R0 prefix",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-14 07:56",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24711"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24710,
+     "title": "the Done page",
+     "type": "Test Case",
+     "state": "Ready",
+     "priority": 2,
+     "changed": "2026-09-13 18:43",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24710"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24709,
+     "title": "Find Address By PIN",
+     "type": "Test Case",
+     "state": "Ready",
+     "priority": 2,
+     "changed": "2026-09-13 18:42",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24709"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24704,
+     "title": "Two fields are always displayed in Application Detail when they should be conditional",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:50",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24704"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24703,
+     "title": "These fields should be required",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:48",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24703"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24702,
+     "title": "File format validation should occur at the appropriate stage",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:47",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24702"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24701,
+     "title": "Remove document option is missing after file upload",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:46",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24701"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24700,
+     "title": "Choose different file resets the document form to default state",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:44",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24700"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24699,
+     "title": "Phone number and email fields have inconsistent required status",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:43",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24699"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24698,
+     "title": "Number of storeys field is duplicated in PermitFront",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:41",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24698"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34374,
+     "title": "\u0622\u067e\u062f\u06cc\u062a \u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647 \u0647\u0627\u06cc \u0633\u0631\u0648\u06cc\u0633 \u0628\u0627\u0633",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-13 07:07",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34374"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 35039,
+     "title": "\u0627\u06cc\u062c\u0627\u062f \u062f\u0627\u06a9\u06cc\u0648\u0645\u0646\u062a \u0647\u0627\u06cc \u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u0646\u062d\u0648\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u067e\u0631\u0648\u06a9\u0633\u06cc \u0647\u0627 \u062f\u0631 \u0628\u0627\u062a \u0648 \u067e\u06cc\u0645\u0646\u062a",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-13 07:07",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/35039"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34007,
+     "title": "\u062d\u0630\u0641 \u0641\u0627\u06cc\u0644 \u0647\u0627\u06cc certificate",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-13 07:07",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34007"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34374,
+     "title": "\u0622\u067e\u062f\u06cc\u062a \u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647 \u0647\u0627\u06cc \u0633\u0631\u0648\u06cc\u0633 \u0628\u0627\u0633",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-13 07:07",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34374"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 35039,
+     "title": "\u0627\u06cc\u062c\u0627\u062f \u062f\u0627\u06a9\u06cc\u0648\u0645\u0646\u062a \u0647\u0627\u06cc \u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u0646\u062d\u0648\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u067e\u0631\u0648\u06a9\u0633\u06cc \u0647\u0627 \u062f\u0631 \u0628\u0627\u062a \u0648 \u067e\u06cc\u0645\u0646\u062a",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-13 07:07",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/35039"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34007,
+     "title": "\u062d\u0630\u0641 \u0641\u0627\u06cc\u0644 \u0647\u0627\u06cc certificate",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-13 07:07",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34007"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34712,
+     "title": "problem with listening",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 1,
+     "changed": "2026-09-13 06:56",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34712"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34712,
+     "title": "problem with listening",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 1,
+     "changed": "2026-09-13 06:56",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34712"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 33653,
+     "title": "Fix problem of select audio device on mobile",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 1,
+     "changed": "2026-09-13 06:55",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/33653"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 33653,
+     "title": "Fix problem of select audio device on mobile",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 1,
+     "changed": "2026-09-13 06:55",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/33653"
+    }
+   ]
+  },
+  "gmail": {
+   "status": "skipped",
+   "items": [],
+   "note": "set PLANNER_GMAIL_USER + PLANNER_GMAIL_APP_PASSWORD"
+  },
+  "calendar": {
+   "status": "ok",
+   "items": []
+  },
+  "outlook": {
+   "status": "ok",
+   "items": [
+    {
+     "subject": "Today:  \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 AI \u062f\u0631 \u06a9\u0627\u0631 ",
+     "from": "no-reply@microsoft.com",
+     "time": "2026-09-15 23:38"
+    },
+    {
+     "subject": "PR - Feature/permit front - llg-app 9826 (Hamed Hajiloo)",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-15 20:37"
+    },
+    {
+     "subject": "[Pre-deployment approval pending] llg-postgresql-main > Release-458 : Staging",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-15 16:32"
+    },
+    {
+     "subject": "Planning Touch Base and another event today.",
+     "from": "no-reply@microsoft.com",
+     "time": "2026-09-14 23:30"
+    },
+    {
+     "subject": "LandLogic account email verification code",
+     "from": "dev.landlogic@gmail.com",
+     "time": "2026-09-14 15:26"
+    },
+    {
+     "subject": "Technical Assistant Session - C# - Alireza Hasanlou",
+     "from": "CSInternship@mehrandvd.me",
+     "time": "2026-09-14 12:25"
+    },
+    {
+     "subject": "Task 24726 - Submit response fails with an error after updating a file",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-14 11:32"
+    },
+    {
+     "subject": "Task 24725 - Two questions are missing in PermitFront",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-14 11:31"
+    },
+    {
+     "subject": "Task 24724 - Saved draft does not retain the current step after page refresh",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-14 08:29"
+    },
+    {
+     "subject": "Task 24723 - Step navigation should remain fully visible without scrolling",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-14 08:21"
+    },
+    {
+     "subject": "Task 24715 - Circle and surrounding shadow appear visually unclear",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-14 08:06"
+    },
+    {
+     "subject": "Task 24714 - Final page font size is too small and inconsistent with previous pages",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-14 08:05"
+    }
+   ]
+  }
+ }
+}

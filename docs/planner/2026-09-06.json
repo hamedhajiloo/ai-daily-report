@@ -1,0 +1,385 @@
+{
+ "date": "2026-09-06",
+ "generated": "2026-09-06T09:15",
+ "sources": {
+  "boards": {
+   "status": "ok",
+   "items": [
+    {
+     "project": "LandLogic",
+     "id": 24600,
+     "title": "PermitFront: Application Submission v0.1",
+     "type": "Product Backlog Item",
+     "state": "New",
+     "priority": 2,
+     "changed": "2026-09-05 22:49",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24600"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24599,
+     "title": "PermitFront: Search Application v0.1",
+     "type": "Product Backlog Item",
+     "state": "New",
+     "priority": 2,
+     "changed": "2026-09-05 22:48",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24599"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24598,
+     "title": "Connect the PermitFront to MuniromApi",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-05 22:37",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24598"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24596,
+     "title": "Technical Design for Munirom Apis - pair",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-05 22:35",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24596"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24592,
+     "title": "Create LandLogic.MuniromApi Project",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-05 22:32",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24592"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24591,
+     "title": "Connect and Sync Munirom",
+     "type": "Product Backlog Item",
+     "state": "New",
+     "priority": 2,
+     "changed": "2026-09-05 22:31",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24591"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24558,
+     "title": "Create New Projects (LandLogic.PermitFront) and (LandLogic.Munirom)",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-09-05 18:10",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24558"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24525,
+     "title": "Adding Chat Background Color in White-Label - Pair",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-09-05 15:51",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24525"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24388,
+     "title": "Open API: Zoning MCP",
+     "type": "Feature",
+     "state": "New",
+     "priority": 2,
+     "changed": "2026-09-05 12:55",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24388"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24557,
+     "title": "PermitFront v0.1: Preparing Requirements",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-05 07:24",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24557"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24556,
+     "title": "PermitFront v0.1 - Kick Start",
+     "type": "Product Backlog Item",
+     "state": "New",
+     "priority": 2,
+     "changed": "2026-09-04 15:26",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24556"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 35028,
+     "title": "\u0627\u06cc\u062c\u0627\u062f \u0628\u0627\u062a AI mancheck - \u067e\u06cc\u0631",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-09-04 14:26",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/35028"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34896,
+     "title": "\u067e\u06cc\u0631 \u0628\u0627 \u0627\u0644\u0647\u0647 \u0628\u0631\u0627\u06cc \u067e\u06cc\u0627\u062f\u0647 \u0633\u0627\u0632\u06cc \u0628\u0627\u062a \u0631\u06cc\u0644\u062a\u0648\u0631 \u0633\u0627\u067e\u0648\u0631\u062a \u0627\u06cc\u062c\u0646\u062a",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-09-04 14:26",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34896"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 35028,
+     "title": "\u0627\u06cc\u062c\u0627\u062f \u0628\u0627\u062a AI mancheck - \u067e\u06cc\u0631",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-09-04 14:26",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/35028"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34896,
+     "title": "\u067e\u06cc\u0631 \u0628\u0627 \u0627\u0644\u0647\u0647 \u0628\u0631\u0627\u06cc \u067e\u06cc\u0627\u062f\u0647 \u0633\u0627\u0632\u06cc \u0628\u0627\u062a \u0631\u06cc\u0644\u062a\u0648\u0631 \u0633\u0627\u067e\u0648\u0631\u062a \u0627\u06cc\u062c\u0646\u062a",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-09-04 14:26",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34896"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 35039,
+     "title": "\u0627\u06cc\u062c\u0627\u062f \u062f\u0627\u06a9\u06cc\u0648\u0645\u0646\u062a \u0647\u0627\u06cc \u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u0646\u062d\u0648\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u067e\u0631\u0648\u06a9\u0633\u06cc \u0647\u0627 \u062f\u0631 \u0628\u0627\u062a \u0648 \u067e\u06cc\u0645\u0646\u062a",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-03 07:18",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/35039"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 35039,
+     "title": "\u0627\u06cc\u062c\u0627\u062f \u062f\u0627\u06a9\u06cc\u0648\u0645\u0646\u062a \u0647\u0627\u06cc \u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u0646\u062d\u0648\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u067e\u0631\u0648\u06a9\u0633\u06cc \u0647\u0627 \u062f\u0631 \u0628\u0627\u062a \u0648 \u067e\u06cc\u0645\u0646\u062a",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-03 07:18",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/35039"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24551,
+     "title": "Whitelabel - Branding Color (Backgrond - ChatBox)",
+     "type": "Test Case",
+     "state": "Ready",
+     "priority": 2,
+     "changed": "2026-09-02 18:15",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24551"
+    },
+    {
+     "project": "LandLogic",
+     "id": 21800,
+     "title": "Reordering these items to adjust their display sequence",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-08-31 18:46",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/21800"
+    },
+    {
+     "project": "LandLogic",
+     "id": 21803,
+     "title": "Dropdown list does not close after selecting an item in Location & Access questions",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-08-31 18:46",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/21803"
+    },
+    {
+     "project": "LandLogic",
+     "id": 21818,
+     "title": "Boating condition is contradictory: table says modify the question when boating is selected, but the screenshot shows the question should only appear if boating is selected",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-08-31 18:46",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/21818"
+    },
+    {
+     "project": "LandLogic",
+     "id": 21832,
+     "title": "Radio buttons have a delay when changing the selected option",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-31 18:46",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/21832"
+    },
+    {
+     "project": "LandLogic",
+     "id": 21936,
+     "title": "When the keyboard opens the modal should shift up but most fields stay hidden",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:46",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/21936"
+    },
+    {
+     "project": "LandLogic",
+     "id": 16641,
+     "title": "The problem of display layer on map when zooming",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:46",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/16641"
+    },
+    {
+     "project": "LandLogic",
+     "id": 17745,
+     "title": "ANSI layer problem in platform (and other similar issues)",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-08-31 18:45",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/17745"
+    },
+    {
+     "project": "LandLogic",
+     "id": 19870,
+     "title": "In the live environment, the logout page takes more time to redirect to the login page",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 1,
+     "changed": "2026-08-31 18:45",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/19870"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34897,
+     "title": "\u0631\u06cc\u0648\u06cc\u0648 \u0628\u0627\u062a \u0631\u06cc\u0644\u062a\u0648\u0631 \u0633\u0627\u067e\u0648\u0631\u062a \u0627\u06cc\u062c\u0646\u062a - \u0642\u0633\u0645\u062a \u06f2",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-31 05:58",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34897"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34897,
+     "title": "\u0631\u06cc\u0648\u06cc\u0648 \u0628\u0627\u062a \u0631\u06cc\u0644\u062a\u0648\u0631 \u0633\u0627\u067e\u0648\u0631\u062a \u0627\u06cc\u062c\u0646\u062a - \u0642\u0633\u0645\u062a \u06f2",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-31 05:58",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34897"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34374,
+     "title": "\u0622\u067e\u062f\u06cc\u062a \u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647 \u0647\u0627\u06cc \u0633\u0631\u0648\u06cc\u0633 \u0628\u0627\u0633",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-30 12:50",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34374"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34374,
+     "title": "\u0622\u067e\u062f\u06cc\u062a \u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647 \u0647\u0627\u06cc \u0633\u0631\u0648\u06cc\u0633 \u0628\u0627\u0633",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-08-30 12:50",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34374"
+    }
+   ]
+  },
+  "gmail": {
+   "status": "skipped",
+   "items": [],
+   "note": "set PLANNER_GMAIL_USER + PLANNER_GMAIL_APP_PASSWORD"
+  },
+  "calendar": {
+   "status": "ok",
+   "items": []
+  },
+  "outlook": {
+   "status": "ok",
+   "items": [
+    {
+     "subject": "LandLogic Sprint and 2 other events today",
+     "from": "no-reply@microsoft.com",
+     "time": "2026-09-05 23:37"
+    },
+    {
+     "subject": "[Pre-deployment approval pending] crawler-mgmt > mlk-crawler-mgmt-67 : live-ir-mobin-1",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-05 19:23"
+    },
+    {
+     "subject": "Task 24454 - Adding Due Diligence Report in LoadTest",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-05 16:01"
+    },
+    {
+     "subject": "Task 24451 - Improve Due Diligence Query Performance",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-05 16:00"
+    },
+    {
+     "subject": "Task 24509 - Improve Due Diligence Report Creation Performance",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-05 16:00"
+    },
+    {
+     "subject": "Product Backlog Item 24391 - Open API: Technical Design Zoning MCP",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-05 15:53"
+    },
+    {
+     "subject": "PR - #34542 Fix Broadcast Message Creation Starvation - melkradar 5088 (Serajoddin Aliabadi)",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-04 19:58"
+    },
+    {
+     "subject": "[Pre-deployment approval pending] khd-job-bot > khd-bot-19507 : Live",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-04 18:43"
+    },
+    {
+     "subject": "Azure DevOps personal access token added",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-04 17:59"
+    },
+    {
+     "subject": "Time tracking was automatically stopped",
+     "from": "noreply@7pace.com",
+     "time": "2026-09-04 17:15"
+    },
+    {
+     "subject": "Task 34207 - \u062a\u063a\u06cc\u06cc\u0631 \u0641\u06cc\u0644\u062a\u0631 \u0628\u0631\u0627\u06cc \u0627\u062a\u0635\u0627\u0644 \u0628\u0647 \u0641\u06cc\u0644\u062f \u0647\u0627\u06cc \u0648\u0627\u0642\u0639\u06cc \u062c\u062f\u06cc\u062f",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-04 14:13"
+    },
+    {
+     "subject": "Task 34936 - \u0631\u06cc\u0641\u06a9\u062a\u0648\u0631 \u06a9\u0648\u0626\u0631\u06cc \u0631\u06cc\u0628\u06cc\u0644\u062f",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-04 14:13"
+    }
+   ]
+  }
+ }
+}

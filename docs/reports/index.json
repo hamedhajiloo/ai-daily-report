@@ -1,6 +1,10 @@
 {
  "reports": [
   "2026-08-19",
-  "2026-09-04"
+  "2026-09-04",
+  {
+   "date": "2026-09-29",
+   "title": "DevDay: Dots + GPT-6.1 Sol; GPT-6.1 Astra cancelled; Copilot rebuild; Mistral €3B; Claude outage"
+  }
  ]
 }

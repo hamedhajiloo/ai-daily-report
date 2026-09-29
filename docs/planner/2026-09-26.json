@@ -1,0 +1,26 @@
+{
+ "date": "2026-09-26",
+ "generated": "2026-09-26T14:47",
+ "sources": {
+  "boards": {
+   "status": "error",
+   "items": [],
+   "error": "LandLogic: <urlopen error [Errno 11001] getaddrinfo failed>; MelkRadar: <urlopen error [Errno 11001] getaddrinfo failed>; CrystaCode: <urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  "gmail": {
+   "status": "skipped",
+   "items": [],
+   "note": "set PLANNER_GMAIL_USER + PLANNER_GMAIL_APP_PASSWORD"
+  },
+  "calendar": {
+   "status": "error",
+   "items": [],
+   "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  "outlook": {
+   "status": "error",
+   "items": [],
+   "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  }
+ }
+}

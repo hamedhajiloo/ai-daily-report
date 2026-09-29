@@ -1,0 +1,385 @@
+{
+ "date": "2026-09-14",
+ "generated": "2026-09-14T10:33",
+ "sources": {
+  "boards": {
+   "status": "ok",
+   "items": [
+    {
+     "project": "LandLogic",
+     "id": 24605,
+     "title": "Create an Application Page and Components",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-09-13 23:15",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24605"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24710,
+     "title": "the Done page",
+     "type": "Test Case",
+     "state": "Ready",
+     "priority": 2,
+     "changed": "2026-09-13 18:43",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24710"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24709,
+     "title": "Find Address By PIN",
+     "type": "Test Case",
+     "state": "Ready",
+     "priority": 2,
+     "changed": "2026-09-13 18:42",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24709"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24704,
+     "title": "Two fields are always displayed in Application Detail when they should be conditional",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:50",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24704"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24703,
+     "title": "These fields should be required",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:48",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24703"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24702,
+     "title": "File format validation should occur at the appropriate stage",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:47",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24702"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24701,
+     "title": "Remove document option is missing after file upload",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:46",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24701"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24700,
+     "title": "Choose different file resets the document form to default state",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:44",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24700"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24699,
+     "title": "Phone number and email fields have inconsistent required status",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:43",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24699"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24698,
+     "title": "Number of storeys field is duplicated in PermitFront",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:41",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24698"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24697,
+     "title": "Review category titles are inconsistent with BramPlanOnline",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:39",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24697"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24696,
+     "title": "Document type options are incomplete in the Choose an option dropdown",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:37",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24696"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24695,
+     "title": "Verify Percentage increase in floor area field mapping",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:32",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24695"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24694,
+     "title": "Error message should not reference Brain",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:31",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24694"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24693,
+     "title": "Required fields are not clearly highlighted in Location and People",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 1,
+     "changed": "2026-09-13 15:26",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24693"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24596,
+     "title": "Technical Design for Munirom Apis - pair",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-09-13 13:35",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24596"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24592,
+     "title": "Create LandLogic.MuniromApi Project",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 2,
+     "changed": "2026-09-13 13:35",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24592"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24689,
+     "title": "Upload File",
+     "type": "Test Case",
+     "state": "Ready",
+     "priority": 2,
+     "changed": "2026-09-13 10:28",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24689"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24686,
+     "title": "Find Location input closes on repeated click",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-13 08:20",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24686"
+    },
+    {
+     "project": "LandLogic",
+     "id": 24671,
+     "title": "PermitFront: Site & Application Detail",
+     "type": "Test Case",
+     "state": "Ready",
+     "priority": 2,
+     "changed": "2026-09-13 08:19",
+     "url": "https://dev.azure.com/LLGCorp/LandLogic/_workitems/edit/24671"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34374,
+     "title": "\u0622\u067e\u062f\u06cc\u062a \u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647 \u0647\u0627\u06cc \u0633\u0631\u0648\u06cc\u0633 \u0628\u0627\u0633",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-13 07:07",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34374"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 35039,
+     "title": "\u0627\u06cc\u062c\u0627\u062f \u062f\u0627\u06a9\u06cc\u0648\u0645\u0646\u062a \u0647\u0627\u06cc \u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u0646\u062d\u0648\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u067e\u0631\u0648\u06a9\u0633\u06cc \u0647\u0627 \u062f\u0631 \u0628\u0627\u062a \u0648 \u067e\u06cc\u0645\u0646\u062a",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-13 07:07",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/35039"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34007,
+     "title": "\u062d\u0630\u0641 \u0641\u0627\u06cc\u0644 \u0647\u0627\u06cc certificate",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-13 07:07",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34007"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34374,
+     "title": "\u0622\u067e\u062f\u06cc\u062a \u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647 \u0647\u0627\u06cc \u0633\u0631\u0648\u06cc\u0633 \u0628\u0627\u0633",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-13 07:07",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34374"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 35039,
+     "title": "\u0627\u06cc\u062c\u0627\u062f \u062f\u0627\u06a9\u06cc\u0648\u0645\u0646\u062a \u0647\u0627\u06cc \u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u0646\u062d\u0648\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u067e\u0631\u0648\u06a9\u0633\u06cc \u0647\u0627 \u062f\u0631 \u0628\u0627\u062a \u0648 \u067e\u06cc\u0645\u0646\u062a",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-13 07:07",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/35039"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34007,
+     "title": "\u062d\u0630\u0641 \u0641\u0627\u06cc\u0644 \u0647\u0627\u06cc certificate",
+     "type": "Task",
+     "state": "To Do",
+     "priority": 2,
+     "changed": "2026-09-13 07:07",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34007"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 34712,
+     "title": "problem with listening",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 1,
+     "changed": "2026-09-13 06:56",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/34712"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 34712,
+     "title": "problem with listening",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 1,
+     "changed": "2026-09-13 06:56",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/34712"
+    },
+    {
+     "project": "MelkRadar",
+     "id": 33653,
+     "title": "Fix problem of select audio device on mobile",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 1,
+     "changed": "2026-09-13 06:55",
+     "url": "https://melkradar.visualstudio.com/MelkRadar/_workitems/edit/33653"
+    },
+    {
+     "project": "CrystaCode",
+     "id": 33653,
+     "title": "Fix problem of select audio device on mobile",
+     "type": "Task",
+     "state": "In Progress",
+     "priority": 1,
+     "changed": "2026-09-13 06:55",
+     "url": "https://melkradar.visualstudio.com/CrystaCode/_workitems/edit/33653"
+    }
+   ]
+  },
+  "gmail": {
+   "status": "skipped",
+   "items": [],
+   "note": "set PLANNER_GMAIL_USER + PLANNER_GMAIL_APP_PASSWORD"
+  },
+  "calendar": {
+   "status": "ok",
+   "items": []
+  },
+  "outlook": {
+   "status": "ok",
+   "items": [
+    {
+     "subject": "Today: CrystaCode - Share Experience ",
+     "from": "no-reply@microsoft.com",
+     "time": "2026-09-13 23:30"
+    },
+    {
+     "subject": "[Pre-deployment approval pending] llg-permitfront > Release-38 : Qa",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-13 21:27"
+    },
+    {
+     "subject": "Azure DevOps personal access token added",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-13 20:24"
+    },
+    {
+     "subject": "[Pre-deployment approval pending] app-crawler > app-crawler-19640 : Live",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-13 17:49"
+    },
+    {
+     "subject": "Task 24704 - Two fields are always displayed in Application Detail when they should be conditional",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-13 15:51"
+    },
+    {
+     "subject": "[Deployment cancelled] llg-permitfront > Release-33 : Dev",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-13 15:49"
+    },
+    {
+     "subject": "Task 24703 - These fields should be required",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-13 15:48"
+    },
+    {
+     "subject": "Task 24702 - File format validation should occur at the appropriate stage",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-13 15:47"
+    },
+    {
+     "subject": "Task 24701 - Remove document option is missing after file upload",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-13 15:46"
+    },
+    {
+     "subject": "Task 24700 - Choose different file resets the document form to default state",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-13 15:45"
+    },
+    {
+     "subject": "Task 24699 - Phone number and email fields have inconsistent required status",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-13 15:43"
+    },
+    {
+     "subject": "Task 24698 - Number of storeys field is duplicated in PermitFront",
+     "from": "azuredevops@microsoft.com",
+     "time": "2026-09-13 15:41"
+    }
+   ]
+  }
+ }
+}

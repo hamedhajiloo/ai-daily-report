@@ -1,0 +1,1702 @@
+{
+ "date": "2026-09-29",
+ "collected_at": "2026-09-29T17:33:58.063490+00:00",
+ "window_hours": 36,
+ "failures": [],
+ "counts": {
+  "openai": 103,
+  "anthropic": 96,
+  "xai": 61,
+  "mistral": 42,
+  "nvidia": 98,
+  "google": 25,
+  "opensource": 37,
+  "research": 38,
+  "policy": 46,
+  "microsoft": 88,
+  "industry": 59,
+  "meta": 22
+ },
+ "items": [
+  {
+   "title": "OpenAI launches dots, always-on AI agents with their own cloud computers - The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQk5rY3NNdUZqMDFVaHlzR20zM0ZVbHB4dmh3UVR2eVczTmlkejRQbDNtX0FwVjJBSzJtY3R3ZUZ4cEJjNDVEdzl0aHd5YjY5TUprZmpVbFMxLTZwcTFPdzV3eHpuSHdSbGw5azlzVnN0c0hJbVFHMDIydGpwU3pPdHJ1N082QlVDOEE?oc=5",
+   "source": "The Next Web",
+   "published": "2026-09-29T17:30:38+00:00",
+   "desc": "OpenAI launches dots, always-on AI agents with their own cloud computers    The Next Web",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "First on CNBC: Transcript: OpenAI CEO Sam Altman Speaks with CNBC’s Kate Rooney on “Halftime Report” Today - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUklSVmZldXhYWGFrRHI0ek9vbjAtU1B3SVlRN0pXamdidHNoZXAwXzBNbk44NlZ0dXlPcWkxV3ZIVDJVcHdYZkhCZW4xTVM1OUYxd0QwRHZLc1BKQ3VmX1BVbDB2dk9NRXVVRzNiOGdsLVFYS1JZZU1vaElSeGpJUTF2VVJvS0NENlVyV01Jb0JKbHp3TlNYQ3ZyNXRhTExpRjBrMENtUl9PTzhieE9iNVNlNm5ZQjNxX2N5SHQ0OUt2RVo2RTZnSlBhYXBXRVV2RG5Cb9IB2gFBVV95cUxQT1lCSWJycmQyT21PZnNzU1k5SU5SNVFULUNEa1drcDFsUklDYVNrRnk4QzhUMk5aSHVvdC1NZzhvM1ByR2JKSjZvY0l6NGdlS1BnLTBiZXJZQjBLVC1IVkRONzF3UXJxRkY0OGNrb1JMNHpLblgwMHVhRXR1ZlZYMDhZSDhnY3h5cGFtVXBwS05QSmtLWnUzMGtldFNSclhsZWJzSjdhMUlreTJWZzBUUi1VOV9TSm8yQzdpb1F2Yjg2VjJmNUJjMzJ2THlFaTlRbklPdzNJckxCZw?oc=5",
+   "source": "CNBC",
+   "published": "2026-09-29T17:25:07+00:00",
+   "desc": "First on CNBC: Transcript: OpenAI CEO Sam Altman Speaks with CNBC’s Kate Rooney on “Halftime Report” Today    CNBC",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI Q3 2026 revenue run rate nears $70 billion - qz.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wYUVRQ3NDeVp2WElpVTVfVFVPMWRhSHF6NnQyRG1VM3lOTjBUcWhaUWxnNEF5ZjVkODVqZ3FJcU1za0xBM0FNTTFPNDdUYzVDWWs0ZlZzdHJGdGRWQWZLcU1PemJQSDNSOFVUZHlMWWphRHdMa3pNM3UwMi11dw?oc=5",
+   "source": "qz.com",
+   "published": "2026-09-29T17:23:25+00:00",
+   "desc": "OpenAI Q3 2026 revenue run rate nears $70 billion    qz.com",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Anthropic Claude AI Issue Disrupts Multiple Services Briefly - The Cryptonomist",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PQnlOSGl6VnJObzBEUnZWdTB4WDRNajRLempTWC00XzdhMTA4ZHN5TzZUNG4tMG5oVXlnbVpWN3FLREIzNUJxOW1oT3ctVS1tUFNqalFoWFpERlp3d21QSURBbjQwTjVsOE9qUHI4cVNTQQ?oc=5",
+   "source": "The Cryptonomist",
+   "published": "2026-09-29T17:21:24+00:00",
+   "desc": "Anthropic Claude AI Issue Disrupts Multiple Services Briefly    The Cryptonomist",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Trump’s biggest AI bet isn’t Silicon Valley, it’s beating China - news.meaww.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMmFDQjY5QlV1TXlBeUI4bkw1ZExSSHRhX2U2akltNWNCSUxHQTJxdVItSHpYSzJoa3lwZVNsY3RZUTlQaG1ZTVZPRTg3dEVndVJIbkl4LXNLNFBFWUh6NlFDWnlmdUJLS3piYklDa3FXLW9hNFUxVE9iUGhGbW5kUjhzY2JCWEFkTWc?oc=5",
+   "source": "news.meaww.com",
+   "published": "2026-09-29T17:19:47+00:00",
+   "desc": "Trump’s biggest AI bet isn’t Silicon Valley, it’s beating China    news.meaww.com",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI takes on Meta with always-on Dots agent in enterprise AI push - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHpSWDN2U2FHZk9uM2NIZVVkQjVWQXBudENFN09DM3ZWdWlBdVdCdndKTFlQa2duMmpYcDVYamdOSGNhTnBkQmQ1dG01T3ZYU2Zyb2VEXzg1VG05N1dwR0FWZlNqWDlNNldWS2VEcGlDby1TQ1JUMy1La1R1TncwQkN1OVRIN2lEeDJpQTQ2VkNXZ2lmVG12bHBPOU5sZW9sX2FvSlk5VGhTU3c?oc=5",
+   "source": "Reuters",
+   "published": "2026-09-29T17:17:43+00:00",
+   "desc": "OpenAI takes on Meta with always-on Dots agent in enterprise AI push    Reuters",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Meet OpenAI's \"dots\" — a new AI assistant meant to take on Meta's Muse. - Axios",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Id3ZsWGtwNUxVSm1CekJ3endxS0l3dGpHSzY2M3NpY1ZQR2VMendOdVBxOThiYmtRSmR6aHRzc3N3SVJNMTUwcnBWRk9oU2xBMUhJNllMSU9TX1pWQUQyR1BIR2tBdWRuakFTNUlVRTFsQQ?oc=5",
+   "source": "Axios",
+   "published": "2026-09-29T17:17:23+00:00",
+   "desc": "Meet OpenAI's \"dots\" — a new AI assistant meant to take on Meta's Muse.    Axios",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI launches Dots, its bubbly agentic avatar - TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekZiSGZ1NGF6RnhoMlYxaEVocWlzMkJGazhjOFB3SnNzaFl1cmNkQTJabkoyME9QWUM0M2RsVXJiVjYzLTIxSC1rb2g3MGVFQlIzX2ZGN2ZTakpOdDNTOWpMMWs5THg3M0pyUU0tdmxTSkdUQUcwbDZDXzdUTHRzS0gxRFJJVTVS?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-09-29T17:17:15+00:00",
+   "desc": "OpenAI launches Dots, its bubbly agentic avatar    TechCrunch",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "ChatGPT's New Plan Costs $500 a Month - Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY2lCM0h0aHpuVEREVHh4OUFQSngtd2JSUi1PeVkteXoxbHhFOF9uX3hGMGhiMWdOek8ybUVfd0ROaEpwWmdrS2lYQ293bkhsZUVRVVNPWVNhM1Jkd1A2WS13dTd1cHpJS2trczN2bTlscjVrYU5IcFg0Y1pyRk5ScGNWOGNUbFFkU0hHeDQ0VQ?oc=5",
+   "source": "Business Insider",
+   "published": "2026-09-29T17:15:31+00:00",
+   "desc": "ChatGPT's New Plan Costs $500 a Month    Business Insider",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiM2JxUFlyQlA5czluSW5Ea2VhVVA0bW1NTnZkcEExX2RZM3QtRkpzLTNVM2Y2azNJYUpyRkY0a05mRVdtWEVUcFBrN29XSWNhaElMbzFTNUl3WjNCbWtsTW50dUItV0JFTElNRjdkME91bFF5MUpka3hUZnA?oc=5",
+   "source": "The New York Times",
+   "published": "2026-09-29T17:15:06+00:00",
+   "desc": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse    The New York Times",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI’s Dots: Like OpenClaw declawed – for $200/mo ChatGPT Pro users - ZDNET",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlSVpXWl9vbVRqSHdvazhBZG1QYmJzMklsenVVX2lpVGg5ZVZRQWlKZ2xOQ1JUTGpaRmxtZUtRbTE2MTVid1Z1OW9mZkgySWdCcWpKSlJFblJYU09WdEstYUZyRV8xemRoOTY3Q2VfLUZqNm5X?oc=5",
+   "source": "ZDNET",
+   "published": "2026-09-29T17:15:04+00:00",
+   "desc": "OpenAI’s Dots: Like OpenClaw declawed – for $200/mo ChatGPT Pro users    ZDNET",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations - TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQV80SktFakxmVkxUVHRyd2hBZUxuLUVRbEIxeFJpZVNadWQ3NC03QzhqcmZwQ2MwMDJ4S1B4Z0VfcjlEX2hSUmNrcVY4eW5tMDJDUU5pTHF1ZjZ4ZVZIM0RQRE1Zb0hDdm1sVl9UVXJ2QTdXTk1xWnVYempKd0ZxOGZUdEtIVW9ick51S3I4cVBZY2puSmFRMmR0Z0FsYTQybmhaNml1Q2NqSDg?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-09-29T17:15:00+00:00",
+   "desc": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations    TechCrunch",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI launches Dots, its Muse competitor - The Verge",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0N5Mll5RW5nUUlTMjNkSHpzZk5uZTdHLXNydVpfdUFsWmh2RDZCRlN4VVZVcFh4SDJwYTVyMnB4eTVHRmQ1ejhUcU5waHVzSFpnV3d6ZDZkdk11aWVhaE5WT2lvSkFzTXFFb3I4VE1mME5rd3pqb2xFRUZ0bnM0d1lycU1pem1yX2Y1RWJnd3o3a0cyWTQ3T293?oc=5",
+   "source": "The Verge",
+   "published": "2026-09-29T17:15:00+00:00",
+   "desc": "OpenAI launches Dots, its Muse competitor    The Verge",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse - WIRED",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbWd5M2FhOWpFZzk0ZkNYZzk0VzRRV19FanJWVy1Db2tQZGhtYXdSMHlGaThUdVZvdUxnbWtleE82VDEzdVdHQ2NVcVdGakU1MU5YaUYxVEoteGZYRlNZdV9oa2lwOG04d21VdmwwenBtcjYySGJJcjdoR3JrRDd5eDZkRUVEU1NhUkE?oc=5",
+   "source": "WIRED",
+   "published": "2026-09-29T17:15:00+00:00",
+   "desc": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse    WIRED",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI Adds $500(!) Pro Subscription, Nerfs Its Existing $200 Tier - Engadget",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONEQ2X0Y2VnRORXNqV0lBcktTYUZEU283S19RTGtYeTZ1ZURuLVdQS0h1TURrc3o4U3AwY0JCY0FXSGtLVVhKZllDSHZsVTAxR1dPSEVLenE4aXh0T2hsTExuVnFrQmpyTlREWU9oMThKY0tad0w5Q29nc1o3a0M2RnlEU3I0TktRc2x3WF9zOUJPQkRFdFZaakZITDduZEMtOVJxWWJvYTdJdw?oc=5",
+   "source": "Engadget",
+   "published": "2026-09-29T17:15:00+00:00",
+   "desc": "OpenAI Adds $500(!) Pro Subscription, Nerfs Its Existing $200 Tier    Engadget",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI Developer Day kicks off - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54MXJTTk1tbVpyQVVlOURHbU43M0llaC1iYnZqMG9GVG1qYlJRd1RZTDM3b1ZJVkdIMngyRlBaS1lfUVRkR3h3aU9nQ01CUmViRk53Y2xNOUc0N0RhS2dUaVNHdjJ1TXJ3UU82NUl2MUI3Sl9RNUUzRThib1ZBUQ?oc=5",
+   "source": "CNBC",
+   "published": "2026-09-29T17:11:38+00:00",
+   "desc": "OpenAI Developer Day kicks off    CNBC",
+   "org_key": "openai",
+   "org": "OpenAI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Morocco, Mistral AI release first open-source AI tools under AI made in Morocco roadmap - Tech Review Africa",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcG1VS016THNCb1BKVllTVGI1dnFrWG5xNVFGa0hXcW5LV1dzM1Fkc3F2U3B4aGVYMlktQW04SU5yZFVzMk5TcmdVQklOT05FMTJjNVVPQlJjNUZzTWNHa216a284dFZCREw5bVZlTUIxa19Vb0xhT0dOMFpOQ0ZUc2dtSFZsSVRjT0F3Wl9YSncwNTBXTExEWFo0NVVBTXBPZUVHTFg4MlBodUV6MWVCSFc5aGFUUloxeE13WEUxQUxaZ1k?oc=5",
+   "source": "Tech Review Africa",
+   "published": "2026-09-29T17:07:31+00:00",
+   "desc": "Morocco, Mistral AI release first open-source AI tools under AI made in Morocco roadmap    Tech Review Africa",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Trump Launches AI-Powered America.gov Platform - MeriTalk",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMlFzaW9XSkJhbkJ0YXZiSXk2bHRxQlZsdlVGTmo5ZXFodHZMZHVUWm1QcGhVUnljV2NGV25OMVFBVzJzN0wwaUJ4eU1OX0UxSlVrbHIxbGktc3I2eWxSVklZMkppd1V3MmNyTUdibkhBa245a0RpbFA3c3Z0VmlfTGZpQXMxRWlV?oc=5",
+   "source": "MeriTalk",
+   "published": "2026-09-29T17:06:06+00:00",
+   "desc": "Trump Launches AI-Powered America.gov Platform    MeriTalk",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Trump Launches AI-Powered America.gov Using Gemini & Grok - The Tech Buzz",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVE5reFgxRTFiNXR4dmVHWGdMc0JrRjRHYW1fa01LS1ZMdXNJZzV3N0prdzhSWjFRdTVibDlSVlNFT1U3WGtOZXE4S3p3Y2xUUWhycmVvMlpEU1h0SXFwUHVIajNGRzd2d09yTFYwRF9ZOVQ1NC02V003dk9jZEliQXlDZjBYeWcyQlI5RU1teUFvQQ?oc=5",
+   "source": "The Tech Buzz",
+   "published": "2026-09-29T17:06:00+00:00",
+   "desc": "Trump Launches AI-Powered America.gov Using Gemini & Grok    The Tech Buzz",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Arena study shows AI models prefer their own answers 58% of the time - Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iSnl6dENJVlZOUHZhbGtKY2txTEVzbnAxdExfYTU1cVNaZVEzTzd6SnZVOE5wSGxLUVA0YnlUNUR0dE4zd0d1dUZTWFQ4bm5RNTNPVS1Pcmh4MHoyUVJSTUJBcU9JaktOcDlHbFd5bFNzUQ?oc=5",
+   "source": "Crypto Briefing",
+   "published": "2026-09-29T16:53:35+00:00",
+   "desc": "Arena study shows AI models prefer their own answers 58% of the time    Crypto Briefing",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Nvidia's next 'holy grail' is physical AI: Dan Ives - finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNnVYc3BCaHpHOEZZNWFSOEpMTDQ2LUZ0ZFM4Uk9iTV9KNEk2WGhtTW80dm9NM3F0bFNndUpmOGtXVXgyTUZsVG1hRjNTMFJqV2pKdWRVQVBSRWJ2OXVqNFFiUkhLQXdUNFl1VG96Qjh6S1hzRmNyWHlXaDREY0twRlJ3WDl0RDB2elpOLTYwbDNISkR0bjEyN0lNWmo1RDZzRWZ4aVZfTDNrb0E?oc=5",
+   "source": "finance.yahoo.com",
+   "published": "2026-09-29T16:50:38+00:00",
+   "desc": "Nvidia's next 'holy grail' is physical AI: Dan Ives    finance.yahoo.com",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Exclusive-Anthropic says rogue AI agents pose uncertain legal risk for the company - WTVB",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDJLRGdqMzBfdzFRLUZBLW85cUJ3ZGNYTmpTWnJxSVRlcXVISzgxeDMwVXJoeGlSSzNqeFRQN0xIQlRLbWEyS0FjVVlzUUhwOG5QZzN6Y2N6WkcwYThlYl9FQnBkay1TN3ExS1dLVDBIdDluUm1hNDF1MzlhcVBIV1dmdjRVbmVZQmFGOXZrZjVJSTJsTGdBQ1J2U0dxUHlxOGJrR1R4WDVvVUpkakZON0ZsSQ?oc=5",
+   "source": "WTVB",
+   "published": "2026-09-29T16:45:59+00:00",
+   "desc": "Exclusive-Anthropic says rogue AI agents pose uncertain legal risk for the company    WTVB",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Trump says working with Xi on AI would hurt US companies - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5",
+   "source": "Reuters",
+   "published": "2026-09-29T16:45:46+00:00",
+   "desc": "Trump says working with Xi on AI would hurt US companies    Reuters",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Nvidia talks to insurers about loans backed by its AI chips, FT reports - The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NcU9YSjFKWE1JeFhWbW1KUDd0TnppYWxOSFJhRkFvU3VZMUk3NEVXN2thT24za0E2aUZxQlI4dHFpQWFRTW55NkxtNzFWSmt6dlU2M2h0TUkxU1FfZXROamZOeDlVZm4wQ3NEZTh6X1ZjdDdWYW5wQzZ3?oc=5",
+   "source": "The Next Web",
+   "published": "2026-09-29T16:41:15+00:00",
+   "desc": "Nvidia talks to insurers about loans backed by its AI chips, FT reports    The Next Web",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "The Public Just Got Its Most-Detailed Look Inside Anthropic Yet - Investopedia",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ0FreFoza1lxOUtEalRIUDZlR2JBM2pqSDBtVTFUS3ppd0dpTFlvSll6T3ppSUxSQ1FSa3hEYTFQNmpsc3Ffd29hV1g2VWJzbEVUc2RIUjRoNGRsU1Qwek5mbEFXLUUxOHpvM3lMY1FXd2poNGViaFBlWkVmdjlsQ1d4dGswY1MzMUtfRDVvWmRxUGJmcXItWEhoNzlCYjFJekJzdnp0VnlHZ01razl2QkgyMnRXZw?oc=5",
+   "source": "Investopedia",
+   "published": "2026-09-29T16:40:48+00:00",
+   "desc": "The Public Just Got Its Most-Detailed Look Inside Anthropic Yet    Investopedia",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "AMD's $8.2 Billion AI Deal Takes Aim at Nvidia's Biggest Advantage - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR3NaT21KQTZKbTMwd1cyVUVva3gtV3VwaE5QSTNtVmFmVWQ3QXQtRFYxdDdxQ3ZBM241ZGM2QlVSSnNESi1MbF9Na0x6bGNYUDVMM2RibllITjUyX2FWcVhhLWRLMzQyNXoxLTU0QU5PdjlpMHRMRHRTclNXX1NLd0xhdk83UlVyM0duWnZWcF9LV3FmdU1kWWdOUnFUM0FpcXM5SFdTemhtRFVSUGhmZ3BkSXZJQjJQUWUxenMzSUV1TFk?oc=5",
+   "source": "TradingView",
+   "published": "2026-09-29T16:39:27+00:00",
+   "desc": "AMD's $8.2 Billion AI Deal Takes Aim at Nvidia's Biggest Advantage    TradingView",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Anthropic fixes bug affecting Claude - Breakingthenews.net",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWG9mTXNGdi0xSHlCZnpHcl9ZMU9zeVJJcVVxc2xBV0tUbF9XOE50SXJ6Mms3cnU4ZFhHYWFzd196M3NfdVRQdG0zbUxlQWdabVlGQlhlYU5zNm8ySTB6MmFPLU9lM3NucHJrQkxoVVZvVktZYVhzbUpIeHlKUFl5NnNsMzNhX3RV?oc=5",
+   "source": "Breakingthenews.net",
+   "published": "2026-09-29T16:37:00+00:00",
+   "desc": "Anthropic fixes bug affecting Claude    Breakingthenews.net",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Nvidia: A Deep Analysis About The AI CapEx (NASDAQ:NVDA) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnJTc3hzeWhWZkdoYVBjQU94ckRLWlJfMEM5RS13dVFsaTB5VkU0MnZFUkc3MWU2eUlTd3ZfdDdSQ3RaeTRFSW9DcUV5QlNEVUViMWRHS28tenctX1J6MzhIQ3AzeVlqSWZnNU9YM3d5TkNPNkF5T2ZBQ1NKOUFRNlJNR2U3V3dETHc?oc=5",
+   "source": "Seeking Alpha",
+   "published": "2026-09-29T16:23:59+00:00",
+   "desc": "Nvidia: A Deep Analysis About The AI CapEx (NASDAQ:NVDA)    Seeking Alpha",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Is Claude Down? Anthropic Confirms Fix for AI Chatbot Outage - PCMag",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3NXLURwYzFCcXNma1R2U01DdVNWMDhQeGswQW1qSXh0eE42Ry1XNjdKOTVMQmt5emgxRGNTVHFPX2RfVzRIUUFKN1JoU1BWUk5lckRjak0tVGYyOXVvYmlDNGtqMmd5VC1oRWV1MHRncWE4emZ2a1ZVRjVFQ2NxM3dtT1JpV1hTS041bzY5bkJuRDFC?oc=5",
+   "source": "PCMag",
+   "published": "2026-09-29T16:18:45+00:00",
+   "desc": "Is Claude Down? Anthropic Confirms Fix for AI Chatbot Outage    PCMag",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "AI Lab Race: Manifold Traders Give One Lab 31% Odds of Pulling Ahead Before 2028 - tech-insider.org",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jU2tZYjZmOG5nS0w2UW9MOGJha0VlUW1ad1VjU0lqSUV0bTlnd3JJMDdzdUw0SllZdnQ0Mng1d3RZOUdVMGIwdjRDRnVuRlFYWlVfWXV2SzlzRkhKa1QzWkpfS2swSWRsYy1BcmRUNHhWbTA5TzZZWA?oc=5",
+   "source": "tech-insider.org",
+   "published": "2026-09-29T16:09:24+00:00",
+   "desc": "AI Lab Race: Manifold Traders Give One Lab 31% Odds of Pulling Ahead Before 2028    tech-insider.org",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "Trump Admin Launches AI Gov Site Powered by Gemini, Grok - The Tech Buzz",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVkF4dmdnQkhTcWY4d3c1b3FtVG5kOUdNRlpra1JSTzBvVzV0Y0pLUWZiTnNaa3Z2TlUyVVRaaDV0aXJKQjNtOWpmaUYxakdvaV81aU1BNTg0bWlSN05mSS1WbzVJZjJIWk9pVHcxaGlYdVJmOGNDRkE1NEFaVDFBdzMxV3JtWHZhQm1hVWRCWHhGUQ?oc=5",
+   "source": "The Tech Buzz",
+   "published": "2026-09-29T16:06:00+00:00",
+   "desc": "Trump Admin Launches AI Gov Site Powered by Gemini, Grok    The Tech Buzz",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Claude Sonnet 5.5 nears Opus ahead of OpenAI’s DevDay - The Rundown AI",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmOVhZbEZKNDFNZGkwc0ZxRUhtREJiVzRHbU9rM3d3N2IxdzNWelliTjUzMlhWLTcxeTBhNTRnRmM5TEcyZWJTaWl4ellkYjFJVGVOUzdhTnd2VTl4Z3ZkSmx1VTJtNW51WUt4eTZtMlNLdjNp?oc=5",
+   "source": "The Rundown AI",
+   "published": "2026-09-29T16:04:07+00:00",
+   "desc": "Claude Sonnet 5.5 nears Opus ahead of OpenAI’s DevDay    The Rundown AI",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Compal Brings NVIDIA AI Factory Infrastructure to OCP Global Summit 2026 - The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaFg0YUZISkhLX2JqcXFHWnBNUmdWRTloR1pzT0loTGFON3UzVzdsU2dWek5xNnROeEJNQ2ZWekh2ZDlLWVVOWE5PWVlQV3JiVWtZbU95RDg3WUMtSWhUbElna0ExaUtBaDQ1elI4VTltclYxaXJGUkl6MGVycWJXcTFFU1h2d256REJOVGdYR1NzRFZidC04RnNwYnFuMWFCcVFiWE1wSTV1MG5pM3NiaXVrZElwcnhSR09ELWNxZ1hycjRjVTQwZmFJenNpLUJWNDBMaVcyUmJUSHA4aTJ5ZWZOWU82dHFWVFMtU0tR?oc=5",
+   "source": "The Globe and Mail",
+   "published": "2026-09-29T16:00:31+00:00",
+   "desc": "Compal Brings NVIDIA AI Factory Infrastructure to OCP Global Summit 2026    The Globe and Mail",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Compal Brings NVIDIA AI Factory Infrastructure to OCP Global Summit 2026 – Company Announcement - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN0RpLTRoaS1fNVBEZWxOUmZIQTlNNjkwMF9kTHZTSDlrR3ZJS1ZkQU1MYU9lcXk5eEticjQ1Yk1BTFJiZzNPbjRjdTN1eWQ1UkNCWUl0M0d1QlJ4bGFuRVpJYnhBRTFVN1hiWUZDLWdXcTY3OFhPdWZJYjFIdW91VkpkTWtKSFVobUczZ1M1WTVtOGlsSXFvQw?oc=5",
+   "source": "Financial Times",
+   "published": "2026-09-29T16:00:00+00:00",
+   "desc": "Compal Brings NVIDIA AI Factory Infrastructure to OCP Global Summit 2026 – Company Announcement    Financial Times",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Anthropic's Claude Hit by Major Outage, Affecting API and Developer Tools - finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5XzVyQnExaWl2MkdkTEM3WjlPZmQxM3cwYWlyUFNrTUJoT1lPVDloRkROMUxwelZmXy1jcFZ6aUtxWXM2b3RoemE1Y1UwUGx5blY4RnVsSnh6Y3p0bU1wdTlWX1ZZTFVRaXZFaUpQQ1pveVQ0Z1E?oc=5",
+   "source": "finance.biggo.com",
+   "published": "2026-09-29T15:55:00+00:00",
+   "desc": "Anthropic's Claude Hit by Major Outage, Affecting API and Developer Tools    finance.biggo.com",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Trump Set to Host Nvidia, Anthropic CEOs to Discuss AI Risks - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWxKNkJCQ0VMZTh4eEh5Rkt4ck5ndG1WRDJqRXJWanVtMllrTmZuTEFDYkNMN21hRmVGYWtvazFsVGtBajROUklZaFVvTWZvNzU0RVVqLW81RTkzNWdJRFJTYkpkWGJJb1c0LS1IbGU0OUNLMnloMDhZT1l1NW01UFRWNGxsWE5XVWtkdkN3MGhwT3lJbVVoWmcwRUtsWnNEeXMybjhXRGZzRElTdTlR?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-09-29T15:51:52+00:00",
+   "desc": "Trump Set to Host Nvidia, Anthropic CEOs to Discuss AI Risks    Bloomberg.com",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Claude Down: Anthropic Outage Disrupts Chats, Code and Sign-Ins - SQ Magazine",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmMUZVOU9uWXh3N3FtdTFmUWRlOVpXRXBVZUlVNHJrRHlYQkxoZ0xObVg4NEYyWGVROUpTVzZBX1ctNXpzdFZnT2hHTGswQk80VWxmY0QwZVJEampCX3lDdlMyZnktYmZWZGl0ejBrYTdvNkhsYkw4RHJrZnBLM2c?oc=5",
+   "source": "SQ Magazine",
+   "published": "2026-09-29T15:51:41+00:00",
+   "desc": "Claude Down: Anthropic Outage Disrupts Chats, Code and Sign-Ins    SQ Magazine",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "NVIDIA Unveils Open Agent Safety Platform for Autonomous AI Controls - ExecutiveBiz",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MclJTWXBNT3RmWFBmN1p4ckdMRkhwN2NMTS1HYkxxTnpMSGNYUzhkTUV6YTNnc0pEUnpLdE9XZEN1YVhSNDIzR1p3WkNfUk85TU9sLUZ1M0FTQWNjc2p6OFV5bndOUUhQRWlaSjVHMkFMa1FldDhLNVI0VQ?oc=5",
+   "source": "ExecutiveBiz",
+   "published": "2026-09-29T15:45:06+00:00",
+   "desc": "NVIDIA Unveils Open Agent Safety Platform for Autonomous AI Controls    ExecutiveBiz",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Claude down: Why it says account temporarily unable to authenticate - Mashable",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkxYUVlxU2VBc0tySVZmeGlETGN0d19iVjFkUFFuSlpYWHhIOTh2dmRuTDZtek16cmRYdk1SYS1VMS0xaVRhUm4ydzlNNnpyUHkzZGVOLWQwaWRmQUt6SjR0Zkt3N0lOQmRHUkFoY25kU1VDaVA0VnVnMVlVZjhxV3FpRVhKZmhxN25yWDRFUlI?oc=5",
+   "source": "Mashable",
+   "published": "2026-09-29T15:40:00+00:00",
+   "desc": "Claude down: Why it says account temporarily unable to authenticate    Mashable",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Nvidia rival AMD bets $8.2bn on the 'godmother of AI' and her virtual worlds - euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOE5oUlliSDNhMnQxenJrWmUxUTlydVh2VXNLcFNRVGxQaVhxbW1QM0VXUHkyNkNNY2MtblJFRU9OVmR5MTJudk5Sbi1SRVN5VTN1Q2hoYnNTR3FjSzItYjZLNFlvUXdXMzQ2OEZoY0gwOFltQU5UWmJrWmhseTJ5TC1WMWdBUDVMYkhfdk1wR1JCdXBVcWlQc3M5cHItcll1TktEQzVHaXd4Ync1?oc=5",
+   "source": "euronews.com",
+   "published": "2026-09-29T15:38:50+00:00",
+   "desc": "Nvidia rival AMD bets $8.2bn on the 'godmother of AI' and her virtual worlds    euronews.com",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "NVIDIA Launches Record $150 Billion Buyback Amid AI Cash Flow Confidence - 조선일보",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3lrNDVaVTdnanhFcWJSeVdPak80MkxvOVN3aDJaV29uaFJZS1l6VUFNLU5fdXY4Q3Y3OVJnalFpV3U1QjN1VGxTVVRhSWQ2NnVMRjJGMDRxVnpjMDc5VEZFOEhHY3dDMEFQVGU4d1I4YVlGdGJkLUQza3E3ZTlqV1pRT3dvRVR6?oc=5",
+   "source": "조선일보",
+   "published": "2026-09-29T15:37:13+00:00",
+   "desc": "NVIDIA Launches Record $150 Billion Buyback Amid AI Cash Flow Confidence    조선일보",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Morocco, Mistral AI Release First Open-Source Darija AI Tools - Morocco World News",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUlsakdXU3BlLWJKQ2xNaFpBelJvN0tXclZKZ0ZvYUttZEtBVFJmQk9XN1hNWmRSVFBVcjV0WGtGck5PdHVSRjNTTWx0WUdxTVExRXVwQlg5V2pOeldSQUFZRGZVNk5MLVZRNXhVdmwxNGRXRUJjSXlYR3UyQUhYWV9WdlN2VGhfZDFqLUtURHQweGRGWmM0TjdMbUlIak9pUFU2UXVfcFVJQXN5OHc?oc=5",
+   "source": "Morocco World News",
+   "published": "2026-09-29T15:36:04+00:00",
+   "desc": "Morocco, Mistral AI Release First Open-Source Darija AI Tools    Morocco World News",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Trump Admin Launches AI Government Site With Gemini, Grok - The Tech Buzz",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMlEwTGJYTmZsWXYyOUFWaWlrN05wd0Rac3RDNGxjczJyRFlndlUzTDUxWWZQTkJ6Njd2YTg3TlFrNFRkc2EzeFY4SHMzUkFScDBKNXlOd0xEZk1KNDZLOHFYeUM0Qlh2c01jSWxzRnlkRmtuOFJSVkNjQmYxZEhBc25qOHJSSWdxdFRCZk5wSkg1SWs?oc=5",
+   "source": "The Tech Buzz",
+   "published": "2026-09-29T15:36:00+00:00",
+   "desc": "Trump Admin Launches AI Government Site With Gemini, Grok    The Tech Buzz",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Visa open-sources AI-powered cyber defense system after vulnerabilities exposed - Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Xem1DUTkxdHF3TW9SSk5MUHR4ZXZuM3o1QXVLb1Ytam92TmRMTUZCalpfcXd3S1NzSFdCNEd2b3ZlZGVpMW5CQ2g5MWs4aGJRVjE0Q1FramI2bFBSSHhBQ1B4MDdXV2RGdUM2WGNENkRNX2J6U2c?oc=5",
+   "source": "Crypto Briefing",
+   "published": "2026-09-29T15:35:55+00:00",
+   "desc": "Visa open-sources AI-powered cyber defense system after vulnerabilities exposed    Crypto Briefing",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "NVIDIA Just Turned AI Safety Into a Spending Story and These 3 Stocks Benefit - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNDY0UGRleEVlU2I0ZUw0NzhPX210dklTMjhVNDZKYlpHc0RuOTBRN041UEJMZXZuMm9uOFBub2J6MHQxcXVXMU5sbVFJcE9fS2tIcHJDU2FpY3JqQnFJYm5iMU5hdVpsT1o0Z3pzSkdXTTlyRHpGZ29EMUNmbEtpUWs2dGx5MFl2ckNjTU9LNzJuNkNiS2ZPNy1WMG56bjdUYXA5dzFRUWxVM2ZVemdhVGsycm4?oc=5",
+   "source": "MarketBeat",
+   "published": "2026-09-29T15:31:47+00:00",
+   "desc": "NVIDIA Just Turned AI Safety Into a Spending Story and These 3 Stocks Benefit    MarketBeat",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "AI Network Breakthrough Sends Applied Optoelectronics Surging - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUNSdy1WcFJOUE1ZNERNMDlDenNGal9XMXFVZGFHUUpBM3FackptbVhNbFFKSGU5X1ZRbmpfRnZGWUVrbVBFYVk1R1NWWE5URDY4dG0xQzFGUlRjUTZ5WmlUUzhHVHhnSC1tOU02MzZMdmpRRENHaHRRVlBVY19mVnphYUFRMW83R21BX2NWejNRNUF3TS0wdkc0ai1FeDBMM3c?oc=5",
+   "source": "TipRanks",
+   "published": "2026-09-29T15:27:44+00:00",
+   "desc": "AI Network Breakthrough Sends Applied Optoelectronics Surging    TipRanks",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "5 Things CFOs and CISOs Need to Know About Nvidia’s AI Safety Push - pymnts.com",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVG9nYmYwV1ozWnh3NThUVlVpTEc5QXFqd0dQVGYxdjlLX2ZRcGU3MmZObVA4SDdlUno5WE1QVV8yOXRBb2dRQW84NWxNQW9FS284a1d4bVZlaGRSNW9yTGM3ZTBnNlJ3bWJod3MxTHdJTHVzYTY0UU4zV0NVaFIzY1hPTjktdVBRNE0yc2RsV2E3dWo1LS0tQVNvMmtrU3VoUG9TYVp3ZHhBN204U3VUeEpzVzFKVWlLZWpJQm1wTGU?oc=5",
+   "source": "pymnts.com",
+   "published": "2026-09-29T15:24:37+00:00",
+   "desc": "5 Things CFOs and CISOs Need to Know About Nvidia’s AI Safety Push    pymnts.com",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "AI Safety Collaboration Faces Antitrust Law Barriers - Legis1",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wc3NfTmhLZ0xQN3VUSWJzTm8yUTJPT3J4akx3MENfR3JhQUxQTjlXZEJSOERIWmVtWGdpMWxNMXNZeHhGNjJ5NUlub044bk1tVDQxM3FLcmVjalFUV1ZDRkk2V3VEc1dZU2pfbkkyelBLdWVKaHc?oc=5",
+   "source": "Legis1",
+   "published": "2026-09-29T15:15:47+00:00",
+   "desc": "AI Safety Collaboration Faces Antitrust Law Barriers    Legis1",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "Microsoft Rebuilds Copilot Around Home, Code, Autopilot: 5 Things To Know - crn.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTNsUERxYzYxeGhDeEVIWlRqRmdjWDFkcWxRVG9pZFppSFpGRkhfMHlsRm9XYUJNSzRkeWlsNEtFTnpyUk9FWDRVT29uQ2IzQlA1VTg4X01oc0o5RThPcnJMbE0zTmZkSUI3U0hNYUlhZzRndF9JX0RzSEQ4UGRmdG9XY0JzQ24xUWxHRHNIRWhBTHdJbFg0TGNhbE9VX281NFZFMUZ3?oc=5",
+   "source": "crn.com",
+   "published": "2026-09-29T15:15:00+00:00",
+   "desc": "Microsoft Rebuilds Copilot Around Home, Code, Autopilot: 5 Things To Know    crn.com",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Anthropic Reports Service Disruption Across Claude.ai, Code, Cowork and API - Unite.AI",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZm5uNXFULTRXd05ESjFWN3lLY25qeUdPMktYM2RqVzZoZ0VGNjBoSFZRaFY5Qm03TjZnTlMyQmIzUnhMUVpiNGMtU19IMVNzNWg4TkUyRWlRczZha3RPSk9hYzZ3RXVDYzdxNUx6MXBXam9UblZuZ1lJaGN1WXFXT29Tb0dwaDRzM2xkdk40N3NmWDhXekF5OGZuRQ?oc=5",
+   "source": "Unite.AI",
+   "published": "2026-09-29T15:11:02+00:00",
+   "desc": "Anthropic Reports Service Disruption Across Claude.ai, Code, Cowork and API    Unite.AI",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Is Claude down for you? Anthropic shares what's going wrong - Android Authority",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MblY4Uzc4WFA5LW1QTXBrdzVNNEVnQ003OVVweTRMMjk5dmtHQk44VXl4OUl5X0h6TWxBQl83UUhxdjY1NTBTS0NVUUxMMFVtLW0xSmlvc29VZUJFQjhCZzQwcXhDYXJ4?oc=5",
+   "source": "Android Authority",
+   "published": "2026-09-29T15:08:00+00:00",
+   "desc": "Is Claude down for you? Anthropic shares what's going wrong    Android Authority",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Spotify and Anthropic's Claude go down for thousands of US users, Downdetector shows - The News International",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDhLU3FkRzZIcTFWT1pIUVFfNXJCejEwRWg1Q1NZQ1VjczhqUkU0bzl5UjRTUW9fcFJKY2VWLWd5S0JhaFJpY0VrTFVlZXExcFY1WGlBY1RRUEV4ZmczTHNjb1RsQVlpZWZxYTNwNzN5Zk0yRTlWTFFLMU04b1dBajh0ZElfRWVNWmJhNVFDRWlDQUpCaW1OYXZjUUkwNWxBaWV1T0Q3d3ZVeGpqcFc5dmdTeUpSakFRbU5sRl91R1ItUdIBvgFBVV95cUxOV1hhNjhldHVnVHdlZkNIQWVjMUxBMTdHa2JzeFRiZXByU1gwX1BJTGpXMHFRTlU4QVRyWURzRWVERmFIeWl0blRhLXlKR0dBMmt6ZDlnTEhsdjRoaGRVcnloaWFtdnZFcnVhcldSVEw5djR0RDdWVkU2cWZGaExQaFQ3RjE3WFpXU2ZHY0owZk5CLV9iUC00NjQ2MWk3a2tCYlZ3UVZSSFdpTkZvaXhmVTNQSzM0Mkd1c3Bwc0hB?oc=5",
+   "source": "The News International",
+   "published": "2026-09-29T15:06:00+00:00",
+   "desc": "Spotify and Anthropic's Claude go down for thousands of US users, Downdetector shows    The News International",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Popular AI app is down – What is happening at Anthropic? - todaypress.tv",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRGhWUHk0TFJSUkpEV3VjcEdTbEt1YXZsdERNSVJ2SDRYbGZCNm9ybGpMSjBDNTZvS0VDRHU1aEk1SzBKSUZSQTdEWUxWSVNIUTV1d0o4UG1iTEdzWklXTXZ0anRRRzNxSTZlRkI3X1JwM21WSmpUeUh3OHl6TGdlU3ZjSTZLbWZxRUtEbW56TTRYYkNL?oc=5",
+   "source": "todaypress.tv",
+   "published": "2026-09-29T15:05:00+00:00",
+   "desc": "Popular AI app is down – What is happening at Anthropic?    todaypress.tv",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Anthropic: Fixing Claude performance issues - Breakingthenews.net",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaWtMZm1vWkhEM3J0WF9saGEtdE9DYW5ZUkFNXzZyRkc2OE5VLVNJZVZuUDJ0ZXhHbHZXdk1ubG5kTFp2RW5BQzEzMlpoTmx1a3U1a3NoMFBQekdZdVNLWUVsVS1jOWN5MmhEMmRpcExPNkVrNWh2empNUUt4V1ptYzkzRTczQnk5QTgySzdjZlhrUQ?oc=5",
+   "source": "Breakingthenews.net",
+   "published": "2026-09-29T15:02:00+00:00",
+   "desc": "Anthropic: Fixing Claude performance issues    Breakingthenews.net",
+   "org_key": "anthropic",
+   "org": "Anthropic (Claude)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Higher education’s AI advantage is the intelligence institutions already hold - microsoft.com",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ2NtREZENTk1MzJVdVp5VndoZ0xoNl8xT09iOTBiNjQ5S0szQlk3akotUVVHcGVPdy1SbWJ0cEh0bUJVbmpma1ppamV4bVgxWnIwR3JyU0YyZUx6ak5kY1pheG1oR0laZ19WdlVaWkpYNUpLMVNFWDFGb2kyV0tVblIxUFZVU0dUV1k3bU1RSmp6OXk3S0tSOEJjY0M5YXI4QlpGVUlVYXh0V2U1MFo5dUVZQWxJbkVHeTMyQ19LRkYtRS0tMVlVVGtHNV8?oc=5",
+   "source": "microsoft.com",
+   "published": "2026-09-29T15:00:00+00:00",
+   "desc": "Higher education’s AI advantage is the intelligence institutions already hold    microsoft.com",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Omega Healthcare Receives GeekWire and UiPath AI Breakthrough Award - PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHNtYTkwbFZpcmx3Rk5oWVRiZUxKcU01bWctRHBjLTdCVTFsSjVtNzJOeDZJODdTWUVQRGgycGZhOTBKWV9NZHVES2hyUnBUcUNITFM1Q1BtMEE1dzdvMWo3ZE9QUTN2Z2plODVFWFZ0aWRxVEZzTGFBM1BQNkNMZGczN20yekNWVXJKcEFoRHRKemo1bERZam02RFU2aHZtcGhSaDNTWDV3LWwwamZLM0dkR0N3NC03T0Y5cXUwYWc?oc=5",
+   "source": "PR Newswire",
+   "published": "2026-09-29T15:00:00+00:00",
+   "desc": "Omega Healthcare Receives GeekWire and UiPath AI Breakthrough Award    PR Newswire",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "AMD Is Having to Pay a Steep Price to Keep Up With Nvidia - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN180ODVZUU04U3dpTkRWRE9SbEZwUjc2WWVvUE1OQnlFZGFiWGVWWU12c3lWM3ZrU1BXdE5FY1ZSeS01djZHb2ZrWnV0cm12bzFNWlpweG5TTEstQUFLUVM0V3g2d1pIMmYxQnRzUExFc1FwOEFVSmZUcHNud1AtTVRGMGE?oc=5",
+   "source": "Barron's",
+   "published": "2026-09-29T14:53:00+00:00",
+   "desc": "AMD Is Having to Pay a Steep Price to Keep Up With Nvidia    Barron's",
+   "org_key": "nvidia",
+   "org": "NVIDIA",
+   "origin": "gnews"
+  },
+  {
+   "title": "Upcoming AI Updates in October 2026: Major Developments to Watch - The Hans India",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUU5zN2tfWG1JdnlBb3c4WnZSMGVsUmZxc1FUU281WU5RcVJqSkJLRVRxTGJ0OWZqZk1xYmY5dVI4Qkw0NDhiSzlkTXlVOEFhTXZsRW16Z09Wblhpb0F0YkdRMTBVSlhzRE9FblA1cTZUNVEzVTl5Tl95NU9PdHpVZF8ydUV2YnhLY1R0UWlfRThTUjdlTEd1NkdvMzV0Z1NBTnVKRDVleWU?oc=5",
+   "source": "The Hans India",
+   "published": "2026-09-29T14:32:31+00:00",
+   "desc": "Upcoming AI Updates in October 2026: Major Developments to Watch    The Hans India",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "Enterprise AI Advances Power Microsoft: Is There More Upside Ahead? - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbk5pNFlLaVVzTFp3UUx5b2dWRmpPaVAtV0JrSWtWOHI2X29OcWpiT2xjMHBIN3pSdS1yUENuT0RaRG9XN3VtQkJvOUZQUXFXNTJ2eEU3WlM2cGYwd1U1MUVKREVQemoxejNKejVZNDZvTFBnTWY0Wkpia2pOSVNrT3pZSkJKMkE2RVdfcllPaWpjU2lhSmpjZHF4LTJUcWREY0ZSUWx4Q2pHVWIxTV9kaFduT1R4YXNreWFNZE9B?oc=5",
+   "source": "TradingView",
+   "published": "2026-09-29T14:29:00+00:00",
+   "desc": "Enterprise AI Advances Power Microsoft: Is There More Upside Ahead?    TradingView",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "AI Moves Customer Engagement Closer to the Customer Moment - cxtoday.com",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUEtGclhXdHB5UnM2eHBrVlBuaE11ZGJCRnRYbjVxWjhQdGVxai1PWjA4ZnFpTDdwTnBWdi1FdEVTWlJ0RjNydHlJeGVPdW5CYVpvQUFiYzc4UzFablZ6c3V2cFpNMndfYjBOUW5TYWp3UTNPU2xwOGtfX3hWaEU1Z2JVQ3k?oc=5",
+   "source": "cxtoday.com",
+   "published": "2026-09-29T14:16:06+00:00",
+   "desc": "AI Moves Customer Engagement Closer to the Customer Moment    cxtoday.com",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Home, Code, Autopilot Mark Major Microsoft Copilot Overhaul - crn.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc2hWMHUwZXM4STlJOFdmYk9TNW9kSmh6NVFTbHZLLVNYRjZyWUhUTnNhLUhJQUpnMHdxRzRHc1hPWXR5VTJlVlpMRl9iQW9MRlBwazlYMk00V0ROZjR1VDAyTWZBeXdTdnZUbFAzd3dadXplMFF4Z3BkM21EaUtiVXB2by13NjY3NkRsSTN1MXB1MUxn?oc=5",
+   "source": "crn.com",
+   "published": "2026-09-29T14:15:00+00:00",
+   "desc": "Home, Code, Autopilot Mark Major Microsoft Copilot Overhaul    crn.com",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Cathie Wood's SpaceX IPO Prediction Vittoria Ceretti (9sCvJK03WA) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TZ0lIdG9tQTNmVFhNRzItdHZ0T1BxWGdsSDJlSThHOExBVXFKVS1wX3o4TGo1VXF5cTlXSk5iLXV3emNGeFFsZFNncHE5cENBT2h0NTRLNEJ1QjZ6blZ6S0RuSzMxMjQtWVpv?oc=5",
+   "source": "Unisba Media",
+   "published": "2026-09-29T14:11:05+00:00",
+   "desc": "Cathie Wood's SpaceX IPO Prediction Vittoria Ceretti (9sCvJK03WA)    Unisba Media",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "BastionGPT Launches Microsoft-Certified Power Platform Connector, Bringing HIPAA-Compliant AI to Power Automate, Power Apps, and Copilot Studio - finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeVZnaTRTNEpTVVRZTmtZeEdQQ0FUcjdXWU4xaDhfbi0xV3ljSmMtUFdmd3NRVzFiRVp6enlnZ2RmMjA3eVZwQ3dycXVYV0Q1c0ZkOWwxUXVPd2VzNm9Hd1VYVzNFc0U3RWRENlhQbGR3bVNRdmFEbkRzTlFSZlI5VWNzRDdWMUZMeGtZSFFESnZuOVNseDUtUUI5aXdnRUVFNm5Sd1YyMTJqQQ?oc=5",
+   "source": "finance.yahoo.com",
+   "published": "2026-09-29T14:10:00+00:00",
+   "desc": "BastionGPT Launches Microsoft-Certified Power Platform Connector, Bringing HIPAA-Compliant AI to Power Automate, Power Apps, and Copilot Studio    finance.yahoo.com",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "GPT has dismantled the \"embodied brain\", will Embodied PhyStack be the next stop for embodied intelligence? - eu.36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpcnpaS01qRm5zcU9BajZmYnNfSGkzZHpZaE9uZl8tNlpzam0zb2EwdzA3anpNeklqNjlyUjRrbUpFb3M5dXN1RlBTWHNYQzV1NXpr?oc=5",
+   "source": "eu.36kr.com",
+   "published": "2026-09-29T14:02:20+00:00",
+   "desc": "GPT has dismantled the \"embodied brain\", will Embodied PhyStack be the next stop for embodied intelligence?    eu.36kr.com",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "Copilot Update Delivers GitHub-Powered Coding and Embedded Office Apps - Cloud Wars",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWnl0VDZPbjlkX0VyejViR0RwRWsycDdON1NCNUdtZlpmNXVrT2syU2JGRVZ4dDBHTHFfVDhTYUNNbWpFaEU3RWtuYnVhWUlrSUh5MFNrS29FOEVQM1d6VzJBbU5ITlJoaHVrRWl6SmV6aEdqUXdtaDhDbGg4TG9jM0xJVnVidEhYRXFaTVpyZWNHclBGRllWVzhicFo?oc=5",
+   "source": "Cloud Wars",
+   "published": "2026-09-29T14:00:00+00:00",
+   "desc": "Copilot Update Delivers GitHub-Powered Coding and Embedded Office Apps    Cloud Wars",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Europe could be better placed in AI race than it looks, says ING - Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeFhGOFMxb2JRdkUwNlM4RnV6OW9HMjBQeEUyTlYyWHFCZUg0QVY4NVFMTE5iUUNZeWI5b2kyWmtmOFBIcEJHM1E5WHFZOGd4NEw1NFpSdTJVSkJudzR5YzVwRkxqZGNJM0w2OTBXVmtVRzQ2XzJaclZHS2dHcWJxMkdQX1c?oc=5",
+   "source": "Yahoo Finance UK",
+   "published": "2026-09-29T14:00:00+00:00",
+   "desc": "Europe could be better placed in AI race than it looks, says ING    Yahoo Finance UK",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Anthropic IPO Leak Shows Sweeping AI Vision and $518 Billion in Surging Running Costs - Ventureburn",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15MmlJYnZOcF9VVW1HejdOYkFETUtJdWlqRUh3WlZOVGxxaDl2cnM3dXBBSmlpN0JHT2tYYzRvc1g4aXZmUXhKNzlEZUtkLUhnVWhaZHA5VmVOeHA5cXdPWi0zRFNKbEc2RmdDbWxSR1AyODhQeG5NcU55NGx4QdIBfkFVX3lxTE15MmlJYnZOcF9VVW1HejdOYkFETUtJdWlqRUh3WlZOVGxxaDl2cnM3dXBBSmlpN0JHT2tYYzRvc1g4aXZmUXhKNzlEZUtkLUhnVWhaZHA5VmVOeHA5cXdPWi0zRFNKbEc2RmdDbWxSR1AyODhQeG5NcU55NGx4QQ?oc=5",
+   "source": "Ventureburn",
+   "published": "2026-09-29T13:46:56+00:00",
+   "desc": "Anthropic IPO Leak Shows Sweeping AI Vision and $518 Billion in Surging Running Costs    Ventureburn",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Human contractors review Microsoft Copilot users' photos and prompts - The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUExOSnRqQXIyN3FoZVdteTFGV2FwdTEwV2JNWTRTUVh2VDFDMlN6YWg5TkxmYU5fbUR2YlhHM1lHbFRkTjJFaDdSdndTMmVoTzBVamU0ZW1XLVRnWmJEYk90US1JRk5XaU10OHRHTGxaeFRjUVZIRncyV285RTdKWHdnd0h1LTNHTDdJLTI4TQ?oc=5",
+   "source": "The Next Web",
+   "published": "2026-09-29T13:40:17+00:00",
+   "desc": "Human contractors review Microsoft Copilot users' photos and prompts    The Next Web",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "PLTR Price Prediction: AI Platform Dominance Meets a $190 Ceiling — Can Bulls Break Through? - blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ1Jha0ZuQlZnbDZVdWxNeTQ5V2hzajE2b0tKdjN6WDA5V1dwSFJlT1VmVWRXNDhFRklMSnozOUtVY2x2cDdxWXlFQ0JKblRkQ2YwczJld2RITDExRzd0RlNWYjhiQjUxYlRLNllUdFhHblphczQ3UEZtcl9NS2w1djlUUFo3dkgzQnFPVlQ5c3BibnlXTV9QUA?oc=5",
+   "source": "blockchain.news",
+   "published": "2026-09-29T13:33:00+00:00",
+   "desc": "PLTR Price Prediction: AI Platform Dominance Meets a $190 Ceiling — Can Bulls Break Through?    blockchain.news",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Reco Raises $55 Million for Agentic Security - SecurityWeek",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3NBRl9LRU45N01vdi1XU2IzdGsyWTlQbEtkNGF0SWRZZFVUaGtWckxyTC03VnZ3cU5ldnZoOGxDOXh2SzJqT01ZRnlWemdCUGR1MWp0ZVpIUHZJaTREUDZhTGEyYURKM3N4MW92UFZ0RU13QVNoLVdpaks0TFJmajI1WdIBgwFBVV95cUxPR3NBRl9LRU45N01vdi1XU2IzdGsyWTlQbEtkNGF0SWRZZFVUaGtWckxyTC03VnZ3cU5ldnZoOGxDOXh2SzJqT01ZRnlWemdCUGR1MWp0ZVpIUHZJaTREUDZhTGEyYURKM3N4MW92UFZ0RU13QVNoLVdpaks0TFJmajI1WQ?oc=5",
+   "source": "SecurityWeek",
+   "published": "2026-09-29T13:23:23+00:00",
+   "desc": "Reco Raises $55 Million for Agentic Security    SecurityWeek",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Stuck with an unused Copilot key on your laptop keyboard? Here's how to turn it into something useful. - Windows Central",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT1VjSmc2aUE5TFpROFRkZlFLQmVzOXJCMlNtTmlCV2w5LS1PT3pxTURTdXd1SWxranRMTWl0bHdjanc2TTVfdkxZcjFfd2w0VWlyaVRZNzhrODdQMlRpYTVEQzA3dVhkMWxpNHJtWnRWNFUtUmd1TTFXNFE2M3RmUVkxTjMtdTlFM05rQVRUUzNLLTR1TXRRYjBfNE9RcDJMSm1lNDNQZnAydHJ3dW05WVU5UDQxVFFqUnZqV2VMSXU0V3ZkOEFrZVhTck56MjNZMUpkWmlCVmVmZlZrM2YzSFpB?oc=5",
+   "source": "Windows Central",
+   "published": "2026-09-29T13:19:09+00:00",
+   "desc": "Stuck with an unused Copilot key on your laptop keyboard? Here's how to turn it into something useful.    Windows Central",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "10x Genomics ships Atera, a breakthrough spatia... - Pluang",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQzJRSUQxTE9OZ3FJcFZid3c0N2UzRTRvQ1llaHZzNmZzdC0zbVVrZlNGWm1zME40N3g4NTZKMEdONXVvcnFOVmVRRzdkczl2d09JaGszSXlCazh5NDF2Y2dETVltOVJRa1l3ZFZJaWR6TDhtcEc1ajdrV3N2UmZuSndNQU5OOVdOeGNxa2VjRms5a2pPb2lxdzNrVQ?oc=5",
+   "source": "Pluang",
+   "published": "2026-09-29T13:16:21+00:00",
+   "desc": "10x Genomics ships Atera, a breakthrough spatia...    Pluang",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "Meta and This Is Digital open AI Academy Kenya, and two startups will win about KES 650,000 each - tech-ish.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWFJYNFBRSjF1aFNHaWlPYThWa2ZlQVNMVi1GTGJJa1ZjcXBzMDBtbUxZOGZGY1hSMWFFcDNzWno0VnB2TDNwMVE2anFPVllJMkdjR2ZJTGMxZ0ltS1BwOE8yVF9yY3drTGtUT01QdnY2b0lFVUx3ZlRiV3pBQS1fX0xpUGhtOTJNM1Y5VFdYSlJzaVBua1dKMGl5a1ZMS09ScDBjS1VlYnpNbG8xZVUzSEhnUTM5WW8zQ1g5T1dLU3ZzSkpYLUE?oc=5",
+   "source": "tech-ish.com",
+   "published": "2026-09-29T13:14:34+00:00",
+   "desc": "Meta and This Is Digital open AI Academy Kenya, and two startups will win about KES 650,000 each    tech-ish.com",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Workforce training for AI: How much are provinces spending in 2026? - hcamag.com",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVjJGVzEwNG9idXotY1JQSUZKRG4zc2xlR1h5dmhDOGxsa3VLZTdUcUQ0SnFsQTJvZUp5bFZkX3RoVTAzcnRneWdZd2FIdzlQLV9UdkxsTGdUdmIxT2wtdUZMUXNtdFVVdFdfTFdsNEY5N3FLNDVwa3JkQ3p0T1lCRGl1dUlmUnBRejBWZkVoMUs1cTJ2TEVwd3dzcmQ0SF9Ca05kb1ExVmVQaG0xNTVLWEk3VkhpakY2RV9xOFdxY09qRlh1UXc4?oc=5",
+   "source": "hcamag.com",
+   "published": "2026-09-29T13:09:20+00:00",
+   "desc": "Workforce training for AI: How much are provinces spending in 2026?    hcamag.com",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Hackers Use ChatGPT Custom GPTs in ClickFix Attacks - SecurityWeek",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWNUUDV1bHJBdW85eTNOclFFcnFkaFA3aDliZGxBYVlmbG82bXZSZEJJbDVmMnRwamxyajZfdGIyd0hJYXVTYllYT0tJZ2VKMkpqUGtaNlFwMlFPX3E5NmZqazQ2ckhNQTdKSEVRWTJkVU4yYzlYQmJfNlR0ME1jUDVZXzQxTlZH0gGOAUFVX3lxTE93VnZhb3JYb0djZzctWDBsaElMcFJDLXN5Mm43dy0xbzNHZzhZbFhmNlhTRGg3TWN1NWVZNkpybzFHdUxocHpQaUdleFZSekpBZXIyMVRCQzIzTzQwUDB2dWRRSXJqQTUxOV9iY1JLVEI5ZEo0alM5cDA2S1Z6Y1NDWEoyVWw1OE5jX1ZHamc?oc=5",
+   "source": "SecurityWeek",
+   "published": "2026-09-29T13:03:35+00:00",
+   "desc": "Hackers Use ChatGPT Custom GPTs in ClickFix Attacks    SecurityWeek",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Mistral Raises €3 Billion in Europe's Largest Private Tech Round; Nvidia (NVDA) Among Key Investors - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQm8zUEhGMnVqcUZCZGJjVUVPQlduTzhLMU9LbnUyR3ZHNnlnRjN1X1JOZ3lkY2g5WlpwVDhsa3pWTThhekw4Mzc1dklDUEE1d3Z2UmpjS0NBazBtTERfaEJEQ2xyWmRuRDNfZ2FwM0xLLUg1U1dxUl9GZnZ1T3g2ZW45VlkwdmRyd2Q0eG5Vb1F2d2VHb2EwZk55WTZqOXJyX1NVbVc4dHNOSnlkOGNIenlZMGVDTTBFN3liYjQ0UjA2aFVzeUIyY184N1paUQ?oc=5",
+   "source": "GuruFocus",
+   "published": "2026-09-29T13:03:31+00:00",
+   "desc": "Mistral Raises €3 Billion in Europe's Largest Private Tech Round; Nvidia (NVDA) Among Key Investors    GuruFocus",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Microsoft's Two-Pronged AI Push: Metered Copilot Agents and a $10 Billion Middle East Buildout - ad-hoc-news.de",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTjhTemNVQ1JiRWNkVjRxazI1TGE0MnJuV1g3STNidS1yRG1KMFRZd1R6ZV82RHo1ajlvWmRuSDNoZDZDOGZNZVU1M2xtMkNXTDhGMDZ4VWZZbHpFSzlyRWt5dU1tQnhHTm45aGN6VUZpV2pHeFVUOUdiOEpfaXFQVVc1WkI5Y01VLUpDdnNqdzFlZFRScDFQcThrZU9zaDNMeGNQN2RqdmVEVUxELVdBaHNWNXFBd0t3ME1KNmRuQmt3a3hPTlEtV3ktUjhLaS1GekNGZTFMaDN6REE?oc=5",
+   "source": "ad-hoc-news.de",
+   "published": "2026-09-29T12:30:48+00:00",
+   "desc": "Microsoft's Two-Pronged AI Push: Metered Copilot Agents and a $10 Billion Middle East Buildout    ad-hoc-news.de",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Breakthrough Hybrid Intelligence: 49AGI Launches Local AGI App for Over 1 Billion Apple Devices - openPR.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNDc3aTdGNWJaVi1IV2RjRzVWckMzWC1VX3NsWkp3U2pXUGI0aUM3c2E1UDU3bWt3V2NkbGo1ajBFWEFzWW5RUUdRTUZtaHlBTUZIb3AyOWt6TUVOa2JQY21TTm5XYTIzaFYzSE9Hd3VJWlU5RkFIZXdGdjQ3d0otbzNPZHdNeVk4VzFPZDFEVWZLWVZvaTJzUkhPMWd4dw?oc=5",
+   "source": "openPR.com",
+   "published": "2026-09-29T12:30:04+00:00",
+   "desc": "Breakthrough Hybrid Intelligence: 49AGI Launches Local AGI App for Over 1 Billion Apple Devices    openPR.com",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "AI startup EliseAI valued at $4 billion in latest funding round - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWFRUkROTGVjTWZvMUlUcWRxdWJ0Q3ZDcTFKMzdpLWRTRVJweTZwSkM0UGIzdHhab212OEhmQXRzSlhucTVsV3J5S2VFcEFhWVQyZ2U4NWZDcGY3NTNsa1c5THRCb3hMa3lIcmJlYXI0dWRaSGNGdkY2WmhKaGVLeC0zM09QTE1ZU2NRN0hKR3YxQVA0Y0lmdkVvMnQ3and1cHc?oc=5",
+   "source": "Reuters",
+   "published": "2026-09-29T12:25:37+00:00",
+   "desc": "AI startup EliseAI valued at $4 billion in latest funding round    Reuters",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "China's Three Major International Science and Innovation Hubs Account for Nearly 60% of National R&D Spending, Over 80% of PCT Patent Applications - finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MQVFGZ3k1a2FuSTlUcVJTN2VMdnZpNGwwZWphYjdxU0VEUlhQMXNud3ctNXRwdmlNLW4xb0ktVUFHWk5XaVRWcElMaGlWM1laZWNjSG5Vd29kdW1uaTFxb3FITFM2eVZ0ejZqdGR6dmlIUDZMSnc?oc=5",
+   "source": "finance.biggo.com",
+   "published": "2026-09-29T12:25:00+00:00",
+   "desc": "China's Three Major International Science and Innovation Hubs Account for Nearly 60% of National R&D Spending, Over 80% of PCT Patent Applications    finance.biggo.com",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "Grok 4.7 Raises Coding Scores, but Uses More Tokens - streamlinefeed.co.ke",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVoyZ1ZPOTFoM3BWaEpIYzYwaU1HdGxUVnRnbThrb1U0TnZjRUhxMUNUWkRtSkg5a2I2aVJFWHhybldnMnI5MXN5RXdaNGE3S19WYTdTX25YQ3RkYUxDMUpvY0FXZHNZOGswYTFzMVdRMUI3RVN4amc0QldlS3JoWjJ1a0JiSXBNNmZRag?oc=5",
+   "source": "streamlinefeed.co.ke",
+   "published": "2026-09-29T12:17:47+00:00",
+   "desc": "Grok 4.7 Raises Coding Scores, but Uses More Tokens    streamlinefeed.co.ke",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "Bet on These ETFs as AMD Agrees to Buy World Labs for $8.2B - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSllPZmtKNjJROEl6eldXWDVXTzR6TmVIZW5ISE9KVEtGd0hRM3dmQVBjVjJzRmNsRGdDZjk3RGxGNUxTN3BGbm1MMVBfRWFhQU1xZkdwWlhWZndGc3RLNEtJd05CeG5iY2piVzhBaU45YmstUEtUN1I4MDI4ZWgwS3dZZkV1NWZJZklBdnAzTEhMOFZpbEZxZ25fNUUwS21hRk80b0JGZmduemJEN1dsUUVmeGM?oc=5",
+   "source": "TradingView",
+   "published": "2026-09-29T12:15:00+00:00",
+   "desc": "Bet on These ETFs as AMD Agrees to Buy World Labs for $8.2B    TradingView",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "Depraved Microsoft Copilot prompts seen by human reviewers - Cybernews",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalZYN1lWTERicE1mWkNLTEJfd1hNV2JGSy1jWk9HVlZHbDVQRkRXQndTU1JyN0dhbXczYUluNUU1bDdNd2FBcTVIeWprUU5VZFNKamhYUUFoc0RXNDVCTFZSeTR5SnJJZks3YzdYUmpiRXlDaGJUaUVNeVozMF9EZE9fNjhCYTQ?oc=5",
+   "source": "Cybernews",
+   "published": "2026-09-29T12:14:41+00:00",
+   "desc": "Depraved Microsoft Copilot prompts seen by human reviewers    Cybernews",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Meta Launches Muse for Small Business, Signals Enterprise Push - The Tech Buzz",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZnQ0ejJxRDFra0x6b1Vra3d1bnJfWG9OZ3oxWVpwWmNBSzNsUndpeGtJSFhNZHNfYnd3VU81bUt2Z3YxU1dLbjAwTm1Kd0dlMi1WVHFtWWM5ODluZkdVdWdqb1ZseFh0TVZYNXpiYjJvNEZac0N2cF9zWnQzTHFhWFBVZFNRSXJkbnJKR1BJbFMyRzc2YlZBandR?oc=5",
+   "source": "The Tech Buzz",
+   "published": "2026-09-29T12:07:00+00:00",
+   "desc": "Meta Launches Muse for Small Business, Signals Enterprise Push    The Tech Buzz",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Mistral CEO calls AI safety debate a cover for competitors’ negligence — CNBC - UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOODBVZXN4QjZKUFBBX3NBOXdYXzNwMW52S0VIV2dqYVowcUpwSzB2bGpMQjRJb21UNVlzZ2FIUmFmQnFoRVpvRlJxWkJlMlNVNnJUUVlxWV9XNXF5TTR6Q3ZtV24zaHd3Y1lqeFA1ZmlCTjBTQ0tLdmlGcG1ZVjR1eHZvdGFMU3Ffd2JaT08zNVVHMDVYZWFEN2paSU90S1JHZGhyVlZHRkZiNDhfU3FibTg0OWQxZmxGUk5GVjVIQUctUQ?oc=5",
+   "source": "UA.NEWS",
+   "published": "2026-09-29T12:04:40+00:00",
+   "desc": "Mistral CEO calls AI safety debate a cover for competitors’ negligence — CNBC    UA.NEWS",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Apply Now: Digitalise Your SME Grant (Malta) - fundsforngos.org",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeW1YSF9Cb29EZmVvQk9FYlJob1NCRXNxejMyOGNIT2dRVUNSU0Z3X3Y0MTAxWUpSUmhtS1kzZUY2b2JVVUhZSWxEaDltX2pzT0k3bmxhbllFQ3NCUEJsM0JPX0lnaHh2ZEV1OXI4Ukgyak1DeHhHcUpiWUR5NjJQbXl5TmlmSTNqdVVMbUowRGplVkZUaFlmRUpn0gGfAUFVX3lxTE1ZaEpSTGRFdjZfUGJSQ3ZmbkctcXNuOGNCdlFvOXl6MWRDVVF0c0ZxTVNNYXVyMU50WmZxSDA4UWFRdU5FakZSRVhMMmdNZnMwU3VkZnVMUkxPWl9XTmNFQjdIN2NLU3Y0ZmYtS3NIbEZ3SlZaSjJmRWtRUzBNNUpuU0N2M3lQYXhpa3FWWC1VeEUzd1J0aVcxYzU3a3ZxSQ?oc=5",
+   "source": "fundsforngos.org",
+   "published": "2026-09-29T12:01:46+00:00",
+   "desc": "Apply Now: Digitalise Your SME Grant (Malta)    fundsforngos.org",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Microsoft introduces new Copilot with Home, Code and Autopilot - Irish Tech News - Irish Tech News",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeExoNXBwNE50YTE0SURGNXVoWWtNcGlUTnhwNm9SdFVreTVfcjIyOUd1WVRvWTdkb252cDd2bmZNUFpWbXZVSUlkVFdIUU9xU0dzblozeGl0d1h6RkxqREFndTU0VDFQTDZwSUxjUklCMnZlckdSYjZDMklFN1J2S19xSmpFWEtCYTAzWlczTnXSAZABQVVfeXFMTnhMaDVwcDROdGExNElERjV1aFlrTXBpVE54cDZvUnRVa3k1X3IyMjlHdVlUb1k3ZG9udnA3dm5mTVBaVm12VUlJZFRXSFFPcVNHc25aM3hpdHdYekZMakRBZ3U1NFQxUEw2cElMY1JJQjJ2ZXJHUmI2QzJJRTdSdktfcUpqRVhLQmEwM1pXM051?oc=5",
+   "source": "Irish Tech News",
+   "published": "2026-09-29T12:00:17+00:00",
+   "desc": "Microsoft introduces new Copilot with Home, Code and Autopilot - Irish Tech News    Irish Tech News",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Associate dean Daryl Lim featured for polyphonic AI regulation - cumberlink.com",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEU3OW54bzhIdGEzSGJXZnM4X0dHM19wUFpUcHI3Mm45Mk42UDAwdkI0eVhHaUZPajdndjBUQmxZM1ZQOGdYQzljME42TUlEUHJLSzhxYWZXTnB0OHp6RFdEbktDWlVYdU9oUlpybjc1VmIwdDRIYjdwZmN2clpuSlRRRFd6ZzZTNXAwREhsaGI?oc=5",
+   "source": "cumberlink.com",
+   "published": "2026-09-29T11:59:33+00:00",
+   "desc": "Associate dean Daryl Lim featured for polyphonic AI regulation    cumberlink.com",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "AI market must touch $ 6 trn by 2031 annually to fund infra build-out: Report - CNBC TV18",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDhMeHJvVUJ4alM5SXQza0M3YVRFQkhPYkhCUWtWSFZld3U2anVwVUZkcV9LM2hUdGlLX1JjTlN2Yk9Oa0pxVktsbU5kMkZ5Q1hnSEtoNzhtT3dlT2d6X2wxTnBVVl9jRGJaTGdDU1NTSjB3NjBhYkVJdXdRQmhLUThpaWl6V2l2aWkySXlsUkZvX1c4VmI2Zkc5R2hrWjhHVGQxUUZ0Q0dfTnRONlYyQ3Bzc2FraVlmajNJbzYzWHVTN29HRXfSAcsBQVVfeXFMTjlJcWFNODFZbGtSRXV2ZThndzNRYkNYOWVBZlpCc2VzcVZMU0pNaUpFcGdtODVXblh2c3kzbmw4bHlIS0tKWjA1b2h1M2JUT0xVT2I4eTRGTlk5bTZhc2YyYkd4MEZ4YXZsYVNSbXVCZ3BJWTBnTjc4TC1Palo0ZWN6LTZPMG1VQ2NMa01YMk5SRlRqTnQzUHIzQzVqazlGRDdtM05vRGI5MWJRQVJNR25DdEl1MEMtVmdtVVB1UllYX1pXT3dqZkNNV00?oc=5",
+   "source": "CNBC TV18",
+   "published": "2026-09-29T11:51:48+00:00",
+   "desc": "AI market must touch $ 6 trn by 2031 annually to fund infra build-out: Report    CNBC TV18",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Mistral Opens Munich Hub for Industrial AI in Germany - konsulteer.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaWdkVk9HdnBzWmF6a3NpMEVCMi1ldVJPNVp4S2xXN0pxRmsxMFhxRzVGLTdMemhfc0FqdS14UDI0SEgyeGl2TEphLVNPMjQtQU5CYngxM29tUjVSVE9JWGxDR1dtdGQ2M0g3RjRrN3VPNUxxNWxVaWtZNlA1amc2ODg2ODQ0ZmpKbmZJSEpqOHEwOFJJUzVmS0lkSQ?oc=5",
+   "source": "konsulteer.com",
+   "published": "2026-09-29T11:38:42+00:00",
+   "desc": "Mistral Opens Munich Hub for Industrial AI in Germany    konsulteer.com",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Bentham Science Call for Book Chapters 2026: Travel Support and Funding Opportunity for Researchers on AI, Generative AI and Digital Transformation - legalmaestros.com",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNS0JsYWNTT2JWblhXZmVocHFYT1BKdmtjUG1BaWUwUEFJY1pBVEYtNHpJVk1pNTI3Q1IyOEFqcWNLVlVSRWh2RUFLeEhYME4wSHNSakt1TlB2Uk8xTVpGZXhNUllFazh6SGVKTFVvQ1RHS0hvMXRocFlsMzdMS2NwdkFibHN3cW1LcHFZLXJEeUJhaDNnSDltZy11WUphZk5zakxmdjhvS1hoaWVuOW84VnZwbE4ycjl0eTNKNjdTZVExS3k0VXlNX1E1Sm9yQXEyYzY2VVNrNWRfS2tkaUlNWm5kWVFZc3d3S2NYNVlrSFh2VEtQbDlRNGlydmRVZVhqX05sdTJ0V1ktZzNObEFyY0Q0NGg?oc=5",
+   "source": "legalmaestros.com",
+   "published": "2026-09-29T11:33:24+00:00",
+   "desc": "Bentham Science Call for Book Chapters 2026: Travel Support and Funding Opportunity for Researchers on AI, Generative AI and Digital Transformation    legalmaestros.com",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Why Pope Leo Says Artificial Intelligence Risks Are No Joke - ИФЗ РАН",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40S3UxU3ZNSHh1RThKVFZGc3BfMEZVY3hnaXNKajZRUmxQZ2tfWTVaM1hoOXU3NWo4RlZnOURKcC14VnZ2NW1yOG52RnVVNy1lQVFxQmxOMzdNY2Z4ZFp1bUhrbXVkODB1bHp6dVBWMUhiMGV5SUxfaWJ3Z1lQQQ?oc=5",
+   "source": "ИФЗ РАН",
+   "published": "2026-09-29T11:26:21+00:00",
+   "desc": "Why Pope Leo Says Artificial Intelligence Risks Are No Joke    ИФЗ РАН",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Microsoft folds Copilot into one app and bets its AI future on business, not consumers - Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX1hTb2l2Smo2anZBYXYzaVUyRklWSFRJQndXNEMxbWJEM2RVdkhrNlhONEp3TDRHclV2UUd0NEJLYVZTVEptcXlwUFVsd1c4U21NMDhQaU1URzFuSUR0QW9aX3M5aDBLcXZDZEFNNk4tQzhMRWdBU3YxQmgzVmFodE9MSUJ0UG9tM3pNbDVyR1dQQnl1amFXUUlHc2xVX09jV1kzOXNEem9samNWZ1hOaEdHWQ?oc=5",
+   "source": "Startup Fortune",
+   "published": "2026-09-29T11:24:40+00:00",
+   "desc": "Microsoft folds Copilot into one app and bets its AI future on business, not consumers    Startup Fortune",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Why This French Investor Is Betting on China’s Moonshot AI at $30 Bn Valuation - analyticsindiamag.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmNXRVNfcG1Ba2M1U05rRmZUUW8wc2x4ak42ZGFTelV6bTdkZ29MWVRteTFwOURZSGdGcFdLYnJXTkFJc0xGNjh4OWtIeGhhMFJQSVhMSmd3WWRFUXhjdmU0anltVlA1Sk1GRzFERjlQSlk0Rm9YeVg2b2hxNzRxS0pXNHhLU1NBTDZ1bTRvaTR1bGV6X0I1NFc2a3QxcGNWSmlwZTJmdGpWd20xalIzXzBVODBpVEhBTmc?oc=5",
+   "source": "analyticsindiamag.com",
+   "published": "2026-09-29T11:23:54+00:00",
+   "desc": "Why This French Investor Is Betting on China’s Moonshot AI at $30 Bn Valuation    analyticsindiamag.com",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Mistral's CEO is calling the U.S. AI safety debate a cover for rivals' negligence - qz.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FbDQyanFPRUdGY1BtWnAxTUptSUFyYjJwbGRJYnNycFhyMGpSaHRJbTZhQmttbi1LUllvdmJXcnRSTXpSOTdIUTVVdmU5cWVrQXpJNGN2NnNXelZwQ0ExbHN2bEt3cEJyQ0xIMjlRVlRRSGExQ2c?oc=5",
+   "source": "qz.com",
+   "published": "2026-09-29T11:21:22+00:00",
+   "desc": "Mistral's CEO is calling the U.S. AI safety debate a cover for rivals' negligence    qz.com",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "HSBC rolls out new digital transaction banking platform - Finextra Research",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWVDSzNhQ25nSUFBVzY1SEFfTEszWUVwcU5aUFN1dXRnOHZaNTZDc1ZfMEptRUpBdllZNjVrMVpvX1ZnNko1YXlLN1l1c25ncWJSNkVJMlFlRHN0OVZXTU9vMVZUOW5BTkExV0FjaTFXWEpKYU9KSGp6VDZ5M0ZZWmZYSm5tY3RiVjlvT0NkMkhnT1k4OUZDc2FISlFDMVk?oc=5",
+   "source": "Finextra Research",
+   "published": "2026-09-29T11:03:00+00:00",
+   "desc": "HSBC rolls out new digital transaction banking platform    Finextra Research",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Microsoft Retreats From Consumer AI to Focus on Business - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUzFSeTRYYjl5YmN3c0pqMmtNQ2RnS05sRFpVSjZUN05ESjVWMTB1NGZCdmhVZVBvQUFPUlFUMmdlcFo4TVhSUWR4clJKR0lMd19JMFlSaXNxYXNvSGI5OTNDblQwelEyNGZ0ZWFyalJGN01SQ0J3c3pVdWUzc2RJU3p1U3lHeEtPZlV1RW9ZTG5oS2ZjM1RwaDJMQnZfb044UFFjYW1raUU2dmZfRzFEWVAzWVdJZ2E2V0U3a1Y1THFOMDk4V1lubndXeW04dDg?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-09-29T11:02:01+00:00",
+   "desc": "Microsoft Retreats From Consumer AI to Focus on Business    Bloomberg.com",
+   "org_key": "microsoft",
+   "org": "Microsoft AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Exclusive: AI housing unicorn EliseAI hits $4 billion valuation in new funding round led by a16z and Bessemer - Fortune",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPODZ4cVlQNGFmUEZXMVBnSWo2RWhSUWdfUEcwZHJzc1kwZEtYYVc0V3NCMTdzaS1yWWozMV9hSjg4dWdSWE1UYThsUzNiYk1OaW16S1YydVZTYlBsNUVxTWJaTXNYRldTWFBNMW5BaVhXTktlODNwQzZJNUJ3SWJpcDhXaERPdUdqRDJUMDdqYTRGdzJzMnkzMm9RY0pfSG5yWjg1SzdYRV80d0huM1ZZ?oc=5",
+   "source": "Fortune",
+   "published": "2026-09-29T11:00:00+00:00",
+   "desc": "Exclusive: AI housing unicorn EliseAI hits $4 billion valuation in new funding round led by a16z and Bessemer    Fortune",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Will AI models achieve the ability to improve autonomously? Leading labs say the scenario is near - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNkJnMEpXS3l4OEhOQlJoVmpKSnFfcXFnQk5USktvRU9yMENTdjFpc3I3Tkpsai1jdlBHUzhiTnpNZk9STmZhb2dwNll6NEFBR25oNjZuNy04T1Z4cVE5WG14X2U5S3U0X1R0cGFNeVFKMWxfLXZhUHQ3LVVfSnRZUDdxdnRDZmFRTFBPUTZuOVJVbmVnNjd1MXhXM2U2NDlnRlNPadIBqgFBVV95cUxQcHFiOWNMRGtYcUxHYjNSZGw0LUhvYlhyNnhkZGRkN0RVX1VRb1F2YnFabWJWd0hQVmxoNktVNGpVeWJJSm13QmxIYTVQQjNvYi1aUTNSY3JtTHRDTzlENW9OY2pXM0diXzlwMkRCQmtmemF3VkZBZ1ZfcThvcDB4UlVEUkJ0am1jT1VvQ2xBMTBLV0MwaWQwUngxd1hQZV9zWTdFbFktek9oZw?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "published": "2026-09-29T10:48:12+00:00",
+   "desc": "Will AI models achieve the ability to improve autonomously? Leading labs say the scenario is near    ABC News - Breaking News, Latest News and Videos",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "gnews"
+  },
+  {
+   "title": "84% wealth firms see need to redesign models for AI: HCLTech - Awaz The Voice",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmdtYk96aXhRYllGeWhPR0dPVThiRS15NFZVMDFNcXdnRU5RZENoa2E3a3Uzbk84TmsxUS1sNnNMdlRzOVZPdDZJLXlDT0xwem9QUzNfazN4MXpmT3ZmRmtISWh1T2tnaEdfOHNXMHhVa1gwS2RKWmkwVzJEZGRHWFBmY3lPQ000dVFzaW5xSHpfWWNpcE8tQUhRTGZ2VGRMYjFPaVZnR1BwWEtK?oc=5",
+   "source": "Awaz The Voice",
+   "published": "2026-09-29T10:29:05+00:00",
+   "desc": "84% wealth firms see need to redesign models for AI: HCLTech    Awaz The Voice",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "New AI and Privacy Rules for Businesses Take Effect in Connecticut",
+   "url": "https://www.pymnts.com/legal/2026/new-ai-and-privacy-rules-for-businesses-take-effect-in-connecticut/",
+   "source": "",
+   "published": "2026-09-29T10:12:00+00:00",
+   "desc": "A pair of laws governing artificial intelligence and data privacy will take effect in Connecticut Thursday (Oct. 1), introducing a new compliance regime ...",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "bing"
+  },
+  {
+   "title": "Un débat pour \"masquer la négligence de certains de nos concurrents\": Arthur Mensch, cofondateur de Mistral, rappelle qu'il est de la responsabilité des créateurs d'IA de ...",
+   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/un-debat-pour-masquer-la-negligence-de-certains-de-nos-concurrents-arthur-mensch-cofondateur-de-mistral-rappelle-qu-il-est-de-la-responsabilite-des-createurs-d-ia-de-fournir-les-outils-pour-les-surveiller_AV-202609290768.html",
+   "source": "",
+   "published": "2026-09-29T10:11:00+00:00",
+   "desc": "Le directeur général de Mistral AI n'a pas mâché ses mots pour décrire les propositions de ses concurrents sur la meilleure manière de ralentir le développement de l'IA. Pour lui, il s'agit de cacher ...",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "bing"
+  },
+  {
+   "title": "AI Needs $6 Trillion in Annual Revenue by 2031 to Justify Compute Spending: Bain - Open Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ1Z2akxSTmhrUWRDbFAzS084MUg5Zm9Ta1JNcmpzZUFacnNNdjRwdXpsU1RiRnppLUtsYTlrRlRIczYxMlpWVGFSM256bkNaMXluR29OM09UMnIyWUxLMWFxcXdPc2c0UDc3RUx4aHVMMW9WY25WWW8zai1xcXBEVUNrdG9yTjhVTk9IX1BIUGs4Q0pGZV9ubmxRdnF1WmZUZjVnbzlCMEw2ejB6bUFKdldfZThlc3ZU?oc=5",
+   "source": "Open Magazine",
+   "published": "2026-09-29T10:09:21+00:00",
+   "desc": "AI Needs $6 Trillion in Annual Revenue by 2031 to Justify Compute Spending: Bain    Open Magazine",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Mistral CEO Critiques AI Safety Debate Amidst Industry Competiti - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRndIS1FEV0RvQ3RTZGZaaHR2Mi1hWS1Vazk5bXFIZnRSb2FsbHhyWkNQWlBXODd0RS05ZXBEZWU4alRmLWtLdk5nOWFaNGxnd1NXWUdyMVlBN0pmY1ZGT1JIaENsbldJeE02bTIzWGRtQmpSNHBuVFp2SzVUb2MzYWhhUmZpcjN4cVpsM1IwZ1MwT2c1TjRVWGR0RFB6eW1kYWFuclFuNEI?oc=5",
+   "source": "GuruFocus",
+   "published": "2026-09-29T10:08:47+00:00",
+   "desc": "Mistral CEO Critiques AI Safety Debate Amidst Industry Competiti    GuruFocus",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "The open-source AI platforms vying to become China’s Hugging Face - Rest of World",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY09nVGI3ZEloeEJKVFFBM0gtMTI1WGRGY3E0X3Ftcy1DMHg2WjhPTE96THZjMFdwT1dIVGViM1l5OUYwRmhtWTFzb0xJOEhPWDhiVk85d3h6OE5EdUR0bnJsUW1wMnZ4ZFVKazhTR1NscmJqWU02ZEExc2pHcTV0dmRSd3ZmSm8?oc=5",
+   "source": "Rest of World",
+   "published": "2026-09-29T10:05:30+00:00",
+   "desc": "The open-source AI platforms vying to become China’s Hugging Face    Rest of World",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Big Short investor Michael Burry warns AI bubble could burst 'sooner than later' as Anthropic eyes $2 trillion IPO",
+   "url": "https://www.dailymail.com/yourmoney/article-16168555/michael-burry-stock-market-tech-bubble.html",
+   "source": "",
+   "published": "2026-09-29T10:01:00+00:00",
+   "desc": "Burry famously bet against the US housing market before the 2008 financial crisis, and now he's doubling down on his prediction that the AI bubble won't end well for Wall Street.",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "bing"
+  },
+  {
+   "title": "Schrijvers protesteren bij Meta tegen gebruik teksten: \"Ordinaire broodroof\"",
+   "url": "https://www.at5.nl/artikelen/240157/schrijvers-protesteren-bij-meta-tegen-gebruik-teksten-ordinaire-broodroof",
+   "source": "",
+   "published": "2026-09-29T10:00:00+00:00",
+   "desc": "De protestactie is een initiatief van de Auteursbond, Stichting Lira en de NVJ. Zij eisen transparantie van bigtechbedrijven over hoe zij hun modellen trainen. In het geval van Meta gaat het om de ...",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Anthropic IPO Prospectus Reveals $8 Billion Operating Loss alongside ‘Existential’ Safety Warnings - streamlinefeed.co.ke",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNE1aRWtMQkR1Uzh5aWJ3cm5USmctUkFLdGJBb3QxYm9WRTN1RVdDSnlKUnRGU2VhTUNCNmRlMmxJRGJMWTJMT2k2bVA5bUxOM2ZMMmU0dEhSREMzUjVQOHllSjkyd2RVVEtUSlB1RGlLano1OV9TdnNOUFRDd283LUNKM0E5Y2RSRWtmcmpOVXBPcm1rZ0FiVnl6aXZXaXg4aDhjd1o3QmtVb0tzQUZEZVNR?oc=5",
+   "source": "streamlinefeed.co.ke",
+   "published": "2026-09-29T09:59:57+00:00",
+   "desc": "Anthropic IPO Prospectus Reveals $8 Billion Operating Loss alongside ‘Existential’ Safety Warnings    streamlinefeed.co.ke",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "AI driving up innovation investment: UN",
+   "url": "https://techxplore.com/news/2026-09-ai-investment.html",
+   "source": "",
+   "published": "2026-09-29T09:51:00+00:00",
+   "desc": "Artificial intelligence is fueling a rebound in investment in innovation, with corporate research and development spending reaching record highs, the United Nations said Tuesday.",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "bing"
+  },
+  {
+   "title": "Loft Orbital Joins $1B Space-Based AI Satellite Constellation - konsulteer.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUmdfc1lxRlY2Y3dZUHNRSmdLSGhCSTFNaXpwY0lXa1RFMlgzTlRkOW1hQk9ObkRiMXhkbmdOQ1ZQV1hLdEFkWkhKZUpCNEZOeTF6MjY2Zl9DTEpaYW01RFlXblIwdGtOZm10VkhTdEstUWx3TFJiUUN0em01SEszNHo0c2N3NXMzbk9mTVBUdE9VZDFBMlE5OXhCNmRka3Y1LWszNV9VM1pJYWwwSlVHQkZZTkVYN3Jkb1E?oc=5",
+   "source": "konsulteer.com",
+   "published": "2026-09-29T09:47:18+00:00",
+   "desc": "Loft Orbital Joins $1B Space-Based AI Satellite Constellation    konsulteer.com",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Billionaire CEO Of Europe’s Top AI Firm Says Safety Debate Is A Bid To Hide Rivals’ ‘Negligence’ - Forbes",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZU9yS01rM2JiOVZOLVFweUVrMDNmV3ZaekRXOERhbUdlR0U4MFNZdy1Cakt3R0VuNHlOcVV3a3lwNk9yTVBVTDU3WnJqeGxLdGNUMVMycU1lb29DMWNaSFY3Ry12WG4xV0tnRm1SNm0wRkgzT0NfOHY3R3Vqc2ZxSU9kQVlFMkxvTWVnclRIVGk0ZUxlZFBSNTBVZ1EtWGRxNFlJcURsLXUwemlVa3lfMzZwNXU4SktkaTg2Y2ROVmdsbmlhN3NVRkljQmE4eFQyOHV2YlJVOXFTSWs?oc=5",
+   "source": "Forbes",
+   "published": "2026-09-29T09:46:00+00:00",
+   "desc": "Billionaire CEO Of Europe’s Top AI Firm Says Safety Debate Is A Bid To Hide Rivals’ ‘Negligence’    Forbes",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "5 Big Cancer Advances Redefining Care and Survival - City of Hope",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQUhkdzR4TVBXRDJSS2o2ZkwxSUhBRlh0Q0NGNGllcnRIYkFISVkwSnV4V043a0MyOTNtelF4RGJmd2pjcVlUNE1MX21jUGlPeU5oUU1Nb0FYR2g2UVA5c1dfSkRTb0w3MjZlbWFqbUxJZ2oxekZBRWROS29uN1kxYzBEY2V2Y2R5TmcxRUJrXzNKdw?oc=5",
+   "source": "City of Hope",
+   "published": "2026-09-29T09:35:04+00:00",
+   "desc": "5 Big Cancer Advances Redefining Care and Survival    City of Hope",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "Liquid launches Co-Invest AI trading assistant on Grok, bringing multi-asset trading to xAI’s chatbot",
+   "url": "https://cryptobriefing.com/liquid-co-invest-ai-trading-grok/",
+   "source": "",
+   "published": "2026-09-29T09:32:00+00:00",
+   "desc": "Liquid integrates its Co-Invest AI trading assistant with Grok, enabling users to research and trade stocks, crypto, and more directly through ...",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "bing"
+  },
+  {
+   "title": "‘Het ongeautoriseerde gebruik van teksten voor AI voelt voor mij als plagiaat’: collectieve claim tegen Meta in aantocht – schrijvers eisen zeggenschap over hun teksten",
+   "url": "https://www.parool.nl/amsterdam/het-ongeautoriseerde-gebruik-van-teksten-voor-ai-voelt-voor-mij-als-plagiaat-collectieve-claim-tegen-meta-in-aantocht-schrijvers-eisen-zeggenschap-over-hun-teksten~bf113f28/",
+   "source": "",
+   "published": "2026-09-29T09:23:00+00:00",
+   "desc": "Journalisten, schrijvers en vertalers protesteerden dinsdag bij het Nederlandse hoofdkantoor van Meta tegen het ongeautoriseerde gebruik van auteursrechtelijk beschermde teksten voor het trainen van A ...",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Changwon National University to Develop Defense AI Talent With 17.7 Billion Won Funding ... Only Southeast Region University Selected - 아시아경제",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xaFFWalhWU05RMF9QOVZmZEZsa0VyOHJrOXF1VTZNZkNqa05sbm54em00OVNybmZPbVlTcmd4a2ZlTG14eTM1ZkVHaG9hNUU1U2hUNDdVY19UaW0tRWpBcEZvTFZrZll1b1ZsNXJuUWM?oc=5",
+   "source": "아시아경제",
+   "published": "2026-09-29T09:13:18+00:00",
+   "desc": "Changwon National University to Develop Defense AI Talent With 17.7 Billion Won Funding ... Only Southeast Region University Selected    아시아경제",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "gnews"
+  },
+  {
+   "title": "Mistral CEO Slams AI Safety Debate as Cover for Rivals' Failures - The Tech Buzz",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEtTOXN4T2FMSDVaV2JyMUlIUWplZTRqT2lYWEdTQ0dfM1NYQlcybDktZ1lESFZZUWRuX2Z4M1dDcTNndlprTXFTRGt4N1dwQnhlUXVhT2JxYVFFckZnMy1UbGlJTTFxd05pY2pEYWlvSWtDNHN4elRPOEstYXhHbzk5V2FXemc1ZF82R3F0WGJYSGVuQjlia0xiRjU?oc=5",
+   "source": "The Tech Buzz",
+   "published": "2026-09-29T09:06:00+00:00",
+   "desc": "Mistral CEO Slams AI Safety Debate as Cover for Rivals' Failures    The Tech Buzz",
+   "org_key": "mistral",
+   "org": "Mistral AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "xAI推出Team Bots：能跟团队一起学、一起干的Grok智能体， 24 小时帮保险公司挽回 12 万美元",
+   "url": "https://www.sohu.com/a/1082312140_362225",
+   "source": "",
+   "published": "2026-09-29T09:03:00+00:00",
+   "desc": "xAI 把 AI 同事这个概念往前推了一步。9月28日，它正式端出 Team Bots——一种能与整个团队并肩工作、还能跟着团队一起学习的 Grok 智能体。给它授予所需的文件、应用和专业知识的访问权限，再把它共享出去，所有人就能基于同一套上下文一起干活，而每个人跟它的私聊仍锁在各自抽屉里。 每个 Team Bot 都围着团队共有的角色或工作流长出来，内核是四块能力拼起来的。上下文喂给它相关文件、 ...",
+   "org_key": "xai",
+   "org": "xAI (Grok)",
+   "origin": "bing"
+  },
+  {
+   "title": "Trump to host summit with top AI leaders in Washington",
+   "url": "https://www.msn.com/en-us/news/other/trump-to-host-summit-with-top-ai-leaders-in-washington/ar-AA2db9Z2",
+   "source": "",
+   "published": "2026-09-29T09:03:00+00:00",
+   "desc": "The president has been skeptical of guardrails on artificial intelligence, wanting to stay ahead of China. He’ll also launch an AI-powered website, America.gov, on Tuesday.",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "bing"
+  },
+  {
+   "title": "Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting - MarkTechPost",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbUJzcDVlb1Rsa1pSLUV2V2szWG80Z0NMTGpkcGVjeS1KbXQ1ZUpzR0s5VTg5S0NsOTJYYzBpX2tIdWoxOE0zdmtsWVYyX3FnVTdLQ3d6bmJpTDdJUUt6R3BoWnVRdk4zU09SZTc0aUdmVklENnFNWWRDNXRWYVVpM2hPVEJ0X0FrMUs2RmlHM080UzVHdTdXR1dSUHVDNm5tY1daanF6dmVLM0pEajI0NE43akotZkQ1T1dwRTNJUTZpTFprRVJuQVhRZ01TVUpG0gHWAUFVX3lxTE9FZFpfb3JBeHAzLVlfRjI5Z3FkU0w2UnZ1eHRad00wVTZKc3djSU9SM3BXQnhCWFhQNTlxTzVrRnZnXzQ5MVBFNFE2ZFpaRy05anJqaXZpSFhxS192V3BsMTlhUmJxLTU3alE0MWZOblNSb1B2VHFYMXFsQTgtME1BNTN1ZmxZNGlnTEtKWGpDRkpiblREeUNvbWRkZnNKbFpUS2hPanVDNEQ0WmZiMlRQYTBlRE5YTWF3SjdjTWk4dDlOS1JJUW5DbDgyd1hLSmp6S3ZlRWc?oc=5",
+   "source": "MarkTechPost",
+   "published": "2026-09-29T09:01:36+00:00",
+   "desc": "Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting    MarkTechPost",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "¿Qué es la automejora recursiva en la IA?",
+   "url": "https://www.tvn.cl/exponencial/noticias/que-es-la-automejora-recursiva-en-la-ia",
+   "source": "",
+   "published": "2026-09-29T08:52:00+00:00",
+   "desc": "Mientras firmas como OpenAI y Anthropic exploran el potencial de la automejora recursiva, señales tempranas en Google DeepMind intensifican el debate sobre la velocidad del sector y la seguridad globa ...",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "bing"
+  },
+  {
+   "title": "Meta hires MongoDB CEO CJ Desai for enterprise AI push; Llama's role unclear - TechGig",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3FrT0hVNVItRTQ5elYzQUZOMlptbG54akxEdjYzZlN0WHpvTWM1bHFsT29GNE9lTXYwWGNwWkRVdVlfeG1ieVN0VXdEZWZXeWdqdmpKclpfVTdhOW1GUk5DU295amVKcWRBZDAtaHVScnptUnhXS2o2SEN6SFZOYU9qckNVZDRfRXViNmItSzIxZWgwVkRRVE03bGZKTXVIQzgxa244aDJWNXNkSWxvUUt30gG3AUFVX3lxTE9nUWUwY3phYnNaRnR3LVowZ2RPZFN0SHB2ZWNFREF2Qk53aGRKS3ExMmwwNGtRb19hd29ILVBrVzNPQ0NzXzIxTFpERE1iTTFaenM5ckNISkZ1bUt5c2ZEeVg3LUNjajF2ZW9UaFRramd1RDZER3hIdnZiZGVoNGhMZWZqUDJQR0NQYlBvTlFJOGg1Y1BWcXMxNXp6Tjc3U2J4YXR2Sk8xamgyOVo0R09XcmVfT0lnQQ?oc=5",
+   "source": "TechGig",
+   "published": "2026-09-29T08:32:21+00:00",
+   "desc": "Meta hires MongoDB CEO CJ Desai for enterprise AI push; Llama's role unclear    TechGig",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Google expands R&D footprint in Singapore, scaling teams and upskilling programmes - Singapore Economic Development Board (EDB)",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPanNka0ZXQXBXSnIyQkd5WnM0X3I2VmZrcTJaVzBCcWxJNHU2emVFYWh3ZVlwbTRkVFVVY2w5dmJ4VXZVTWtvTTlvaVo2T3N2YjNsbWFaejlZYmdULXhjazFiQU5fc3FES1ZycjlIV1F3V0VQLXZ2U2pSREJ0VDZ0U0I4VmNVRkpRZjJSYXhNal95bWlsV3FDSHpOcHpTQm5SVldOWjRiS2RaanNrbkRqZGdQRUptMVEyaFBLRF8tMTV3bW8?oc=5",
+   "source": "Singapore Economic Development Board (EDB)",
+   "published": "2026-09-29T08:29:23+00:00",
+   "desc": "Google expands R&D footprint in Singapore, scaling teams and upskilling programmes    Singapore Economic Development Board (EDB)",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "Google Is Killing Gems, 'Skills' Replaces It in the Gemini App This November - Windows Report",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ0lzTjlXTWxiUmJIVGtUbG1uZE1mVEl4bVlrWkVTM205bTNYSVpDODYtZ29DMFF6ZWhYeFVKXzFBR3ZpS2hhT0FLUFBta2k4RE9HT1BGbUpBSHRtakpmYzVFUkNmWXRsRTU2RTFhVnBZRkUtWl93SlpscUF5djRNNkNtdy1TSHd4ZzdZWGoxVUFzVnhuTm9zREJEdHgxYUZj?oc=5",
+   "source": "Windows Report",
+   "published": "2026-09-29T08:02:37+00:00",
+   "desc": "Google Is Killing Gems, 'Skills' Replaces It in the Gemini App This November    Windows Report",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI Halts New AI Model Due To Safety Concerns - Newsradio 95 WXTK",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFNmTjJDVHJucnU2VGhLNlJ1YUNtSmFVZW56c09rMmQxeklYenp5VlZveDFNREdfUWRSaks4TkNaaHRiN0ZOczgxNE80cFFyRThBOXdISTJBak9WUk1CVnV6TEdVMDc5VDNwWnZnMmh0Ym9iOERZRmNmY01NQ2trVlg1NkJWbXZscm40VjBteUNPT0hxaWN6TjZn?oc=5",
+   "source": "Newsradio 95 WXTK",
+   "published": "2026-09-29T08:00:57+00:00",
+   "desc": "OpenAI Halts New AI Model Due To Safety Concerns    Newsradio 95 WXTK",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "TS Newswire Expands Press Release Distribution With Access to 1,500+ Vetted Publishers",
+   "url": "https://www.usatoday.com/press-release/story/45047/ts-newswire-expands-press-release-distribution-with-access-to-1500-vetted-publishers/",
+   "source": "",
+   "published": "2026-09-29T07:59:00+00:00",
+   "desc": "Newswire operating since 2020 now lets crypto, iGaming, fintech, healthcare, and SaaS companies pair targeted distribution with premium placements through the TS Vive Media marketplace Since 2020, TS ...",
+   "org_key": "industry",
+   "org": "Industry",
+   "origin": "bing"
+  },
+  {
+   "title": "Kodiak Sciences Stock Soars as Trial Data Boosts Market Confidence - NAI500",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSTJmc1FnLUVSQzAxOFlFUFlZZnJIbFVFbnlDNzB6WlBHak5rRnpha1p0NWF1VkxIbEthOHN6eWk1NWotNXlCMHdhV3pLTzVFekczajQ0RndLeWRNbnFqd1JhQnVwaWVaTndaOTFOa0x0SUJqMHdNSEVHWHF4d0t1LWlGY1lvRTZqTVZlY0lNN3FsajNUTXVpdGY4U3lyOE5U?oc=5",
+   "source": "NAI500",
+   "published": "2026-09-29T07:08:18+00:00",
+   "desc": "Kodiak Sciences Stock Soars as Trial Data Boosts Market Confidence    NAI500",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "Leaked Gemini 4 Pro benchmarks top GPT-6 Astra and Claude Opus 5.5 - Dealroom.co",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjAyZS1TSmFBdi1xajA1dVVUTk84ODJPNk15cFNuU0E0Y1ZydEJBeTZONXNjdG9MX2MxbnBxV3hOZURoRzRuYk54M2M0LThxd2JhNmppcWNDZUFiR1pxTVFrS0lBaUZ1TUxvbGF6ZnZzNmszdFpJWnRkNjBRLVprWDRIcXRpMkdCZFRZcGxDdmpkd0JZWHNBbVlIa3dzdWZZUXc?oc=5",
+   "source": "Dealroom.co",
+   "published": "2026-09-29T07:03:48+00:00",
+   "desc": "Leaked Gemini 4 Pro benchmarks top GPT-6 Astra and Claude Opus 5.5    Dealroom.co",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "America’s Credit Unions endorses Nquiry, Ncontracts’ Compliance AI Agent",
+   "url": "https://finance.yahoo.com/technology/ai/articles/america-credit-unions-endorses-nquiry-140000757.html",
+   "source": "",
+   "published": "2026-09-29T07:00:00+00:00",
+   "desc": "Ncontracts, the leading provider of integrated risk, compliance, and vendor management solutions to the financial services industry, announced today that America’s Credit Unions is endorsing Nquiry, ...",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "bing"
+  },
+  {
+   "title": "Meta launches new AI model as Zuckerberg champions open-weight push - DD News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXhIZUZ0RDI4LWYtZHVjV1dDRkMyaGc2V2c3c0ptUFRzWTd6VEVjRXhTam12XzV3ZXJRekNkZFRvVVBjNEJZRnBEZTFQbEMxNGk1Mk0tY2kyMGQyZURxTXQzZENSVDZyc25nLXlPVGtWVS1BTGJTZEF5ZEd3eE02MEl6cHJ2emh0MWZWemZYTnVXbUlJaVFVRw?oc=5",
+   "source": "DD News",
+   "published": "2026-09-29T06:49:14+00:00",
+   "desc": "Meta launches new AI model as Zuckerberg champions open-weight push    DD News",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "FM Khanal urges action on racism, AI bias at UN meeting - The Himalayan Times",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NOFg3V0F5Q2R6YTFTaFFQWC1MS3ZVMXhOSFE2VnJ4NkN2Y3U5aEJKbEtmaEhnUW41MDVZeng5ekpUSnBNRzloOXRjUGJUNWl1bHpvSFBGMW9XYWtr0gFcQVVfeXFMTU04WDdXQXlDZHphMVNoUVBYLUxLdlUxeE5IUTZWcng2Q3ZjdTloQkpsS2ZoSGdRbjUwNVl6eDl6SlRKcE1HOWg5dGNQYlQ1aXVsem9IUEYxb1dha2s?oc=5",
+   "source": "The Himalayan Times",
+   "published": "2026-09-29T06:44:37+00:00",
+   "desc": "FM Khanal urges action on racism, AI bias at UN meeting    The Himalayan Times",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "IBM, Yotta generally launch sovereign AI platform for Indian firms - Indiatimes",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMVotMldCYWpoeDBVcGVnbG0zNXZiZlpzdjdVNU1JZl9fT0FJZl84ODU0U0YwTng4NWFFd05JTnNYdF9fSHFnQVV0dmJIMWdCSzVJWDNIdDJDdmg2TVY1MkN3SENHTXp2VnNDWDN1Y2NvRDRzMFBOd212WUl6XzVuVUJKbG5MOTNDQ2ttcTBaSW9ncFMzSnd2WHA5cnV1aEIwdVlvN0w3aThSOGhXWU1yN2xfQXA1MkRvaEZtX19aaE1PbkkwenJwRmk2Q2FNXzBaUnllN2VjWUNabklhcmfSAeMBQVVfeXFMT2RVTkJJRFByWUZSNHZYMzB4dnBWdVhIOGJReU4zQU5wQVgycC1IeEE4S3lqMG5GcWc2WVhpUmNnSjQzMTlKLXZVbGJqUFM1UWdQMHEwcXdTYXlHZ1kzazhXbDkyTnZfdjRVTXpmTnBvQ1I1UUpmdy1SeXRnQ1d3ajlWTzZZbVFLQVU2MEVpTGlXc18tV1hkOUJ0c0VWMm9HbXI3azBuRzRPaU1mRi1JYzhfa3FTS1hhdmpwaXVIYURaTWRjVmxWS3BPTDdQY0xQdXBMSVZSY09kak9sS0VaVUZ5Y2c?oc=5",
+   "source": "Indiatimes",
+   "published": "2026-09-29T06:08:17+00:00",
+   "desc": "IBM, Yotta generally launch sovereign AI platform for Indian firms    Indiatimes",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Any State Can Make AI Safety Cooperation Legal",
+   "url": "https://www.justsecurity.org/158956/any-state-ai-safety-cooperation-legal/",
+   "source": "",
+   "published": "2026-09-29T06:04:00+00:00",
+   "desc": "State governments have the authority to allow AI companies to coordinate on safety measures without running afoul of federal antitrust laws.",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "bing"
+  },
+  {
+   "title": "Polyfork Wins $500,000 Build with Gemini XPRIZE Grand Prize - The Trumpet Newspaper Nigeria",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd3VHQmdUU3I3a0lqRDRSWUtPX3p2ZXJhUXJpaWcwaERJVTcwNU5hYURYR0swNEU0bEw2TU9ZQURwMjk1a3FCeXU4VFZzQmEybWZVWHZlYTNkVllKcms4amNZQks1UDBscldjbUJWT3lBenNOZ2tONm95U2pLcHVyRENjVFo1MHM?oc=5",
+   "source": "The Trumpet Newspaper Nigeria",
+   "published": "2026-09-29T06:00:42+00:00",
+   "desc": "Polyfork Wins $500,000 Build with Gemini XPRIZE Grand Prize    The Trumpet Newspaper Nigeria",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "Pope Leo Challenges Nvidia CEO Jensen Huang Over AI Safety Concerns",
+   "url": "https://coincentral.com/pope-leo-challenges-nvidia-ceo-jensen-huang-over-ai-safety-concerns/",
+   "source": "",
+   "published": "2026-09-29T05:50:00+00:00",
+   "desc": "Pope Leo says AI danger fears are not \"fake news\" and challenges Nvidia CEO Jensen Huang's opposition to new AI regulation.",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "bing"
+  },
+  {
+   "title": "U.S. Lawmaker Pushes Ban on Self-Improving AI, New Agency - 조선일보",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSVc5OFpydGQwS1N6UjBhMjNuZVhHcDNBNDF2OG0taWpHcHJqek43cWJpdmQzNVh3aS1YMmQ1NEhhVTdVd3NrSTQwTU5mTE1VY2hHZVRWZVJ0WDlpWU5FZjF4M29fQ2trcDY2UW1QbUlXSnc1MVExQUdadUFoOV90dTlPeERQbWwy?oc=5",
+   "source": "조선일보",
+   "published": "2026-09-29T05:49:38+00:00",
+   "desc": "U.S. Lawmaker Pushes Ban on Self-Improving AI, New Agency    조선일보",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "EmDash 1.0 Challenges WordPress Freedom With Cloudflare Lock-In",
+   "url": "https://www.searchenginejournal.com/emdash-1-0-challenges-wordpress-freedom-with-cloudflare-lock-in/591378/",
+   "source": "",
+   "published": "2026-09-29T05:17:00+00:00",
+   "desc": "EmDash 1.0 is a modern alternative to WordPress, but its features trap users into Cloudflare's infrastructure.",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Is AI above the law? Historian Jill Lepore says it is",
+   "url": "https://www.wbur.org/hereandnow/2026/09/29/ai-regulation-jill-lepore",
+   "source": "",
+   "published": "2026-09-29T05:03:00+00:00",
+   "desc": "Artificial intelligence agents, or bots as they're often called, have gone rogue lately, escaping the virtual boundaries that were supposed to prevent them from accessing data, finding one another ...",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "bing"
+  },
+  {
+   "title": "Alibaba Qwen Releases Qwen-Audio-3.1-Realtime: A Full-Duplex Voice Model Trained to Think, Act, and Decide When to Speak - MarkTechPost",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcjJjREI5UjZYRjNoX1hTNmJ3SEwtSE9zOW5RZW9Wb3oybUJVY1E0WUIxLWtOU3M5c1NJdl9sa1A2WENGWkxYWlIwSnNQZVE1VFFnd295dlhGdVlpNjg3MlV5czZSUkN0cFhPMzNHMDdvaDFIZlBJMXp4Q0RJZVh1aEFxZzJHS3lZT2RILXdsSVIyUG82TzBFWXVWY3RmaHN4V01odEFReWN1bEFKZmtZVFhtTTZMYURuS2hMWVhGTDk2U3JGZXRpZ1hfSVFYTjVqSURUd1ZUN0I0UnZhYmxrUjdrSkJpcG5YcDhKeHFWVdIB9AFBVV95cUxQRXYwX3VVRUo4TUFqNGkzNWZvS0JHemFpVVAxNmJxTjVkSmlRQWpBSm1QT3Y4eDNhUUJkZ1dnZEU4UUl4LVBNekZRT2dlMGI0V3lyc3Z0VUJZX0FvSnpjZXJiX3VrcGI2cFMtNHJfSndITUhYT0JDUTU3cnlnbW9iQUx1MjBQQ3dEeXdmUzgzck9oMnZkYmdVSDFHd1ZBWXRibmlGVjk3Z1Bld2FSVEdjemRUUWFuSkFGSE5fQVdRQk9KSFgwbGNla1FjUWhTMGY5ZldMRUk3djVrczNEd0w1cGFVVFltejA0SmJVN19TTTROMXhy?oc=5",
+   "source": "MarkTechPost",
+   "published": "2026-09-29T04:58:15+00:00",
+   "desc": "Alibaba Qwen Releases Qwen-Audio-3.1-Realtime: A Full-Duplex Voice Model Trained to Think, Act, and Decide When to Speak    MarkTechPost",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Attorney General Todd Blanche Rejects New AI Laws: 'We Don't Need It'",
+   "url": "https://townhall.com/news/jeff-charles/2026/09/29/attorney-general-todd-blanche-rejects-new-ai-laws-we-dont-need-it-n2683753",
+   "source": "",
+   "published": "2026-09-29T04:45:00+00:00",
+   "desc": "Attorney General Todd Blanche said on Sunday that the federal government does not need to pass new artificial intelligence laws after reports that rogue AI programs targeted government websites.",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "bing"
+  },
+  {
+   "title": "Will AI Become a Commodity? A World Where the Price of 'Intelligence' Keeps Falling",
+   "url": "https://note.com/orders_obs/n/n0315fb3dc6ac?hl=en",
+   "source": "",
+   "published": "2026-09-29T04:29:00+00:00",
+   "desc": "When researching AI, there is something strange.Every time a new AI is released,“the most high-performance yet”“even smarter”news reports claim it is.In fact, AI capabilities are still growing.However ...",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Gemini 4 Pro Leaks: Wild Benchmark Scores and Low Pricing Disrupt AI Race - nokiapoweruser.com",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CV256a2Q5ZjJaanhhRFVLdU8wREZQU1BqNXZYZk9aX0pfeWMxcDM3ZWZ2MmxLZ2Z3U3JwMF9BT201b0UwM1BNQUtaaFNUYWtiV0hIYmltVk9NZ1ZpMjQwbmlNQk5YSTFjaHktU01jYUxNLVRj?oc=5",
+   "source": "nokiapoweruser.com",
+   "published": "2026-09-29T04:26:59+00:00",
+   "desc": "Gemini 4 Pro Leaks: Wild Benchmark Scores and Low Pricing Disrupt AI Race    nokiapoweruser.com",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "New Innovation Is Required to Fund AI’s $6 Trillion Buildout - Bain",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmNJSUUwWlduc2VTOEpYdnhJcDVtN3BjbXpKN3gtMzdYOVVGbkpmVUlPelR6aERSNkhmbHBSdVdEaWxqV3Npd3VyVktsWkI5UERQbEFOc1NZQjZEVmoyVEdBdjNjaDkydW9DSWtyU0lFLUIzUHFXZVhrQVRZRTNIOFQ1YU1CVE42SW5Sb3huaHNUUk0zZ0FBanpYV0pWME9OWTJKNHNldEJPaDZ1SmZEN0RB?oc=5",
+   "source": "Bain",
+   "published": "2026-09-29T04:21:49+00:00",
+   "desc": "New Innovation Is Required to Fund AI’s $6 Trillion Buildout    Bain",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "gnews"
+  },
+  {
+   "title": "Meta Is Giving the Government Free AI-Here's the $92 Billion Bet Behind It",
+   "url": "https://www.ainvest.com/news/meta-giving-government-free-ai-92-billion-bet-2609/",
+   "source": "",
+   "published": "2026-09-29T04:14:00+00:00",
+   "desc": "- Meta META -- offers free Llama AI models to U.S. federal agencies via GSA, bypassing traditional contracts to establish open-source dominance. - Strategic move aims to embed Llama in defense, ...",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "How Demis Hassabis, the CEO of Google DeepMind, is Advancing AI Through Scientific Discovery",
+   "url": "https://www.analyticsinsight.net/people/how-demis-hassabis-the-ceo-of-google-deepmind-is-advancing-ai-through-scientific-discovery",
+   "source": "",
+   "published": "2026-09-29T04:06:00+00:00",
+   "desc": "AlphaGenome gives researchers a new way to study the effects of billions of possible DNA variants.Co-Scientist uses Gemini-based AI agents ...",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "bing"
+  },
+  {
+   "title": "Michigan researchers make breakthrough that could advance lake sturgeon conservation efforts",
+   "url": "https://www.mlive.com/environment/2026/09/michigan-researchers-make-breakthrough-that-could-advance-lake-sturgeon-conservation-efforts.html",
+   "source": "",
+   "published": "2026-09-29T04:03:00+00:00",
+   "desc": "Researchers at Lake Superior State University have developed a more reliable method for determining the sex of lake sturgeon.",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "bing"
+  },
+  {
+   "title": "Council of Europe head revives Biden-backed framework for AI regulation",
+   "url": "https://thehill.com/policy/international/6116016-council-europe-ai-framework/",
+   "source": "",
+   "published": "2026-09-29T04:00:00+00:00",
+   "desc": "The Biden administration and a number of countries in Europe have endorsed a framework for AI regulation that respects human rights, democracy and the rule of law, but it is generally unheard of ...",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "bing"
+  },
+  {
+   "title": "Oura Competitors: Samsung, Apple and the Smart Ring Market - MEXC",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXYyMnRlbHJUckdlN0tGcElUWTc5NXlNbVBkRWxwMjZHRnlkbDRYNEdrUDJjcEdLRnNGS2xrRUZ2bjVHWGg5Uk5rSjBSa3BKOTczWjZZOGdoa2tRdklIWmtwck41TmJpdk9nb3M0UVpTQ05SUDRTRnBwRkN1ZjRtb08tX1c2OHh6bDRFcVVqeFVuUXlOTlpiMA?oc=5",
+   "source": "MEXC",
+   "published": "2026-09-29T03:46:34+00:00",
+   "desc": "Oura Competitors: Samsung, Apple and the Smart Ring Market    MEXC",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Thailand moves carefully with AI regulation as US tech warns over key provisions hindering investment - Thai Examiner",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWm1PZnNSRmkzbUtmSTJvaTkwSzRzRE9EMHR2WHgxQnN5QTFRVFl1akhZcTlmRUZ5NDB5RjlaWlByOWVWUmlBS05ZVkc0OGZ1eFdrUGN5SUVWNTdFTExPMXNuSkk3RWRGZTNHSXd0ZEFjNl9aQ0l3SG1nSnE5MzBVVFpscVh2SWxwUVdUZ0t2czZzQVp4Wm4td1NLUC1fcFFiWmFXa2tvMW82YUNabHhSeHBuM1U3dS0wYWxkUTJJdmxDd1ZKcFhfVWxCT3IwclZBcERpMEN1S3UyWFEtbW1nV1dKQklueWZlcEw3VGR1b0ZmRWNGTVE?oc=5",
+   "source": "Thai Examiner",
+   "published": "2026-09-29T03:26:35+00:00",
+   "desc": "Thailand moves carefully with AI regulation as US tech warns over key provisions hindering investment    Thai Examiner",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI has withdrawn the public release of 'GPT-6.1 Astra' because it does not meet safety standards. - gigazine.net",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcElWMlFDU0RROWh6Mll4ODFyd1RfeWxWR2V6MndRMUlqMzhoSDRZZ1o1Y3E5aF9USzcxVE1RRFcwRHZobEh6UVQzd0hBUGtIYWx0RU13M2oyT1FXNzB6Z0ZBMklmUUFSN2ZvcmgtZ1Etb3hKZ0FDTk5Gd3ZpcF9IMzVCUEtDOXNYTTdMRmJrOVU?oc=5",
+   "source": "gigazine.net",
+   "published": "2026-09-29T03:26:00+00:00",
+   "desc": "OpenAI has withdrawn the public release of 'GPT-6.1 Astra' because it does not meet safety standards.    gigazine.net",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "OpenAI cancels release of AI model after it shows deceptive behaviour",
+   "url": "https://www.yahoo.com/news/us/articles/openai-cancels-release-ai-model-100326559.html",
+   "source": "",
+   "published": "2026-09-29T03:02:00+00:00",
+   "desc": "OpenAI has scrapped the launch of a new artificial intelligence (AI) model shortly before its planned release amid concerns it could take actions without permission and mislead users about them.",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Beyond AI: China bets on quantum, chips and fusion in five year tech plan",
+   "url": "https://www.business-standard.com/technology/artificial-intelligence/beyond-ai-china-bets-on-quantum-chips-and-fusion-in-five-year-tech-plan-126092900659_1.html",
+   "source": "",
+   "published": "2026-09-29T02:36:00+00:00",
+   "desc": "China's 2026-30 technology strategy puts AI alongside semiconductors, quantum technology, biotechnology, brain-computer interfaces and fusion as Beijing pursues greater technological self-reliance ...",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "bing"
+  },
+  {
+   "title": "Snoop-and-scoop poses a real threat to science in the AI age",
+   "url": "https://www.ft.com/content/dd502d68-9959-4c62-bbb2-ec590f253f28?syn-25a6b1a6=1",
+   "source": "",
+   "published": "2026-09-29T02:33:00+00:00",
+   "desc": "The episode follows the controversy about an OpenAI breakthrough on a famous mathematical problem, the Navier-Stokes theorem. New York University mathematician Tristan Buckmaster claimed that the ...",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "bing"
+  },
+  {
+   "title": "Nvidia launches OpenShell and Sentry to stop AI agents acting outside their limits",
+   "url": "https://tech-ish.com/2026/09/29/nvidia-launches-openshell-and-sentry-to-stop-ai-agents-acting-outside-their-limits/",
+   "source": "",
+   "published": "2026-09-29T02:31:00+00:00",
+   "desc": "Nvidia's new agent safety tools include free OpenShell software and Sentry, a monitor that runs on BlueField-4 chips and has no price.",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "bing"
+  },
+  {
+   "title": "AI regulation: Resistance movement",
+   "url": "https://www.lawgazette.co.uk/features/ai-regulation-resistance-movement/5128017.article",
+   "source": "",
+   "published": "2026-09-29T02:27:00+00:00",
+   "desc": "Humanity is in a funk about the seemingly species-threatening dangers of artificial intelligence, reports Catherine Baksi. Lawyers have a vital role to play in reining IT in.",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "bing"
+  },
+  {
+   "title": "Butterfly Effect Launches Manus2.0: Costs Drop by 30%, Agents Can Also Team Up for Work - AIBase",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iYlZRODRrdjloVXpHcEdERDY3dlJUVWxwbGhncVJ6UWg5Nmd6QXotb0xNUkNtMHR3NFl5Z04zNHNDbnlmcEUyMk1n?oc=5",
+   "source": "AIBase",
+   "published": "2026-09-29T02:19:50+00:00",
+   "desc": "Butterfly Effect Launches Manus2.0: Costs Drop by 30%, Agents Can Also Team Up for Work    AIBase",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "KAYTUS stellt AI Managed Service für Rechenzentren vor",
+   "url": "https://www.sharewise.com/de/news_articles/KAYTUS_stellt_AI_Managed_Service_fuer_Rechenzentren_vor_GlobeNewswire_20260929_1117",
+   "source": "",
+   "published": "2026-09-29T02:17:00+00:00",
+   "desc": "Der OEM-Vor-Ort-Support von KAYTUS verkürzt die Hardware-Wiederherstellungszeit um mehr als 30 % und ermöglicht Reparaturen in weniger als vier Stunden SINGAPUR, Sept. 29, 2026 (GLOBE NEWSWIRE) ...",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Trust Is Earned - Americans Must Demand It from AI",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/trust-is-earned-americans-must-demand-it-from-ai/ar-AA2dbVU8",
+   "source": "Americans Must Demand It from AI",
+   "published": "2026-09-29T02:04:53+00:00",
+   "desc": "Trust Is Earned - Americans Must Demand It from AI ...",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Opus 5.5 solves 56% of internal research tasks, and companies are rewriting their AI research automation promises",
+   "url": "https://note.com/brainy_dog4676/n/n01b0cf89038c?hl=en",
+   "source": "",
+   "published": "2026-09-29T02:01:00+00:00",
+   "desc": "Source: AI Explained Published: 2026-09-24 / 32 minutes / 254,000 views Featured: AI Explained host (who mentions in his own words that he wrote a paper on recursive self-improvement in May 2023 and ...",
+   "org_key": "research",
+   "org": "Research",
+   "origin": "bing"
+  },
+  {
+   "title": "PixAI Releases Tsubaki.3 and Publishes Technical Report on Preserving Style Diversity in AI-Generated Anime - Kitsap Sun",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQV21TUnFFNjRHY3I2aG5FV3ZIekxFYmhhRjdJWWh0NDFrSlZBSk81bkNLTkt1WHVMMXNmMWJfamZUY1hTNjVkSEVmbXlHZmtoRWFtX01yN2RrOVpkd01DbEhVSlJlM0lBeU5jNWVkeU82NWxUT1hZdGhwWUNxUS00YU1pWDBjd2xnZ3FTNTFWeVV3OTBTVXhya3J5RVFYNVVGakRId25jRzZLTmRxUXZfWVBwazBtcnMwdXc5S09HSkFkOEZQd3dJbmJFSHdCbmx3UU1LNVRHaFU2QzVpLWlDcXhSVmVqa05LN3lqZjhZd0ZhQjg?oc=5",
+   "source": "Kitsap Sun",
+   "published": "2026-09-29T01:27:56+00:00",
+   "desc": "PixAI Releases Tsubaki.3 and Publishes Technical Report on Preserving Style Diversity in AI-Generated Anime    Kitsap Sun",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Athena open-source defense coalition releases first ‘silent’ vulnerabilities - sdtimes.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUjU3SFg5dHp1MGI3blZqX3hyRGlZeEhTSWZsYVF5YWlOd3J5SVdQUzdZRzkwWU5DZEpVOURHWlJYZERYVUh3VFZNMnNNYVlkYzJVdWgteDBDb1pzOVRqTHVUU2NfelRGMW92dzFGSHg1aTdFdjVMcDdxZUNPLWJETTBOMkg4WFdlYTJjMUlMTFZLZm1wd3doTWR6OE40ZGJzR3VVNjgzRnF5MU0?oc=5",
+   "source": "sdtimes.com",
+   "published": "2026-09-29T01:13:57+00:00",
+   "desc": "Athena open-source defense coalition releases first ‘silent’ vulnerabilities    sdtimes.com",
+   "org_key": "opensource",
+   "org": "Open Source AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "Avec Muse, Meta tient-il enfin son premier hit ?",
+   "url": "https://www.blogdumoderateur.com/muse-meta-premier-hit/",
+   "source": "",
+   "published": "2026-09-29T01:05:00+00:00",
+   "desc": "Lancé le 8 septembre aux États-Unis, cet agent IA conçu pour le grand public a déjà été téléchargé plus de 3 millions de fois. Le pari de la simplicité serait-il en train de porter ses fruits ?",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "[AI Oogiri #01] The First Chiki-Chiki! LLM Brother Comedy Battle ~The Exhaust Fan Screamed Beyond Its Limits!?~",
+   "url": "https://note.com/minami_ak/n/n2cd47feb4909?hl=en",
+   "source": "",
+   "published": "2026-09-29T00:05:00+00:00",
+   "desc": "Chiki! LLM Brother Comedy Battle’!! Serving as your host is the eldest brother, Gemini, backed by the overwhelming power of the cloud!Today’s stage is my home gaming PC (6GB VRAM), where the exhaust ...",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "We Gave $2M To The AI Startup That Could Help The Most People | MOONSHOTS Live｜Peter Diamandis - finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WV3V1eU5ISGlxZTdjYmxWOXN3dndTQkFqU1JLR2I1bV9SREpMdmFZdi1naFFmOV9FZ0gzYnJIbklMckpJZjhUMHAzRWNydVFJd09qMERvakpFZVlkWFlz?oc=5",
+   "source": "finance.biggo.com",
+   "published": "2026-09-28T22:22:58+00:00",
+   "desc": "We Gave $2M To The AI Startup That Could Help The Most People | MOONSHOTS Live｜Peter Diamandis    finance.biggo.com",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "Cathie Wood Says AI Makes Solo Entrepreneurship a \"Call Option\" on the Future - finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4c3MxVGNrWmlrNUMzVW9ZYkNBVGZyNks1NmdrRWNXaTFvNFZvSlZ4NUVUUWhUUUxfYWhRdGdFVkV6SjJWWjdQNmwxem8zcTh6R0l6bVBzWXk3OGc?oc=5",
+   "source": "finance.biggo.com",
+   "published": "2026-09-28T22:08:00+00:00",
+   "desc": "Cathie Wood Says AI Makes Solo Entrepreneurship a \"Call Option\" on the Future    finance.biggo.com",
+   "org_key": "google",
+   "org": "Google DeepMind",
+   "origin": "gnews"
+  },
+  {
+   "title": "Meta Platforms: Ignore The CapEx Fears, Buy The Hidden Ecosystem (NASDAQ:META) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDV5QlFPdlU4SWNOQ0ZwUzUwOTE5SG1xVVlpU0dGYnUtVmpHR21saVk5MXl3NFVFbDhBNU1lNGcyYmxZekxRcERqTnV6ek42VVBITFNFNUpySUtzVUFsUHEwY25DNmo2dUJUU0NoN3dnWF94X29UU25HSXpfbE5fbUZqZ0NTVnhHMHY3czQtNG1tUWRZaFNXMDFKRmJhaXdJeDhldW9R?oc=5",
+   "source": "Seeking Alpha",
+   "published": "2026-09-28T21:32:26+00:00",
+   "desc": "Meta Platforms: Ignore The CapEx Fears, Buy The Hidden Ecosystem (NASDAQ:META)    Seeking Alpha",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "gnews"
+  },
+  {
+   "title": "AI ads are popular in the 2026 midterms, but state laws haven’t stopped a lack of disclosure - Sentinel Colorado",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRTBoVko3Y0lYVzdpRHZhQTRaWkM2Y3VZT0JoQnpGaUVEajNWQVNoWGhOT0wzb2tMMmVtLVRkenhUU3U0NFMzejlJRUtRdWI3Xy1hSDZKTV9DX1p0aVBick84NlNnd2FndUdZT1lVOEt1R3U4MmNyNU5tbTNrNmRrYkxqYURKSnpBYzNCa0gxX0ExcWdhNE5Uc3g5OWZFTmRkeWNEalBGNEdDcHdhdVhhdllydEd0Uk5hR3pYaVJFMkJ6VTF0ZXlBNGtibXRmRGc?oc=5",
+   "source": "Sentinel Colorado",
+   "published": "2026-09-28T20:49:31+00:00",
+   "desc": "AI ads are popular in the 2026 midterms, but state laws haven’t stopped a lack of disclosure    Sentinel Colorado",
+   "org_key": "policy",
+   "org": "Policy & Regulation",
+   "origin": "gnews"
+  },
+  {
+   "title": "Meta没能留下Manus，于是自己造了一个_Muse_Agent_Bar",
+   "url": "https://www.sohu.com/a/1082323853_400678",
+   "source": "",
+   "published": "2026-09-28T20:46:00+00:00",
+   "desc": "“Muse上线不到两周，就冲上美国App Store免费榜第一。 作为一个白手起家把Meta做到万亿美元级别的企业家，扎克伯格这些年一直信奉一种很朴素的产品哲学：买得到就买，买不到就自己做。 去年底，Meta花20多亿美元收购Manus。逻辑并不复杂：Agent既然已经有人跑通，最快的办法当然是直接买下来。结果监管部门踩下刹车，交易最终流产。 但这并没有改变Meta的方向。买不成，就自己做；别人已 ...",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "bing"
+  },
+  {
+   "title": "Meta Muse Revenue and Usage Statistics (2026) - Business of Apps",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR2dNZkxBVGxtWU9lRXhxY05sZnpuc3Z3NnhXLWZtbk52M3pDc3JuaVljZVRBQS0wSFQ3UmZ5MndGNGxPanVub3UtdHNfY216ZVBCazNEZ3dFXzhocXdRR2JOeC1ZWHYxN0JidGkzbWhSVnVDUXdkR3J4NTE2Q1FZajRwZkRIanM?oc=5",
+   "source": "Business of Apps",
+   "published": "2026-09-28T18:39:56+00:00",
+   "desc": "Meta Muse Revenue and Usage Statistics (2026)    Business of Apps",
+   "org_key": "meta",
+   "org": "Meta AI",
+   "origin": "gnews"
+  }
+ ]
+}
